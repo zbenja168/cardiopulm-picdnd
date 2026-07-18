@@ -5,6 +5,7 @@
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
     "brick": "Acute Pericarditis",
+    "order": 1000000,
     "explanation": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade."
   },
   {
@@ -13,6 +14,7 @@
     "label": "Fibrinous pericarditis",
     "category": "Pathology",
     "brick": "Acute Pericarditis",
+    "order": 1000000,
     "explanation": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis."
   },
   {
@@ -21,6 +23,7 @@
     "label": "Erythema marginatum",
     "category": "Pathology",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 1000000,
     "explanation": "Erythema marginatum — an evanescent, annular rash with central clearing over the trunk and proximal limbs — is a major Jones criterion for acute rheumatic fever."
   },
   {
@@ -29,6 +32,7 @@
     "label": "Streptococcus pyogenes",
     "category": "Lab & Diagnostics",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 1000000,
     "explanation": "Group A Streptococcus (S. pyogenes) is a gram-positive coccus in chains; pharyngitis with this organism triggers the immune cross-reaction that causes acute rheumatic fever."
   },
   {
@@ -37,6 +41,7 @@
     "label": "Anitschkow cells",
     "category": "Histology & Cell Biology",
     "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "order": 1000000,
     "explanation": "Anitschkow cells are activated macrophages with a characteristic central bar of chromatin giving a caterpillar (or owl-eye in cross-section) appearance. They aggregate within Aschoff bodies and are a histologic hallmark of rheumatic carditis."
   },
   {
@@ -45,6 +50,7 @@
     "label": "Echocardiogram",
     "category": "Lab & Diagnostics",
     "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "order": 1000000,
     "explanation": "The real-time grayscale sector image with a simultaneous ECG gate is transthoracic echocardiography; the superimposed red/blue mosaic is color-flow Doppler encoding blood velocity toward (red) and away from (blue) the transducer, used here to reveal shunt flow."
   },
   {
@@ -53,6 +59,7 @@
     "label": "Differential cyanosis",
     "category": "Lab & Diagnostics",
     "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "order": 1000000,
     "explanation": "Differential cyanosis (pink upper body, cyanotic lower body) occurs when deoxygenated blood shunts right-to-left through a patent ductus arteriosus into the descending aorta distal to the arch vessels, as in a PDA with pulmonary hypertension/Eisenmenger physiology or a coarctation with PDA."
   },
   {
@@ -61,6 +68,7 @@
     "label": "Diaphragm",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "order": 1000000,
     "explanation": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration."
   },
   {
@@ -69,6 +77,7 @@
     "label": "Diaphragm",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "order": 1000000,
     "explanation": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level."
   },
   {
@@ -77,6 +86,7 @@
     "label": "Phrenic nerve",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "order": 1000000,
     "explanation": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm)."
   },
   {
@@ -85,6 +95,7 @@
     "label": "Cardiac skeleton",
     "category": "Physiology & Mechanisms",
     "brick": "Anatomy of the Heart",
+    "order": 1000000,
     "explanation": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread."
   },
   {
@@ -93,6 +104,7 @@
     "label": "Mitral valve",
     "category": "Physiology & Mechanisms",
     "brick": "Anatomy of the Heart",
+    "order": 1000000,
     "explanation": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole."
   },
   {
@@ -101,6 +113,7 @@
     "label": "Barium esophagram",
     "category": "Lab & Diagnostics",
     "brick": "Anatomy of the Heart",
+    "order": 1000000,
     "explanation": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement."
   },
   {
@@ -109,6 +122,7 @@
     "label": "Fossa ovalis",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Heart",
+    "order": 1000000,
     "explanation": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established."
   },
   {
@@ -117,6 +131,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Anatomy of the Lower Respiratory Tract",
+    "order": 1000000,
     "explanation": "Air is far less radio-dense than soft tissue or bone. X-rays pass easily through the air-filled alveoli and expose (darken) the film, whereas the muscular, blood-filled heart absorbs the beam and appears white."
   },
   {
@@ -125,6 +140,7 @@
     "label": "Lung hilum",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Lower Respiratory Tract",
+    "order": 1000000,
     "explanation": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung."
   },
   {
@@ -133,6 +149,7 @@
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
     "brick": "Anatomy of the Lower Respiratory Tract",
+    "order": 1000000,
     "explanation": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment."
   },
   {
@@ -141,6 +158,7 @@
     "label": "Bronchial tree",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Lower Respiratory Tract",
+    "order": 1000000,
     "explanation": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs."
   },
   {
@@ -149,6 +167,7 @@
     "label": "Bronchopulmonary segments",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Lower Respiratory Tract",
+    "order": 1000000,
     "explanation": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors."
   },
   {
@@ -157,6 +176,7 @@
     "label": "Laryngopharynx",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Upper Respiratory Tract",
+    "order": 1000000,
     "explanation": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal."
   },
   {
@@ -165,6 +185,7 @@
     "label": "Paranasal sinuses",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Upper Respiratory Tract",
+    "order": 1000000,
     "explanation": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function."
   },
   {
@@ -173,6 +194,7 @@
     "label": "Nasal conchae",
     "category": "Gross Anatomy",
     "brick": "Anatomy of the Upper Respiratory Tract",
+    "order": 1000000,
     "explanation": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain."
   },
   {
@@ -181,6 +203,7 @@
     "label": "Coronary CT angiography",
     "category": "Lab & Diagnostics",
     "brick": "Angina Pectoris",
+    "order": 1000000,
     "explanation": "Coronary CT angiography visualizes the coronary lumen and wall noninvasively. Narrowing with adjacent (often calcified) plaque indicates atherosclerotic stenosis, the anatomic substrate for angina and acute coronary syndromes."
   },
   {
@@ -189,6 +212,7 @@
     "label": "Coronary angiogram",
     "category": "Lab & Diagnostics",
     "brick": "Angina Pectoris",
+    "order": 1000000,
     "explanation": "Invasive coronary angiography injects contrast directly into the coronary arteries via a catheter. A focal reduction in contrast column (arrows) indicates a hemodynamically significant stenosis, the gold-standard demonstration of obstructive coronary disease."
   },
   {
@@ -197,6 +221,7 @@
     "label": "Voltage-gated sodium channel",
     "category": "Physiology & Mechanisms",
     "brick": "Antiarrhythmic Agents - Class I Drugs",
+    "order": 1000000,
     "explanation": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states."
   },
   {
@@ -205,6 +230,7 @@
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
     "brick": "Antiarrhythmic Agents - Class I Drugs",
+    "order": 1000000,
     "explanation": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it."
   },
   {
@@ -213,6 +239,7 @@
     "label": "Ruptured aortic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "The bright contrast-filled aorta with an adjacent large blood collection extending into the retroperitoneum indicates a ruptured aortic aneurysm, a surgical emergency with high mortality."
   },
   {
@@ -221,6 +248,7 @@
     "label": "Blue toe syndrome",
     "category": "Pathology",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "Blue toe syndrome results from showers of atheromatous/cholesterol emboli from a proximal aneurysm or atherosclerotic aorta lodging in digital vessels, producing painful cyanotic toes with preserved proximal pulses."
   },
   {
@@ -229,6 +257,7 @@
     "label": "Abdominal palpation",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "AAA is classically detected as a pulsatile, laterally expansile mass in the epigastrium/periumbilical region on bimanual palpation, though sensitivity is limited in obese patients."
   },
   {
@@ -237,6 +266,7 @@
     "label": "Widened mediastinum",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "A widened mediastinum on chest X-ray is a classic red flag for thoracic aortic pathology (aneurysm/dissection) and mandates urgent CT angiography to confirm."
   },
   {
@@ -245,6 +275,7 @@
     "label": "Aortic stent graft",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "The radiopaque stent-graft lining the aortic lumen indicates endovascular aneurysm repair, which excludes the aneurysm sac from arterial pressure via a covered stent deployed through a catheter."
   },
   {
@@ -253,6 +284,7 @@
     "label": "Popliteal artery aneurysm",
     "category": "Pathology",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "Popliteal artery aneurysms rupture less often than they thrombose or shed emboli; their major threat is acute or chronic limb ischemia from thrombosis and distal embolization."
   },
   {
@@ -261,6 +293,7 @@
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "A rounded, dilated prevertebral aortic contour with a thick low-density rim (mural thrombus) around a smaller patent lumen is the classic CT appearance of an abdominal aortic aneurysm."
   },
   {
@@ -269,6 +302,7 @@
     "label": "Femoral pseudoaneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "The 'yin-yang' swirling flow with a to-and-fro neck communicating with the femoral artery is the classic Doppler signature of a pseudoaneurysm, a common complication of arterial puncture."
   },
   {
@@ -277,6 +311,7 @@
     "label": "Thoracic aortic aneurysm",
     "category": "Pathology",
     "brick": "Aortic Aneurysm",
+    "order": 1000000,
     "explanation": "A thoracic (ascending/root) aortic aneurysm can dilate the aortic annulus, splaying the valve leaflets and producing aortic regurgitation, in addition to risks of dissection and rupture."
   },
   {
@@ -285,6 +320,7 @@
     "label": "Aortic dissection",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Dissection",
+    "order": 1000000,
     "explanation": "The image shows a true lumen and a false lumen separated by an intimal flap within the ascending aorta, the diagnostic hallmark of aortic dissection. Blood enters through an intimal tear and tracks within the media, creating the false lumen."
   },
   {
@@ -293,6 +329,7 @@
     "label": "Aortic dissection",
     "category": "Lab & Diagnostics",
     "brick": "Aortic Dissection",
+    "order": 1000000,
     "explanation": "Transesophageal echocardiography (TEE) is highly sensitive for aortic dissection, showing the intimal flap separating true and false lumens. TEE can be performed at the bedside in unstable patients and also assesses complications such as aortic regurgitation and pericardial effusion."
   },
   {
@@ -301,6 +338,7 @@
     "label": "Left ventricular hypertrophy",
     "category": "Pathology",
     "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "order": 1000000,
     "explanation": "The left ventricular free wall and septum are conspicuously thicker than the right ventricular wall, indicating left ventricular hypertrophy. This is a chronic adaptation to increased LV workload, as in hypertension or aortic valve disease."
   },
   {
@@ -309,6 +347,7 @@
     "label": "Aortic valve",
     "category": "Pathology",
     "brick": "Aortic Stenosis",
+    "order": 1000000,
     "explanation": "The cusps are heaped up with rigid calcific nodules that restrict opening, reducing the effective orifice area. This degenerative calcific process is the leading cause of aortic stenosis in older adults."
   },
   {
@@ -317,6 +356,7 @@
     "label": "Cardiac muscle",
     "category": "Histology & Cell Biology",
     "brick": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Intercalated discs are the step-like junctions unique to cardiac muscle; they contain desmosomes and gap junctions that mechanically and electrically couple cardiomyocytes. Desmosomal failure at these discs underlies ARVC."
   },
   {
@@ -325,6 +365,7 @@
     "label": "Livedo reticularis",
     "category": "Pathology",
     "brick": "Arterial Emboli",
+    "order": 1000000,
     "explanation": "Livedo reticularis is a lacy, reticulated purple mottling caused by partial obstruction/dilatation of dermal vasculature; it is a classic cutaneous clue to cholesterol/atheroembolic disease."
   },
   {
@@ -333,6 +374,7 @@
     "label": "Curschmann spiral",
     "category": "Pathology",
     "brick": "Asthma",
+    "order": 1000000,
     "explanation": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals."
   },
   {
@@ -341,6 +383,7 @@
     "label": "Aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Atherosclerosis",
+    "order": 1000000,
     "explanation": "The rounded contrast-filled sac projecting from the vessel is an aneurysm, a localized dilation of the arterial wall. Atherosclerosis with medial weakening is a common cause, and rupture is the feared complication."
   },
   {
@@ -349,6 +392,7 @@
     "label": "Atrial fibrillation",
     "category": "Lab & Diagnostics",
     "brick": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "order": 1000000,
     "explanation": "The absence of organized P waves combined with an irregularly irregular R-R interval is the hallmark of atrial fibrillation, caused by chaotic atrial electrical activity and variable AV nodal conduction."
   },
   {
@@ -357,6 +401,7 @@
     "label": "Honeycomb lung",
     "category": "Histology & Cell Biology",
     "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "order": 1000000,
     "explanation": "The clustered enlarged cystic spaces embedded in fibrous tissue represent honeycomb change, the histologic end point of usual interstitial pneumonia and other progressive fibrosing interstitial lung diseases."
   },
   {
@@ -365,6 +410,7 @@
     "label": "Alveolar hemorrhage",
     "category": "Histology & Cell Biology",
     "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "order": 1000000,
     "explanation": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis."
   },
   {
@@ -373,6 +419,7 @@
     "label": "Baroreceptor reflex",
     "category": "Physiology & Mechanisms",
     "brick": "Baroreceptor Regulation of Blood Pressure",
+    "order": 1000000,
     "explanation": "The baroreceptor reflex is a fast neural feedback loop acting within seconds to correct transient changes in blood pressure; sustained (long-term) pressure regulation is instead handled by renal control of volume."
   },
   {
@@ -381,6 +428,7 @@
     "label": "Bronchiectasis",
     "category": "Lab & Diagnostics",
     "brick": "Bronchiectasis",
+    "order": 1000000,
     "explanation": "Permanently dilated, thick-walled bronchi appear as ring shadows and tram-track opacities on plain film, the radiographic signature of bronchiectasis."
   },
   {
@@ -389,6 +437,7 @@
     "label": "Bronchiectasis",
     "category": "Lab & Diagnostics",
     "brick": "Bronchiectasis",
+    "order": 1000000,
     "explanation": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction."
   },
   {
@@ -397,6 +446,7 @@
     "label": "Bronchiectasis",
     "category": "Pathology",
     "brick": "Bronchiectasis",
+    "order": 1000000,
     "explanation": "Bronchiectasis is irreversible dilation of bronchi from destruction of the airway wall, leading to pooling of mucus (shown green) and recurrent infection, distinct from the reversible narrowing of asthma or the alveolar destruction of emphysema."
   },
   {
@@ -405,6 +455,7 @@
     "label": "Bronchiectasis",
     "category": "Pathology",
     "brick": "Bronchiectasis",
+    "order": 1000000,
     "explanation": "Grossly, bronchiectasis appears as permanently dilated bronchi extending abnormally close to the pleural surface, often filled with mucopurulent secretions, reflecting chronic infection and airway wall destruction."
   },
   {
@@ -413,6 +464,7 @@
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
     "brick": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "order": 1000000,
     "explanation": "The rising, then plateauing, curve of force versus preload is the Frank-Starling mechanism: greater end-diastolic stretch increases actin-myosin overlap and contractile force until overstretch limits further gain."
   },
   {
@@ -421,6 +473,7 @@
     "label": "Dicrotic notch",
     "category": "Physiology & Mechanisms",
     "brick": "Cardiac Cycle",
+    "order": 1000000,
     "explanation": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole."
   },
   {
@@ -429,6 +482,7 @@
     "label": "Jugular venous pressure",
     "category": "Lab & Diagnostics",
     "brick": "Cardiac Cycle",
+    "order": 1000000,
     "explanation": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling."
   },
   {
@@ -437,6 +491,7 @@
     "label": "Cardiac myxoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms."
   },
   {
@@ -445,6 +500,7 @@
     "label": "Cardiac myxoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow."
   },
   {
@@ -453,6 +509,7 @@
     "label": "Cardiac rhabdomyoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell')."
   },
   {
@@ -461,6 +518,7 @@
     "label": "Spider cell",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery."
   },
   {
@@ -469,6 +527,7 @@
     "label": "Cardiac myxoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize."
   },
   {
@@ -477,6 +536,7 @@
     "label": "Cardiac myxoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'."
   },
   {
@@ -485,6 +545,7 @@
     "label": "Cardiac myxoma",
     "category": "Pathology",
     "brick": "Cardiac Tumors",
+    "order": 1000000,
     "explanation": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells."
   },
   {
@@ -493,6 +554,7 @@
     "label": "Venous return curve",
     "category": "Physiology & Mechanisms",
     "brick": "Cardiac and Vascular Function Curves",
+    "order": 1000000,
     "explanation": "Adding volume or increasing venous tone raises the mean circulatory filling pressure (the x-intercept where venous return is zero), shifting the entire venous return curve rightward and upward and increasing venous return at any given right atrial pressure."
   },
   {
@@ -501,6 +563,7 @@
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
     "brick": "Cardiac and Vascular Function Curves",
+    "order": 1000000,
     "explanation": "The Frank-Starling relationship states that increased ventricular filling (preload/EDV) stretches the myocardium and increases stroke volume and cardiac output, until the curve plateaus. This intrinsic mechanism matches output to venous return on a beat-to-beat basis."
   },
   {
@@ -509,6 +572,7 @@
     "label": "Venous return curve",
     "category": "Physiology & Mechanisms",
     "brick": "Cardiac and Vascular Function Curves",
+    "order": 1000000,
     "explanation": "The x-intercept is the mean circulatory filling pressure: the pressure everywhere in the vasculature when the heart stops and flow ceases (normally ~7 mmHg). It reflects blood volume and venous compliance/tone, and it is the driving pressure for venous return."
   },
   {
@@ -517,6 +581,7 @@
     "label": "Carotid angiogram",
     "category": "Pathology",
     "brick": "Carotid Stenosis",
+    "order": 1000000,
     "explanation": "At branch points such as the carotid bifurcation, disturbed flow with regions of low and oscillatory wall shear stress upregulates adhesion molecules and impairs endothelial function, favoring atherosclerosis. The internal carotid origin is the classic site of high-grade stenosis."
   },
   {
@@ -525,6 +590,7 @@
     "label": "Carotid stenosis",
     "category": "Lab & Diagnostics",
     "brick": "Carotid Stenosis",
+    "order": 1000000,
     "explanation": "The arrows mark an abrupt focal narrowing of the contrast column, the angiographic hallmark of an atherosclerotic carotid stenosis. Unlike the smooth tapering of dissection or the beaded appearance of fibromuscular dysplasia, this is a discrete plaque-related luminal loss."
   },
   {
@@ -533,6 +599,7 @@
     "label": "Carotid endarterectomy",
     "category": "Gross Anatomy",
     "brick": "Carotid Stenosis",
+    "order": 1000000,
     "explanation": "Carotid endarterectomy involves a longitudinal arteriotomy with surgical removal of the atheromatous plaque and closure of the vessel. It reduces stroke risk in patients with symptomatic high-grade internal carotid stenosis."
   },
   {
@@ -541,6 +608,7 @@
     "label": "Atherosclerotic plaque",
     "category": "Pathology",
     "brick": "Carotid Stenosis",
+    "order": 1000000,
     "explanation": "The yellow lipid-rich core with fibrous cap is a classic atheroma. Such plaques narrow the carotid lumen and, on ulceration, serve as a source of artery-to-artery emboli causing stroke or transient ischemic attack."
   },
   {
@@ -549,6 +617,7 @@
     "label": "Non-contrast head CT",
     "category": "Lab & Diagnostics",
     "brick": "Carotid Stenosis",
+    "order": 1000000,
     "explanation": "Non-contrast CT is fast and highly sensitive for blood; its first role in acute stroke is to rule out hemorrhage, which contraindicates thrombolysis. Early ischemic infarcts are often subtle or invisible on the initial scan."
   },
   {
@@ -557,6 +626,7 @@
     "label": "Barrel chest",
     "category": "Physiology & Mechanisms",
     "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "order": 1000000,
     "explanation": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest."
   },
   {
@@ -565,6 +635,7 @@
     "label": "Squamous metaplasia",
     "category": "Pathology",
     "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "order": 1000000,
     "explanation": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia."
   },
   {
@@ -573,6 +644,7 @@
     "label": "Chest radiograph",
     "category": "Lab & Diagnostics",
     "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "order": 1000000,
     "explanation": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation."
   },
   {
@@ -581,6 +653,7 @@
     "label": "Lateral chest radiograph",
     "category": "Lab & Diagnostics",
     "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "order": 1000000,
     "explanation": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film."
   },
   {
@@ -589,6 +662,7 @@
     "label": "Cyanosis",
     "category": "Pathology",
     "brick": "Congenital Heart Defects: Foundations and Frameworks",
+    "order": 1000000,
     "explanation": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration."
   },
   {
@@ -597,6 +671,7 @@
     "label": "Clubbing",
     "category": "Pathology",
     "brick": "Congenital Heart Defects: Foundations and Frameworks",
+    "order": 1000000,
     "explanation": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt."
   },
   {
@@ -605,6 +680,7 @@
     "label": "Pericardium",
     "category": "Pathology",
     "brick": "Constrictive Pericarditis",
+    "order": 1000000,
     "explanation": "In constrictive pericarditis the fibrotic, rigid pericardium encases the heart and prevents adequate diastolic filling; pericardiectomy (removal of the pericardium) frees the ventricles to fill normally, relieving the constriction."
   },
   {
@@ -613,6 +689,7 @@
     "label": "Brainstem",
     "category": "Physiology & Mechanisms",
     "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "order": 1000000,
     "explanation": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks."
   },
   {
@@ -621,6 +698,7 @@
     "label": "Sternum",
     "category": "Gross Anatomy",
     "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "order": 1000000,
     "explanation": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage."
   },
   {
@@ -629,6 +707,7 @@
     "label": "Medulla oblongata",
     "category": "Physiology & Mechanisms",
     "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "order": 1000000,
     "explanation": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm."
   },
   {
@@ -637,6 +716,7 @@
     "label": "External intercostal muscles",
     "category": "Physiology & Mechanisms",
     "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "order": 1000000,
     "explanation": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in."
   },
   {
@@ -645,6 +725,7 @@
     "label": "Diaphragm",
     "category": "Gross Anatomy",
     "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "order": 1000000,
     "explanation": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration."
   },
   {
@@ -653,6 +734,7 @@
     "label": "Coronary arteries",
     "category": "Gross Anatomy",
     "brick": "Coronary Blood Flow- Vascular Physiology",
+    "order": 1000000,
     "explanation": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes."
   },
   {
@@ -661,6 +743,7 @@
     "label": "Boot-shaped heart",
     "category": "Lab & Diagnostics",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette."
   },
   {
@@ -669,6 +752,7 @@
     "label": "Truncus arteriosus",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood."
   },
   {
@@ -677,6 +761,7 @@
     "label": "Cyanosis",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation."
   },
   {
@@ -685,6 +770,7 @@
     "label": "Cardiac MRI",
     "category": "Lab & Diagnostics",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging."
   },
   {
@@ -693,6 +779,7 @@
     "label": "Tetralogy of Fallot",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood."
   },
   {
@@ -701,6 +788,7 @@
     "label": "Cyanosis",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation."
   },
   {
@@ -709,6 +797,7 @@
     "label": "Clubbing",
     "category": "Pathology",
     "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "order": 1000000,
     "explanation": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing."
   },
   {
@@ -717,6 +806,7 @@
     "label": "Bronchiectasis",
     "category": "Pathology",
     "brick": "Cystic Fibrosis (1 of 2)",
+    "order": 1000000,
     "explanation": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis."
   },
   {
@@ -725,6 +815,7 @@
     "label": "Chest physiotherapy vest",
     "category": "Physiology & Mechanisms",
     "brick": "Cystic Fibrosis (2 of 2)",
+    "order": 1000000,
     "explanation": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care."
   },
   {
@@ -733,6 +824,7 @@
     "label": "Deep vein thrombosis",
     "category": "Pathology",
     "brick": "Deep Vein Thrombosis",
+    "order": 1000000,
     "explanation": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause."
   },
   {
@@ -741,6 +833,7 @@
     "label": "Compression ultrasound",
     "category": "Lab & Diagnostics",
     "brick": "Deep Vein Thrombosis",
+    "order": 1000000,
     "explanation": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis."
   },
   {
@@ -749,6 +842,7 @@
     "label": "Pneumatic compression device",
     "category": "Physiology & Mechanisms",
     "brick": "Deep Vein Thrombosis",
+    "order": 1000000,
     "explanation": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients."
   },
   {
@@ -757,6 +851,7 @@
     "label": "Embolus",
     "category": "Pathology",
     "brick": "Deep Vein Thrombosis",
+    "order": 1000000,
     "explanation": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists."
   },
   {
@@ -765,6 +860,7 @@
     "label": "Virchow's triad",
     "category": "Pathology",
     "brick": "Deep Vein Thrombosis",
+    "order": 1000000,
     "explanation": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk."
   },
   {
@@ -773,6 +869,7 @@
     "label": "Thyroid gland",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically."
   },
   {
@@ -781,6 +878,7 @@
     "label": "Pharyngeal arches",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels."
   },
   {
@@ -789,6 +887,7 @@
     "label": "Pharyngeal cleft",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus."
   },
   {
@@ -797,6 +896,7 @@
     "label": "Somites",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization."
   },
   {
@@ -805,6 +905,7 @@
     "label": "Aortic arches",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches."
   },
   {
@@ -813,6 +914,7 @@
     "label": "Ductus arteriosus",
     "category": "Gross Anatomy",
     "brick": "Development of the Aortic Arches",
+    "order": 1000000,
     "explanation": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum."
   },
   {
@@ -821,6 +923,7 @@
     "label": "Alveolus",
     "category": "Histology & Cell Biology",
     "brick": "Development of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The cuboidal type II pneumocyte secretes pulmonary surfactant, which lowers alveolar surface tension and prevents alveolar collapse at end-expiration. Type I pneumocytes form the thin gas-exchange surface, and macrophages clear debris; endothelial cells line the capillary."
   },
   {
@@ -829,6 +932,7 @@
     "label": "Lung",
     "category": "Histology & Cell Biology",
     "brick": "Development of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The delicate polygonal air spaces (alveoli) with thin capillary-containing septa opening off a bronchiolar lumen are the defining histologic architecture of lung parenchyma, specialized for gas exchange."
   },
   {
@@ -837,6 +941,7 @@
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion."
   },
   {
@@ -845,6 +950,7 @@
     "label": "Coronary stent",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "A balloon compresses the atherosclerotic plaque and deploys a stent that scaffolds the widened lumen to maintain increased blood flow, the standard percutaneous treatment for a flow-limiting coronary stenosis."
   },
   {
@@ -853,6 +959,7 @@
     "label": "Coronary calcium",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The red circles mark calcified atherosclerotic plaque in the coronary arteries. Coronary artery calcium scoring on non-contrast CT quantifies atherosclerotic burden and refines cardiovascular risk stratification."
   },
   {
@@ -861,6 +968,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "This is a bedside portable chest X-ray obtained supine in the AP projection, common in critically ill patients who cannot stand for a standard PA film. AP supine technique magnifies the heart and mediastinum."
   },
   {
@@ -869,6 +977,7 @@
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Multiple modalities are used to measure the dilated abdominal aorta, whose diameter (>3 cm, here 5.5 cm) defines an aneurysm. Size on serial imaging guides surgical repair decisions."
   },
   {
@@ -877,6 +986,7 @@
     "label": "Suprasternal notch view",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The suprasternal notch echocardiographic view images the aortic arch with the innominate, left common carotid, and left subclavian arteries, useful for assessing dissection, coarctation, and arch pathology."
   },
   {
@@ -885,6 +995,7 @@
     "label": "Ascending aortic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "All three modalities demonstrate abnormal dilation of the ascending aorta above the sinotubular junction, compared to the smaller descending aorta. Diameter drives the threshold for elective surgical repair."
   },
   {
@@ -893,6 +1004,7 @@
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "An abdominal aorta exceeding roughly 3 cm is aneurysmal. The bottom panel shows contrast and blood extending beyond the aortic wall, indicating a life-threatening rupture."
   },
   {
@@ -901,6 +1013,7 @@
     "label": "Angiography",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Conventional angiography and CT angiographic 3D reconstruction opacify the iliofemoral arterial tree to localize atherosclerotic narrowing or occlusion, guiding revascularization in peripheral arterial disease."
   },
   {
@@ -909,6 +1022,7 @@
     "label": "Peripheral arterial disease",
     "category": "Pathology",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Diffuse narrowing and reduced distal opacification of the tibial arteries reflect atherosclerotic peripheral arterial disease, which reduces limb perfusion and causes claudication or critical limb ischemia."
   },
   {
@@ -917,6 +1031,7 @@
     "label": "Traumatic aortic injury",
     "category": "Pathology",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Blunt traumatic aortic injury typically occurs at the isthmus just distal to the left subclavian artery, where the mobile arch meets the fixed descending aorta; deceleration forces shear the wall at this tethered point."
   },
   {
@@ -925,6 +1040,7 @@
     "label": "Traumatic aortic injury mechanisms",
     "category": "Physiology & Mechanisms",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The diagram illustrates how deceleration generates osseous pinch, torsion, a water-hammer pressure surge, and stretching/shearing at the aortic isthmus, explaining why blunt trauma injures the aorta at this vulnerable site."
   },
   {
@@ -933,6 +1049,7 @@
     "label": "Aortic dissection",
     "category": "Pathology",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The blue ovals mark an intimal flap, the hallmark of aortic dissection, where blood enters and splits the intima from the media creating a false lumen. On chest X-ray this may appear as a widened mediastinum."
   },
   {
@@ -941,6 +1058,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "A routine chest X-ray series pairs a posteroanterior (frontal) view with a lateral view; the lateral projection helps localize lesions in the anteroposterior dimension and evaluate retrocardiac and retrosternal spaces."
   },
   {
@@ -949,6 +1067,7 @@
     "label": "Retrosternal mass",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The lateral view and CT localize the mass behind the sternum in the anterior mediastinum, the compartment classically home to thymoma, teratoma, lymphoma, and thyroid masses (the 'terrible Ts')."
   },
   {
@@ -957,6 +1076,7 @@
     "label": "Pericardial effusion",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "A large pericardial effusion produces a globular, symmetric 'water-bottle' cardiac silhouette that distends the pericardial sac, distinct from true chamber enlargement seen in cardiomegaly."
   },
   {
@@ -965,6 +1085,7 @@
     "label": "Pulmonary edema",
     "category": "Pathology",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "The combination of upper-lobe vascular redistribution, peribronchial cuffing, Kerley B lines, hilar congestion, and an enlarged heart reflects elevated pulmonary venous pressure from left heart failure causing interstitial pulmonary edema."
   },
   {
@@ -973,6 +1094,7 @@
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "This is a portable (bedside) chest X-ray taken with the patient upright, indicated by the PORTABLE/UPRIGHT annotation and the tangle of external ICU leads and tubing overlying the thorax."
   },
   {
@@ -981,6 +1103,7 @@
     "label": "Cardiogenic pulmonary edema",
     "category": "Physiology & Mechanisms",
     "brick": "Diagnosis by Cardiovascular Imaging",
+    "order": 1000000,
     "explanation": "Cardiogenic pulmonary edema arises when failing left heart function raises left atrial and pulmonary venous pressure, driving fluid into the interstitium and alveoli, producing the perihilar batwing pattern and Kerley B lines."
   },
   {
@@ -989,6 +1112,7 @@
     "label": "Pulmonary edema",
     "category": "Pathology",
     "brick": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "order": 1000000,
     "explanation": "The symmetric bilateral hazy opacities radiating from the hila indicate pulmonary edema, fluid extravasated into the interstitium and alveoli from elevated pulmonary venous pressure in decompensated heart failure."
   },
   {
@@ -997,6 +1121,7 @@
     "label": "Dilated cardiomyopathy",
     "category": "Pathology",
     "brick": "Dilated Cardiomyopathy",
+    "order": 1000000,
     "explanation": "A dilated, thin-walled ventricular chamber with an increased volume-to-mass ratio is the classic gross appearance of dilated cardiomyopathy."
   },
   {
@@ -1005,6 +1130,7 @@
     "label": "Myocarditis",
     "category": "Histology & Cell Biology",
     "brick": "Dilated Cardiomyopathy",
+    "order": 1000000,
     "explanation": "An interstitial lymphocytic infiltrate with associated myocyte injury defines lymphocytic myocarditis, a common cause of secondary dilated cardiomyopathy."
   },
   {
@@ -1013,6 +1139,7 @@
     "label": "Xanthelasma",
     "category": "Pathology",
     "brick": "Dyslipidemia: Pathophysiology",
+    "order": 1000000,
     "explanation": "Xanthelasma are lipid-laden macrophage deposits in the periorbital skin and are a cutaneous marker of dyslipidemia, especially elevated LDL cholesterol."
   },
   {
@@ -1021,6 +1148,7 @@
     "label": "Corneal arcus",
     "category": "Pathology",
     "brick": "Dyslipidemia: Pathophysiology",
+    "order": 1000000,
     "explanation": "Corneal arcus is a ring of lipid deposition at the corneal margin; when present in younger patients it suggests underlying hyperlipidemia."
   },
   {
@@ -1029,6 +1157,7 @@
     "label": "Inclisiran",
     "category": "Pharmacology",
     "brick": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "order": 1000000,
     "explanation": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood."
   },
   {
@@ -1037,6 +1166,7 @@
     "label": "Sinus tachycardia",
     "category": "Lab & Diagnostics",
     "brick": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "order": 1000000,
     "explanation": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart."
   },
   {
@@ -1045,6 +1175,7 @@
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
     "brick": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "order": 1000000,
     "explanation": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes."
   },
   {
@@ -1053,6 +1184,7 @@
     "label": "Ascites",
     "category": "Pathology",
     "brick": "Edema",
+    "order": 1000000,
     "explanation": "Ascites is the pathological accumulation of fluid within the peritoneal cavity, most often from portal hypertension (cirrhosis) or heart failure. The tense distension and visible collateral veins reflect the same imbalance in Starling forces and sodium retention that drives peripheral edema."
   },
   {
@@ -1061,6 +1193,7 @@
     "label": "Pitting edema",
     "category": "Pathology",
     "brick": "Edema",
+    "order": 1000000,
     "explanation": "Pressure that displaces interstitial fluid and leaves a lingering pit indicates pitting edema, typical of fluid overload from heart failure, hypoalbuminemia, or venous insufficiency. Non-pitting swelling (myxedema, chronic lymphedema) does not retain the indentation."
   },
   {
@@ -1069,6 +1202,7 @@
     "label": "Precordial lead placement",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "The precordial (chest) leads V1 through V6 encircle the thorax and view the heart's depolarization in the horizontal plane, complementing the limb leads that view the frontal plane. Together they localize activity in two perpendicular planes."
   },
   {
@@ -1077,6 +1211,7 @@
     "label": "Einthoven triangle",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "In lead II the positive electrode is at the left leg; ventricular depolarization spreads from the AV node down and to the left, nearly parallel to and toward this electrode, producing a tall upright QRS."
   },
   {
@@ -1085,6 +1220,7 @@
     "label": "QRS complex",
     "category": "Physiology & Mechanisms",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "The QRS complex reflects rapid depolarization of the ventricular myocardium; the P wave is atrial depolarization and the T wave is ventricular repolarization."
   },
   {
@@ -1093,6 +1229,7 @@
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "A standard 12-lead ECG records brief segments of each lead; the long bottom strip is a continuous rhythm strip (often lead II or V1) used to evaluate rate and rhythm across many beats."
   },
   {
@@ -1101,6 +1238,7 @@
     "label": "Cardiac action potential",
     "category": "Physiology & Mechanisms",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "Phase 2 is the plateau of the ventricular action potential, produced by inward Ca2+ current balancing outward K+ current; this prolonged depolarization underlies the refractory period and corresponds to the ST segment."
   },
   {
@@ -1109,6 +1247,7 @@
     "label": "Limb leads",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "The six limb leads (I, II, III, aVR, aVL, aVF) view the heart from different angles in the frontal plane; comparing their deflections lets one calculate the mean QRS electrical axis."
   },
   {
@@ -1117,6 +1256,7 @@
     "label": "Limb electrode placement",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "order": 1000000,
     "explanation": "The right leg (green) electrode is a ground/reference used for noise reduction and does not contribute directly to the recorded limb-lead vectors."
   },
   {
@@ -1125,6 +1265,7 @@
     "label": "R-R interval",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "order": 1000000,
     "explanation": "The R-R interval is the time between successive R waves; because it represents one full beat-to-beat cycle, it is used to calculate heart rate."
   },
   {
@@ -1133,6 +1274,7 @@
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "order": 1000000,
     "explanation": "The simultaneous display of the six limb leads (I, II, III, aVR, aVL, aVF) and six precordial leads (V1-V6) on pink graph paper is the standard format of a 12-lead ECG, which records the heart's electrical activity from multiple spatial vantage points."
   },
   {
@@ -1141,6 +1283,7 @@
     "label": "ECG lead axes",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "order": 1000000,
     "explanation": "The arrows show that the limb leads (frontal plane) and precordial leads (horizontal plane) each 'look at' the heart's depolarization from a distinct angle. Combining these views lets the ECG localize electrical events in three dimensions."
   },
   {
@@ -1149,6 +1292,7 @@
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
     "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "order": 1000000,
     "explanation": "The continuously changing QRS amplitude that appears to 'twist' around the isoelectric baseline is characteristic of torsades de pointes, a polymorphic ventricular tachycardia associated with a prolonged QT interval."
   },
   {
@@ -1157,6 +1301,7 @@
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "order": 1000000,
     "explanation": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks."
   },
   {
@@ -1165,6 +1310,7 @@
     "label": "Cardiac conduction system",
     "category": "Physiology & Mechanisms",
     "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "order": 1000000,
     "explanation": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block."
   },
   {
@@ -1173,6 +1319,7 @@
     "label": "Left bundle branch block",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "order": 1000000,
     "explanation": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads."
   },
   {
@@ -1181,6 +1328,7 @@
     "label": "Right bundle branch block",
     "category": "Lab & Diagnostics",
     "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "order": 1000000,
     "explanation": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation."
   },
   {
@@ -1189,6 +1337,7 @@
     "label": "Sphygmomanometer",
     "category": "Lab & Diagnostics",
     "brick": "Hemodynamics: Blood Pressure",
+    "order": 1000000,
     "explanation": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure."
   },
   {
@@ -1197,6 +1346,7 @@
     "label": "Elastic fibers",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "The wavy, refractile, dark-purple/black branching fibers are elastic fibers highlighted by an elastic stain (e.g., Verhoeff/orcein). Their recoil property underlies the elasticity of arteries such as the aorta."
   },
   {
@@ -1205,6 +1355,7 @@
     "label": "Vein",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "Veins have thin walls and large lumina and operate under low pressure, serving as capacitance (reservoir) vessels that hold much of the circulating blood volume. The thin wall cannot resist the high pressures seen in arteries."
   },
   {
@@ -1213,6 +1364,7 @@
     "label": "Capillary",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "Capillaries consist essentially of a single endothelial layer and basement membrane; this minimal barrier is optimized for diffusion/exchange of O2, CO2, nutrients, and metabolic wastes between blood and tissue."
   },
   {
@@ -1221,6 +1373,7 @@
     "label": "Sinusoidal fenestrae",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "Sinusoidal fenestrae are large openings in the endothelium (with discontinuous basement membrane) that allow proteins, and even whole cells, to move between blood and tissue, a property essential in liver, spleen, and bone marrow."
   },
   {
@@ -1229,6 +1382,7 @@
     "label": "Lymphatic capillary",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "Lymphatic capillaries have a highly attenuated, overlapping endothelium with anchoring filaments and an absent/discontinuous basement membrane, permitting entry of interstitial fluid and macromolecules to form lymph."
   },
   {
@@ -1237,6 +1391,7 @@
     "label": "Muscular artery",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "A single prominent, wavy internal elastic lamina between intima and media is the hallmark of a muscular artery; the waviness results from post-mortem smooth muscle contraction."
   },
   {
@@ -1245,6 +1400,7 @@
     "label": "Elastic artery",
     "category": "Histology & Cell Biology",
     "brick": "Histology of Blood Vessels and Lymphatics",
+    "order": 1000000,
     "explanation": "Numerous concentric elastic lamellae throughout a thick media identify an elastic (conducting) artery such as the aorta; the elastin stores energy during systole and recoils during diastole (Windkessel effect) to maintain continuous flow."
   },
   {
@@ -1253,6 +1409,7 @@
     "label": "Cardiac muscle",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Heart",
+    "order": 1000000,
     "explanation": "Branching fibers with single central nuclei and interposed capillaries are diagnostic of cardiac muscle, distinguishing it from multinucleated peripheral-nucleus skeletal muscle and spindle-shaped smooth muscle."
   },
   {
@@ -1261,6 +1418,7 @@
     "label": "Intercalated disc",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Heart",
+    "order": 1000000,
     "explanation": "Intercalated discs are specialized step-like junctions between cardiomyocytes containing desmosomes/fasciae adherentes (mechanical linkage) and gap junctions (electrical continuity), enabling the myocardium to contract as a functional syncytium."
   },
   {
@@ -1269,6 +1427,7 @@
     "label": "Epicardium",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Heart",
+    "order": 1000000,
     "explanation": "The outer surface mesothelium overlying loose connective tissue, adipose, nerves and vessels directly on myocardium is the epicardium, i.e. the visceral layer of the serous pericardium."
   },
   {
@@ -1277,6 +1436,7 @@
     "label": "Trachea",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Pseudostratified ciliated columnar (respiratory) epithelium resting on a mucosa/submucosa supported by hyaline cartilage is characteristic of the trachea and large bronchi of the conducting airways."
   },
   {
@@ -1285,6 +1445,7 @@
     "label": "Bronchiole",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "A small conducting airway lacking cartilage and glands but wrapped by a relatively prominent smooth muscle layer, surrounded by alveoli, identifies a bronchiole; the absence of cartilage distinguishes it from bronchi."
   },
   {
@@ -1293,6 +1454,7 @@
     "label": "Bronchus",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The bronchial epithelium is pseudostratified ciliated columnar with goblet cells; cilia sweep mucus-trapped debris up toward the pharynx (mucociliary escalator). Gas exchange occurs only in alveoli, not conducting airways."
   },
   {
@@ -1301,6 +1463,7 @@
     "label": "Alveolus",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Type 2 pneumocytes (cuboidal cells) secrete surfactant, which reduces surface tension and prevents alveolar collapse. Type 1 pneumocytes form the thin gas-exchange surface, and dust cells (macrophages) clear debris."
   },
   {
@@ -1309,6 +1472,7 @@
     "label": "Blood-air barrier",
     "category": "Physiology & Mechanisms",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Gas exchange across the blood-air barrier is passive: O2 and CO2 diffuse down their respective partial pressure gradients through the thin Type 1 pneumocyte, fused basement membrane, and capillary endothelium."
   },
   {
@@ -1317,6 +1481,7 @@
     "label": "Lung",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The delicate alveolar architecture with Type 1/Type 2 pneumocytes and macrophages is characteristic of lung parenchyma."
   },
   {
@@ -1325,6 +1490,7 @@
     "label": "Visceral pleura",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The visceral pleura is a serous membrane covering the lung; together with the parietal pleura and pleural fluid it minimizes friction as the lung expands and recoils during breathing."
   },
   {
@@ -1333,6 +1499,7 @@
     "label": "Pseudostratified columnar epithelium",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Pseudostratified ciliated columnar epithelium with goblet cells lines the trachea; coordinated ciliary beating propels mucus and trapped debris upward (mucociliary escalator)."
   },
   {
@@ -1341,6 +1508,7 @@
     "label": "Nasal cavity",
     "category": "Gross Anatomy",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof."
   },
   {
@@ -1349,6 +1517,7 @@
     "label": "Olfactory epithelium",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "The olfactory epithelium contains bipolar olfactory receptor neurons whose cilia detect odorants; supporting (sustentacular) and basal cells complete the epithelium."
   },
   {
@@ -1357,6 +1526,7 @@
     "label": "Respiratory epithelium",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Goblet cells secrete mucus that traps debris and microbes; the cilia of columnar cells then sweep this mucus toward the pharynx, while basal cells act as the regenerative reserve."
   },
   {
@@ -1365,6 +1535,7 @@
     "label": "Stratified squamous epithelium",
     "category": "Histology & Cell Biology",
     "brick": "Histology of the Respiratory Tract",
+    "order": 1000000,
     "explanation": "Nonkeratinizing stratified squamous epithelium lines areas subject to abrasion such as the oropharynx and laryngopharynx, protecting against the passage of food."
   },
   {
@@ -1373,6 +1544,7 @@
     "label": "Capnogram",
     "category": "Lab & Diagnostics",
     "brick": "Hypercapnia",
+    "order": 1000000,
     "explanation": "On a capnogram, Phase III is the alveolar plateau; its endpoint (ETCO2) reflects alveolar CO2 and approximates arterial PaCO2. Rising ETCO2 indicates hypercapnia/hypoventilation."
   },
   {
@@ -1381,6 +1553,7 @@
     "label": "Emphysema",
     "category": "Pathology",
     "brick": "Hypercapnia",
+    "order": 1000000,
     "explanation": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole with destruction of alveolar walls and loss of surface area, reducing gas exchange and contributing to CO2 retention/hypercapnia in advanced COPD."
   },
   {
@@ -1389,6 +1562,7 @@
     "label": "Hypertensive retinopathy",
     "category": "Lab & Diagnostics",
     "brick": "Hypertension: Foundations and Frameworks",
+    "order": 1000000,
     "explanation": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury."
   },
   {
@@ -1397,6 +1571,7 @@
     "label": "Papilledema",
     "category": "Lab & Diagnostics",
     "brick": "Hypertensive Emergency",
+    "order": 1000000,
     "explanation": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering."
   },
   {
@@ -1405,6 +1580,7 @@
     "label": "Schistocytes",
     "category": "Lab & Diagnostics",
     "brick": "Hypertensive Emergency",
+    "order": 1000000,
     "explanation": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear."
   },
   {
@@ -1413,6 +1589,7 @@
     "label": "Fibrinoid necrosis",
     "category": "Pathology",
     "brick": "Hypertensive Emergency",
+    "order": 1000000,
     "explanation": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures."
   },
   {
@@ -1421,6 +1598,7 @@
     "label": "Trendelenburg position",
     "category": "Physiology & Mechanisms",
     "brick": "Hypotension: Causes, Consequences, and Management",
+    "order": 1000000,
     "explanation": "The head-down Trendelenburg position uses gravity to shift venous blood from the legs toward the thorax, transiently augmenting venous return, preload, and cardiac output as a temporizing maneuver in hypotension."
   },
   {
@@ -1429,6 +1607,7 @@
     "label": "Alveolar dead space",
     "category": "Physiology & Mechanisms",
     "brick": "Hypoxemia",
+    "order": 1000000,
     "explanation": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism."
   },
   {
@@ -1437,6 +1616,7 @@
     "label": "Oxygen-hemoglobin dissociation curve",
     "category": "Physiology & Mechanisms",
     "brick": "Hypoxemia",
+    "order": 1000000,
     "explanation": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation."
   },
   {
@@ -1445,6 +1625,7 @@
     "label": "Cyanosis",
     "category": "Physiology & Mechanisms",
     "brick": "Hypoxemia",
+    "order": 1000000,
     "explanation": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone."
   },
   {
@@ -1453,6 +1634,7 @@
     "label": "Alveolar gas exchange",
     "category": "Physiology & Mechanisms",
     "brick": "Hypoxemia",
+    "order": 1000000,
     "explanation": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange."
   },
   {
@@ -1461,6 +1643,7 @@
     "label": "Honeycomb lung",
     "category": "Pathology",
     "brick": "Idiopathic Pulmonary Fibrosis",
+    "order": 1000000,
     "explanation": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling."
   },
   {
@@ -1469,6 +1652,7 @@
     "label": "Pulmonary fibrosis",
     "category": "Pathology",
     "brick": "Idiopathic Pulmonary Fibrosis",
+    "order": 1000000,
     "explanation": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease."
   },
   {
@@ -1477,6 +1661,7 @@
     "label": "Septic pulmonary emboli",
     "category": "Lab & Diagnostics",
     "brick": "Infective Endocarditis",
+    "order": 1000000,
     "explanation": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease."
   },
   {
@@ -1485,6 +1670,7 @@
     "label": "Splinter hemorrhages",
     "category": "Pathology",
     "brick": "Infective Endocarditis",
+    "order": 1000000,
     "explanation": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions."
   },
   {
@@ -1493,6 +1679,7 @@
     "label": "Palatine tonsil",
     "category": "Gross Anatomy",
     "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "order": 1000000,
     "explanation": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis."
   },
   {
@@ -1501,6 +1688,7 @@
     "label": "Tripod position",
     "category": "Pathology",
     "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "order": 1000000,
     "explanation": "The tripod (sniffing) position maximizes airway diameter and is a hallmark of acute epiglottitis, together with drooling, dysphagia, and muffled 'hot-potato' voice. The child should be kept calm and upright."
   },
   {
@@ -1509,6 +1697,7 @@
     "label": "Digital clubbing",
     "category": "Pathology",
     "brick": "Interstitial Lung Disease: Foundations and Frameworks",
+    "order": 1000000,
     "explanation": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease."
   },
   {
@@ -1517,6 +1706,7 @@
     "label": "Myocyte disarray",
     "category": "Histology & Cell Biology",
     "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Disorganized, interwoven cardiomyocytes (myofiber disarray) with surrounding fibrosis are the microscopic signature of hypertrophic cardiomyopathy and provide a substrate for arrhythmia and sudden death."
   },
   {
@@ -1525,6 +1715,7 @@
     "label": "Left ventricular hypertrophy",
     "category": "Pathology",
     "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Uniform, concentric thickening of the LV wall with a reduced cavity size is the hallmark of concentric hypertrophy, which arises when the ventricle must generate sustained high pressures against an increased afterload (hypertension, aortic stenosis). Sarcomeres are laid down in parallel, thickening walls at the expense of chamber volume."
   },
   {
@@ -1533,6 +1724,7 @@
     "label": "Intra-aortic balloon pump",
     "category": "Physiology & Mechanisms",
     "brick": "Management of Shock",
+    "order": 1000000,
     "explanation": "The intra-aortic balloon pump inflates in diastole (augmenting coronary perfusion pressure) and deflates just before systole (reducing afterload), improving myocardial oxygen supply and cardiac output. This counterpulsation is used as mechanical support in cardiogenic shock."
   },
   {
@@ -1541,6 +1733,7 @@
     "label": "Swan-Ganz catheter",
     "category": "Lab & Diagnostics",
     "brick": "Management of Shock",
+    "order": 1000000,
     "explanation": "With the balloon wedged, forward pulmonary artery flow is occluded and the catheter tip senses pressure transmitted back through the pulmonary capillary bed from the left atrium. The pulmonary artery wedge (occlusion) pressure therefore approximates left atrial pressure and left ventricular end-diastolic pressure, a measure of left-heart preload."
   },
   {
@@ -1549,6 +1742,7 @@
     "label": "Pulmonary edema",
     "category": "Lab & Diagnostics",
     "brick": "Management of Shock",
+    "order": 1000000,
     "explanation": "Enlarged central pulmonary vessels (pulmonary venous congestion), interstitial edema, and cardiomegaly indicate raised left atrial/pulmonary venous pressure, i.e., cardiogenic pulmonary edema from left-heart failure. Pneumonia is typically focal/consolidative, pneumothorax shows lucency with lung collapse, and fibrosis/emphysema have distinct chronic patterns."
   },
   {
@@ -1557,6 +1751,7 @@
     "label": "Fick principle",
     "category": "Physiology & Mechanisms",
     "brick": "Measuring Cardiac Function",
+    "order": 1000000,
     "explanation": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations."
   },
   {
@@ -1565,6 +1760,7 @@
     "label": "Indicator dilution",
     "category": "Physiology & Mechanisms",
     "brick": "Measuring Cardiac Function",
+    "order": 1000000,
     "explanation": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow."
   },
   {
@@ -1573,6 +1769,7 @@
     "label": "Esophagus",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus."
   },
   {
@@ -1581,6 +1778,7 @@
     "label": "Mediastinum",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs."
   },
   {
@@ -1589,6 +1787,7 @@
     "label": "Ligamentum arteriosum",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness."
   },
   {
@@ -1597,6 +1796,7 @@
     "label": "Thymus",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma)."
   },
   {
@@ -1605,6 +1805,7 @@
     "label": "Retrosternal mass",
     "category": "Lab & Diagnostics",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "A retrosternal mass filling the space in front of the pericardium and great vessels localizes to the anterior mediastinum, the classic site for the 'terrible Ts' (thymoma, teratoma, thyroid, lymphoma)."
   },
   {
@@ -1613,6 +1814,7 @@
     "label": "Thoracic duct",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body."
   },
   {
@@ -1621,6 +1823,7 @@
     "label": "SVC syndrome",
     "category": "Pathology",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "Obstruction of the SVC (commonly by a mediastinal tumor such as lung cancer or lymphoma) impairs venous return from the head, neck, and upper chest, producing facial plethora/edema and engorged collateral chest wall veins."
   },
   {
@@ -1629,6 +1832,7 @@
     "label": "Mediastinal lymph nodes",
     "category": "Gross Anatomy",
     "brick": "Mediastinum (Part 1 of 2)",
+    "order": 1000000,
     "explanation": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis."
   },
   {
@@ -1637,6 +1841,7 @@
     "label": "Microaneurysms",
     "category": "Lab & Diagnostics",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 1000000,
     "explanation": "Multiple microaneurysms of renal and mesenteric medium-sized arteries on angiography are a hallmark of polyarteritis nodosa. The other named vasculitides preferentially affect large vessels or present differently."
   },
   {
@@ -1645,6 +1850,7 @@
     "label": "Digital gangrene",
     "category": "Pathology",
     "brick": "Medium-Vessel Vasculitis",
+    "order": 1000000,
     "explanation": "Necrotizing inflammation of medium-sized arteries causes luminal narrowing and thrombosis, cutting off distal perfusion. The resulting critical ischemia produces digital gangrene, a recognized manifestation of medium-vessel vasculitis."
   },
   {
@@ -1653,6 +1859,7 @@
     "label": "Pleural plaques",
     "category": "Pathology",
     "brick": "Mesothelioma",
+    "order": 1000000,
     "explanation": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure."
   },
   {
@@ -1661,6 +1868,7 @@
     "label": "Mesothelioma",
     "category": "Pathology",
     "brick": "Mesothelioma",
+    "order": 1000000,
     "explanation": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma."
   },
   {
@@ -1669,6 +1877,7 @@
     "label": "Annuloplasty ring",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 1000000,
     "explanation": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve."
   },
   {
@@ -1677,6 +1886,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 1000000,
     "explanation": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle."
   },
   {
@@ -1685,6 +1895,7 @@
     "label": "Myxomatous degeneration",
     "category": "Histology & Cell Biology",
     "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "order": 1000000,
     "explanation": "Accumulation of proteoglycan-rich ground substance expands the spongiosa and fragments the fibrosa, weakening the leaflet. This myxomatous (myxoid) degeneration produces the redundant, floppy leaflets of mitral valve prolapse."
   },
   {
@@ -1693,6 +1904,7 @@
     "label": "Balloon valvuloplasty",
     "category": "Lab & Diagnostics",
     "brick": "Mitral Stenosis",
+    "order": 1000000,
     "explanation": "A catheter reaches the left atrium via a transseptal puncture, and a balloon is inflated across the stenotic mitral orifice to split the fused commissures. This percutaneous balloon mitral valvuloplasty relieves obstruction in favorable rheumatic mitral stenosis."
   },
   {
@@ -1701,6 +1913,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Stenosis",
+    "order": 1000000,
     "explanation": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation."
   },
   {
@@ -1709,6 +1922,7 @@
     "label": "Mitral valve",
     "category": "Gross Anatomy",
     "brick": "Mitral Stenosis",
+    "order": 1000000,
     "explanation": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium."
   },
   {
@@ -1717,6 +1931,7 @@
     "label": "Mitral stenosis",
     "category": "Pathology",
     "brick": "Mitral Stenosis",
+    "order": 1000000,
     "explanation": "Chronic (usually rheumatic) inflammation fuses the commissures and thickens the leaflets, reducing the opening to a narrow fish-mouth slit. This is the classic gross appearance of mitral stenosis."
   },
   {
@@ -1725,6 +1940,7 @@
     "label": "Contraction band necrosis",
     "category": "Pathology",
     "brick": "Myocardial Infarction",
+    "order": 1000000,
     "explanation": "Contraction band necrosis reflects a massive calcium influx into reperfused, injured myocytes causing hypercontracted sarcomeres; it is typical of reperfusion injury."
   },
   {
@@ -1733,6 +1949,7 @@
     "label": "Hyaline membranes",
     "category": "Pathology",
     "brick": "Neonatal Respiratory Distress Syndrome",
+    "order": 1000000,
     "explanation": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS."
   },
   {
@@ -1741,6 +1958,7 @@
     "label": "Vegetations",
     "category": "Pathology",
     "brick": "Nonbacterial Thrombotic Endocarditis",
+    "order": 1000000,
     "explanation": "Small, sterile, loosely attached vegetations on the valve closure lines without inflammation or leaflet destruction indicate nonbacterial thrombotic endocarditis, associated with hypercoagulable/malignant states."
   },
   {
@@ -1749,6 +1967,7 @@
     "label": "Rib notching",
     "category": "Lab & Diagnostics",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 1000000,
     "explanation": "Rib notching results from dilated, tortuous intercostal collateral arteries eroding the undersurface of the ribs; it is a hallmark of longstanding aortic coarctation, in which blood bypasses the narrowed segment through the intercostal circulation."
   },
   {
@@ -1757,6 +1976,7 @@
     "label": "Coarctation of the aorta",
     "category": "Lab & Diagnostics",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 1000000,
     "explanation": "The discrete focal narrowing of the aorta near the isthmus (just beyond the left subclavian artery) on angiographic imaging is the defining feature of aortic coarctation."
   },
   {
@@ -1765,6 +1985,7 @@
     "label": "Pulmonary valve stenosis",
     "category": "Pathology",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 1000000,
     "explanation": "Pulmonary valve stenosis increases the afterload on the right ventricle, which must generate higher pressures to eject blood through the narrowed valve, leading to concentric right ventricular hypertrophy."
   },
   {
@@ -1773,6 +1994,7 @@
     "label": "Aortic stenosis",
     "category": "Pathology",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 1000000,
     "explanation": "Aortic stenosis imposes a pressure (afterload) overload on the left ventricle, which responds with concentric hypertrophy (parallel sarcomere addition) to maintain wall stress while ejecting through the narrowed valve."
   },
   {
@@ -1781,6 +2003,7 @@
     "label": "Aortic coarctation",
     "category": "Physiology & Mechanisms",
     "brick": "Obstructive Congenital Heart Defects",
+    "order": 1000000,
     "explanation": "Coarctation distal to the left subclavian raises blood pressure proximally (arms) while reducing perfusion pressure distally, producing upper-limb hypertension and weak, delayed lower-extremity (radiofemoral delay) pulses."
   },
   {
@@ -1789,6 +2012,7 @@
     "label": "Digital clubbing",
     "category": "Pathology",
     "brick": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "order": 1000000,
     "explanation": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis."
   },
   {
@@ -1797,6 +2021,7 @@
     "label": "Mucociliary escalator",
     "category": "Histology & Cell Biology",
     "brick": "Overview of Respiratory Physiology",
+    "order": 1000000,
     "explanation": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator."
   },
   {
@@ -1805,6 +2030,7 @@
     "label": "Oxyhemoglobin dissociation curve",
     "category": "Physiology & Mechanisms",
     "brick": "Oxygen and Carbon Dioxide Transport",
+    "order": 1000000,
     "explanation": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation."
   },
   {
@@ -1813,6 +2039,7 @@
     "label": "Hemoglobin",
     "category": "Physiology & Mechanisms",
     "brick": "Oxygen and Carbon Dioxide Transport",
+    "order": 1000000,
     "explanation": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin."
   },
   {
@@ -1821,6 +2048,7 @@
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
     "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "order": 1000000,
     "explanation": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples."
   },
   {
@@ -1829,6 +2057,7 @@
     "label": "Ankle-brachial index",
     "category": "Lab & Diagnostics",
     "brick": "Peripheral Arterial Disease",
+    "order": 1000000,
     "explanation": "Dividing ankle systolic pressure by brachial systolic pressure gives the ABI. A reduced ratio (typically <0.9) signals arterial obstruction, confirming peripheral arterial disease."
   },
   {
@@ -1837,6 +2066,7 @@
     "label": "Stent placement",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 1000000,
     "explanation": "The panels depict balloon angioplasty with placement of a balloon-expandable stent: the balloon dilates the stenosis and the expanded stent provides a permanent scaffold that resists elastic recoil and keeps the lumen open."
   },
   {
@@ -1845,6 +2075,7 @@
     "label": "Endarterectomy",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 1000000,
     "explanation": "The artery is opened longitudinally and the atherosclerotic plaque is being dissected free from the wall, which is the defining step of an endarterectomy performed to restore blood flow through a clogged artery."
   },
   {
@@ -1853,6 +2084,7 @@
     "label": "Vein graft bypass",
     "category": "Physiology & Mechanisms",
     "brick": "Peripheral Arterial Disease",
+    "order": 1000000,
     "explanation": "A vein graft is anastomosed above and below the occluded artery, creating a bypass channel that carries blood past the blockage and restores perfusion to the distal limb."
   },
   {
@@ -1861,6 +2093,7 @@
     "label": "Respiratory membrane",
     "category": "Histology & Cell Biology",
     "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "order": 1000000,
     "explanation": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer."
   },
   {
@@ -1869,6 +2102,7 @@
     "label": "Alveolar gas exchange",
     "category": "Physiology & Mechanisms",
     "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "order": 1000000,
     "explanation": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through."
   },
   {
@@ -1877,6 +2111,7 @@
     "label": "Respiratory muscles",
     "category": "Gross Anatomy",
     "brick": "Physiology: Mechanics and pressures of breathing",
+    "order": 1000000,
     "explanation": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration."
   },
   {
@@ -1885,6 +2120,7 @@
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
     "brick": "Pleural Effusion",
+    "order": 1000000,
     "explanation": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side."
   },
   {
@@ -1893,6 +2129,7 @@
     "label": "Thoracentesis",
     "category": "Lab & Diagnostics",
     "brick": "Pleural Effusion",
+    "order": 1000000,
     "explanation": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief."
   },
   {
@@ -1901,6 +2138,7 @@
     "label": "Silicotic nodule",
     "category": "Histology & Cell Biology",
     "brick": "Pneumoconioses",
+    "order": 1000000,
     "explanation": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis."
   },
   {
@@ -1909,6 +2147,7 @@
     "label": "Asbestos bodies",
     "category": "Histology & Cell Biology",
     "brick": "Pneumoconioses",
+    "order": 1000000,
     "explanation": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure."
   },
   {
@@ -1917,6 +2156,7 @@
     "label": "Anthracosis",
     "category": "Histology & Cell Biology",
     "brick": "Pneumoconioses",
+    "order": 1000000,
     "explanation": "Inhaled carbon/coal dust is engulfed by macrophages, producing black anthracotic pigment. Accumulation around bronchioles and in interstitium underlies coal workers' pneumoconiosis (anthracosis when asymptomatic)."
   },
   {
@@ -1925,6 +2165,7 @@
     "label": "Tension pneumothorax",
     "category": "Physiology & Mechanisms",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression."
   },
   {
@@ -1933,6 +2174,7 @@
     "label": "Subcutaneous emphysema",
     "category": "Lab & Diagnostics",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge."
   },
   {
@@ -1941,6 +2183,7 @@
     "label": "Chest drainage system",
     "category": "Physiology & Mechanisms",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid."
   },
   {
@@ -1949,6 +2192,7 @@
     "label": "Pigtail catheter",
     "category": "Lab & Diagnostics",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube."
   },
   {
@@ -1957,6 +2201,7 @@
     "label": "Chest radiograph",
     "category": "Lab & Diagnostics",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film."
   },
   {
@@ -1965,6 +2210,7 @@
     "label": "Pneumothorax",
     "category": "Physiology & Mechanisms",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward."
   },
   {
@@ -1973,6 +2219,7 @@
     "label": "Bleb",
     "category": "Pathology",
     "brick": "Pneumothorax",
+    "order": 1000000,
     "explanation": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS."
   },
   {
@@ -1981,6 +2228,7 @@
     "label": "Pressure-volume loop",
     "category": "Physiology & Mechanisms",
     "brick": "Pressure Volume (PV) Loops",
+    "order": 1000000,
     "explanation": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV)."
   },
   {
@@ -1989,6 +2237,7 @@
     "label": "Renin-angiotensin-aldosterone system",
     "category": "Physiology & Mechanisms",
     "brick": "Primary (Essential) Hypertension",
+    "order": 1000000,
     "explanation": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention."
   },
   {
@@ -1997,6 +2246,7 @@
     "label": "Hypoxic pulmonary vasoconstriction",
     "category": "Physiology & Mechanisms",
     "brick": "Pulmonary Circulation",
+    "order": 1000000,
     "explanation": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching."
   },
   {
@@ -2005,6 +2255,7 @@
     "label": "Pulmonary edema",
     "category": "Pathology",
     "brick": "Pulmonary Circulation",
+    "order": 1000000,
     "explanation": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation."
   },
   {
@@ -2013,6 +2264,7 @@
     "label": "West lung zones",
     "category": "Physiology & Mechanisms",
     "brick": "Pulmonary Circulation",
+    "order": 1000000,
     "explanation": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people."
   },
   {
@@ -2021,6 +2273,7 @@
     "label": "Flow-volume loop",
     "category": "Lab & Diagnostics",
     "brick": "Pulmonary Function Tests (PFT)",
+    "order": 1000000,
     "explanation": "The flow-volume loop is produced during spirometry; the peak of the expiratory limb is the peak expiratory flow and the width of the loop spans the vital capacity."
   },
   {
@@ -2029,6 +2282,7 @@
     "label": "Spirometry",
     "category": "Lab & Diagnostics",
     "brick": "Pulmonary Function Tests (PFT)",
+    "order": 1000000,
     "explanation": "The handheld mouthpiece connected to a recording unit that plots volume-time and flow-volume loops is a spirometer. Spirometry measures forced expiratory volumes and flows (e.g., FEV1, FVC) to characterize obstructive versus restrictive patterns."
   },
   {
@@ -2037,6 +2291,7 @@
     "label": "West lung zones",
     "category": "Physiology & Mechanisms",
     "brick": "Pulmonary Ventilation and Perfusion (V Q)",
+    "order": 1000000,
     "explanation": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow."
   },
   {
@@ -2045,6 +2300,7 @@
     "label": "Pulmonary embolism",
     "category": "Lab & Diagnostics",
     "brick": "Respiratory Alkalosis",
+    "order": 1000000,
     "explanation": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis."
   },
   {
@@ -2053,6 +2309,7 @@
     "label": "Oxygen cascade",
     "category": "Physiology & Mechanisms",
     "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "order": 1000000,
     "explanation": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells."
   },
   {
@@ -2061,6 +2318,7 @@
     "label": "Alveolar gas equation",
     "category": "Physiology & Mechanisms",
     "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "order": 1000000,
     "explanation": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation)."
   },
   {
@@ -2069,6 +2327,7 @@
     "label": "Elek test",
     "category": "Lab & Diagnostics",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation."
   },
   {
@@ -2077,6 +2336,7 @@
     "label": "Bordetella pertussis",
     "category": "Histology & Cell Biology",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms."
   },
   {
@@ -2085,6 +2345,7 @@
     "label": "Corynebacterium diphtheriae",
     "category": "Histology & Cell Biology",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria."
   },
   {
@@ -2093,6 +2354,7 @@
     "label": "Diphtheritic pseudomembrane",
     "category": "Pathology",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria."
   },
   {
@@ -2101,6 +2363,7 @@
     "label": "Bull neck",
     "category": "Pathology",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity."
   },
   {
@@ -2109,6 +2372,7 @@
     "label": "Metachromatic granules",
     "category": "Histology & Cell Biology",
     "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "order": 1000000,
     "explanation": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification."
   },
   {
@@ -2117,6 +2381,7 @@
     "label": "Pulse CO-oximeter",
     "category": "Lab & Diagnostics",
     "brick": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "order": 1000000,
     "explanation": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning."
   },
   {
@@ -2125,6 +2390,7 @@
     "label": "Cardiac amyloidosis",
     "category": "Pathology",
     "brick": "Restrictive Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling."
   },
   {
@@ -2133,6 +2399,7 @@
     "label": "Congo red birefringence",
     "category": "Lab & Diagnostics",
     "brick": "Restrictive Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy."
   },
   {
@@ -2141,6 +2408,7 @@
     "label": "Cardiac sarcoidosis",
     "category": "Pathology",
     "brick": "Restrictive Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis."
   },
   {
@@ -2149,6 +2417,7 @@
     "label": "Prussian blue iron stain",
     "category": "Lab & Diagnostics",
     "brick": "Restrictive Cardiomyopathy",
+    "order": 1000000,
     "explanation": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic."
   },
   {
@@ -2157,6 +2426,7 @@
     "label": "Cardiac MRI",
     "category": "Lab & Diagnostics",
     "brick": "Restrictive Cardiomyopathy",
+    "order": 1000000,
     "explanation": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis."
   },
   {
@@ -2165,6 +2435,7 @@
     "label": "J point",
     "category": "Lab & Diagnostics",
     "brick": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "order": 1000000,
     "explanation": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment)."
   },
   {
@@ -2173,6 +2444,7 @@
     "label": "Erythema nodosum",
     "category": "Pathology",
     "brick": "Sarcoidosis",
+    "order": 1000000,
     "explanation": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis."
   },
   {
@@ -2181,6 +2453,7 @@
     "label": "Cushing syndrome",
     "category": "Pathology",
     "brick": "Secondary Hypertension",
+    "order": 1000000,
     "explanation": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension."
   },
   {
@@ -2189,6 +2462,7 @@
     "label": "Obstructive sleep apnea",
     "category": "Physiology & Mechanisms",
     "brick": "Secondary Hypertension",
+    "order": 1000000,
     "explanation": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension."
   },
   {
@@ -2197,6 +2471,7 @@
     "label": "Fibromuscular dysplasia",
     "category": "Pathology",
     "brick": "Secondary Hypertension",
+    "order": 1000000,
     "explanation": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension."
   },
   {
@@ -2205,6 +2480,7 @@
     "label": "Renal artery stenosis",
     "category": "Lab & Diagnostics",
     "brick": "Secondary Hypertension",
+    "order": 1000000,
     "explanation": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension."
   },
   {
@@ -2213,6 +2489,7 @@
     "label": "Fibromuscular dysplasia",
     "category": "Lab & Diagnostics",
     "brick": "Secondary Hypertension",
+    "order": 1000000,
     "explanation": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery."
   },
   {
@@ -2221,6 +2498,7 @@
     "label": "Junctional rhythm",
     "category": "Lab & Diagnostics",
     "brick": "Sinus Bradycardia and Related Disorders",
+    "order": 1000000,
     "explanation": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm."
   },
   {
@@ -2229,6 +2507,7 @@
     "label": "Palpable purpura",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 1000000,
     "explanation": "Raised, palpable purpura that does not blanch reflects inflammatory damage and leakage of postcapillary venules, the hallmark of small-vessel (leukocytoclastic) vasculitis, distinguishing it from flat non-palpable purpura seen with pure platelet defects."
   },
   {
@@ -2237,6 +2516,7 @@
     "label": "Nasal polyps",
     "category": "Pathology",
     "brick": "Small-Vessel Vasculitis",
+    "order": 1000000,
     "explanation": "Nasal polyps are edematous outgrowths of chronically inflamed sinonasal mucosa; when they obstruct a sinus ostium, mucus accumulates and impairs drainage, as shown."
   },
   {
@@ -2245,6 +2525,7 @@
     "label": "Pitting edema",
     "category": "Lab & Diagnostics",
     "brick": "Starling Forces",
+    "order": 1000000,
     "explanation": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure)."
   },
   {
@@ -2253,6 +2534,7 @@
     "label": "Superficial thrombophlebitis",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel."
   },
   {
@@ -2261,6 +2543,7 @@
     "label": "Superficial thrombophlebitis",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum."
   },
   {
@@ -2269,6 +2552,7 @@
     "label": "Chronic venous insufficiency",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency."
   },
   {
@@ -2277,6 +2561,7 @@
     "label": "Stasis dermatitis",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area."
   },
   {
@@ -2285,6 +2570,7 @@
     "label": "Varicose vein",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins."
   },
   {
@@ -2293,6 +2579,7 @@
     "label": "Lipodermatosclerosis",
     "category": "Pathology",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration."
   },
   {
@@ -2301,6 +2588,7 @@
     "label": "Sclerotherapy",
     "category": "Physiology & Mechanisms",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen."
   },
   {
@@ -2309,6 +2597,7 @@
     "label": "Endovenous ablation",
     "category": "Physiology & Mechanisms",
     "brick": "Superficial Venous Disease",
+    "order": 1000000,
     "explanation": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn."
   },
   {
@@ -2317,6 +2606,7 @@
     "label": "E-cigarette",
     "category": "Pharmacology",
     "brick": "Tobacco Smoking",
+    "order": 1000000,
     "explanation": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation."
   },
   {
@@ -2325,6 +2615,7 @@
     "label": "Triangle of safety",
     "category": "Gross Anatomy",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs."
   },
   {
@@ -2333,6 +2624,7 @@
     "label": "Pneumomediastinum",
     "category": "Lab & Diagnostics",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma."
   },
   {
@@ -2341,6 +2633,7 @@
     "label": "Tension pneumothorax",
     "category": "Lab & Diagnostics",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression."
   },
   {
@@ -2349,6 +2642,7 @@
     "label": "Flail chest",
     "category": "Pathology",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion."
   },
   {
@@ -2357,6 +2651,7 @@
     "label": "Diaphragmatic rupture",
     "category": "Lab & Diagnostics",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair."
   },
   {
@@ -2365,6 +2660,7 @@
     "label": "Chylothorax",
     "category": "Pathology",
     "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "order": 1000000,
     "explanation": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space."
   },
   {
@@ -2373,6 +2669,7 @@
     "label": "Jugular venous distension",
     "category": "Lab & Diagnostics",
     "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "order": 1000000,
     "explanation": "The prominent distended vein coursing up the neck represents elevated jugular venous pressure (distension), a sign of systemic venous congestion seen with right-sided heart failure and severe tricuspid regurgitation."
   },
   {
@@ -2381,6 +2678,7 @@
     "label": "Echocardiogram",
     "category": "Lab & Diagnostics",
     "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "order": 1000000,
     "explanation": "The grayscale sector image with a real-time color Doppler overlay (blue/red flow), frame rate, and depth annotations is characteristic of two-dimensional echocardiography. Here color Doppler reveals turbulent flow across a domed, stenotic tricuspid valve."
   },
   {
@@ -2389,6 +2687,7 @@
     "label": "Tricuspid valve",
     "category": "Gross Anatomy",
     "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "order": 1000000,
     "explanation": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve."
   },
   {
@@ -2397,6 +2696,7 @@
     "label": "Coronary artery",
     "category": "Gross Anatomy",
     "brick": "Vasculature and Lymphatics of the Heart",
+    "order": 1000000,
     "explanation": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches."
   },
   {
@@ -2405,6 +2705,7 @@
     "label": "Coronary artery",
     "category": "Gross Anatomy",
     "brick": "Vasculature and Lymphatics of the Heart",
+    "order": 1000000,
     "explanation": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood."
   },
   {
@@ -2413,6 +2714,7 @@
     "label": "Coronary angiogram",
     "category": "Lab & Diagnostics",
     "brick": "Vasculature and Lymphatics of the Heart",
+    "order": 1000000,
     "explanation": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses."
   },
   {
@@ -2421,6 +2723,7 @@
     "label": "Ventricular tachycardia",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 1000000,
     "explanation": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node."
   },
   {
@@ -2429,6 +2732,7 @@
     "label": "Pacemaker",
     "category": "Physiology & Mechanisms",
     "brick": "Ventricular Arrhythmias",
+    "order": 1000000,
     "explanation": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate."
   },
   {
@@ -2437,6 +2741,7 @@
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 1000000,
     "explanation": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation."
   },
   {
@@ -2445,6 +2750,7 @@
     "label": "Ventricular fibrillation",
     "category": "Lab & Diagnostics",
     "brick": "Ventricular Arrhythmias",
+    "order": 1000000,
     "explanation": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation."
   }
 ]
