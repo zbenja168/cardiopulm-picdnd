@@ -4,2141 +4,2447 @@
     "imageRef": "rednd-001_Brick Exchange - Acute Pericarditis_p14_1.png",
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
-    "brick": "Acute Pericarditis"
+    "brick": "Acute Pericarditis",
+    "explanation": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade."
   },
   {
     "id": "rednd-002",
     "imageRef": "rednd-002_Brick Exchange - Acute Pericarditis_p7_1.png",
     "label": "Fibrinous pericarditis",
     "category": "Pathology",
-    "brick": "Acute Pericarditis"
+    "brick": "Acute Pericarditis",
+    "explanation": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis."
   },
   {
     "id": "rednd-003",
     "imageRef": "rednd-003_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p10_1.png",
     "label": "Erythema marginatum",
     "category": "Pathology",
-    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "explanation": "Erythema marginatum — an evanescent, annular rash with central clearing over the trunk and proximal limbs — is a major Jones criterion for acute rheumatic fever."
   },
   {
     "id": "rednd-004",
     "imageRef": "rednd-004_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p5_1.png",
     "label": "Streptococcus pyogenes",
     "category": "Lab & Diagnostics",
-    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "explanation": "Group A Streptococcus (S. pyogenes) is a gram-positive coccus in chains; pharyngitis with this organism triggers the immune cross-reaction that causes acute rheumatic fever."
   },
   {
     "id": "rednd-005",
     "imageRef": "rednd-005_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p8_1.png",
     "label": "Anitschkow cells",
     "category": "Histology & Cell Biology",
-    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "explanation": "Anitschkow cells are activated macrophages with a characteristic central bar of chromatin giving a caterpillar (or owl-eye in cross-section) appearance. They aggregate within Aschoff bodies and are a histologic hallmark of rheumatic carditis."
   },
   {
     "id": "rednd-006",
     "imageRef": "rednd-006_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p23_1.png",
     "label": "Echocardiogram",
     "category": "Lab & Diagnostics",
-    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)"
+    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "explanation": "The real-time grayscale sector image with a simultaneous ECG gate is transthoracic echocardiography; the superimposed red/blue mosaic is color-flow Doppler encoding blood velocity toward (red) and away from (blue) the transducer, used here to reveal shunt flow."
   },
   {
     "id": "rednd-007",
     "imageRef": "rednd-007_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p6_1.png",
     "label": "Differential cyanosis",
     "category": "Lab & Diagnostics",
-    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)"
+    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+    "explanation": "Differential cyanosis (pink upper body, cyanotic lower body) occurs when deoxygenated blood shunts right-to-left through a patent ductus arteriosus into the descending aorta distal to the arch vessels, as in a PDA with pulmonary hypertension/Eisenmenger physiology or a coarctation with PDA."
   },
   {
     "id": "rednd-008",
     "imageRef": "rednd-008_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p16_1.png",
     "label": "Diaphragm",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "explanation": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration."
   },
   {
     "id": "rednd-009",
     "imageRef": "rednd-009_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p6_1.png",
     "label": "Diaphragm",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "explanation": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level."
   },
   {
     "id": "rednd-010",
     "imageRef": "rednd-010_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p8_1.png",
     "label": "Phrenic nerve",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "explanation": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm)."
   },
   {
     "id": "rednd-011",
     "imageRef": "rednd-011_Brick Exchange - Anatomy of the Heart_p12_1.png",
     "label": "Cardiac skeleton",
     "category": "Physiology & Mechanisms",
-    "brick": "Anatomy of the Heart"
+    "brick": "Anatomy of the Heart",
+    "explanation": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread."
   },
   {
     "id": "rednd-012",
     "imageRef": "rednd-012_Brick Exchange - Anatomy of the Heart_p13_1.png",
     "label": "Mitral valve",
     "category": "Physiology & Mechanisms",
-    "brick": "Anatomy of the Heart"
+    "brick": "Anatomy of the Heart",
+    "explanation": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole."
   },
   {
     "id": "rednd-013",
     "imageRef": "rednd-013_Brick Exchange - Anatomy of the Heart_p1_1.png",
     "label": "Barium esophagram",
     "category": "Lab & Diagnostics",
-    "brick": "Anatomy of the Heart"
+    "brick": "Anatomy of the Heart",
+    "explanation": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement."
   },
   {
     "id": "rednd-014",
     "imageRef": "rednd-014_Brick Exchange - Anatomy of the Heart_p6_1.png",
     "label": "Fossa ovalis",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Heart"
+    "brick": "Anatomy of the Heart",
+    "explanation": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established."
   },
   {
     "id": "rednd-015",
     "imageRef": "rednd-015_Brick Exchange - Anatomy of the Lower Respiratory Tract_p12_1.png",
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
-    "brick": "Anatomy of the Lower Respiratory Tract"
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "explanation": "Air is far less radio-dense than soft tissue or bone. X-rays pass easily through the air-filled alveoli and expose (darken) the film, whereas the muscular, blood-filled heart absorbs the beam and appears white."
   },
   {
     "id": "rednd-016",
     "imageRef": "rednd-016_Brick Exchange - Anatomy of the Lower Respiratory Tract_p15_1.png",
     "label": "Lung hilum",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Lower Respiratory Tract"
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "explanation": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung."
   },
   {
     "id": "rednd-017",
     "imageRef": "rednd-017_Brick Exchange - Anatomy of the Lower Respiratory Tract_p22_1.png",
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
-    "brick": "Anatomy of the Lower Respiratory Tract"
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "explanation": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment."
   },
   {
     "id": "rednd-018",
     "imageRef": "rednd-018_Brick Exchange - Anatomy of the Lower Respiratory Tract_p5_1.png",
     "label": "Bronchial tree",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Lower Respiratory Tract"
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "explanation": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs."
   },
   {
     "id": "rednd-019",
     "imageRef": "rednd-019_Brick Exchange - Anatomy of the Lower Respiratory Tract_p8_1.png",
     "label": "Bronchopulmonary segments",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Lower Respiratory Tract"
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "explanation": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors."
   },
   {
     "id": "rednd-020",
     "imageRef": "rednd-020_Brick Exchange - Anatomy of the Upper Respiratory Tract_p27_1.png",
     "label": "Laryngopharynx",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Upper Respiratory Tract"
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "explanation": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal."
   },
   {
     "id": "rednd-021",
     "imageRef": "rednd-021_Brick Exchange - Anatomy of the Upper Respiratory Tract_p7_1.png",
     "label": "Paranasal sinuses",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Upper Respiratory Tract"
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "explanation": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function."
   },
   {
     "id": "rednd-022",
     "imageRef": "rednd-022_Brick Exchange - Anatomy of the Upper Respiratory Tract_p8_1.png",
     "label": "Nasal conchae",
     "category": "Gross Anatomy",
-    "brick": "Anatomy of the Upper Respiratory Tract"
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "explanation": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain."
   },
   {
     "id": "rednd-023",
     "imageRef": "rednd-023_Brick Exchange - Angina Pectoris_p14_1.png",
     "label": "Coronary CT angiography",
     "category": "Lab & Diagnostics",
-    "brick": "Angina Pectoris"
+    "brick": "Angina Pectoris",
+    "explanation": "Coronary CT angiography visualizes the coronary lumen and wall noninvasively. Narrowing with adjacent (often calcified) plaque indicates atherosclerotic stenosis, the anatomic substrate for angina and acute coronary syndromes."
   },
   {
     "id": "rednd-024",
     "imageRef": "rednd-024_Brick Exchange - Angina Pectoris_p15_1.png",
     "label": "Coronary angiogram",
     "category": "Lab & Diagnostics",
-    "brick": "Angina Pectoris"
+    "brick": "Angina Pectoris",
+    "explanation": "Invasive coronary angiography injects contrast directly into the coronary arteries via a catheter. A focal reduction in contrast column (arrows) indicates a hemodynamically significant stenosis, the gold-standard demonstration of obstructive coronary disease."
   },
   {
     "id": "rednd-025",
     "imageRef": "rednd-025_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p5_1.png",
     "label": "Voltage-gated sodium channel",
     "category": "Physiology & Mechanisms",
-    "brick": "Antiarrhythmic Agents - Class I Drugs"
+    "brick": "Antiarrhythmic Agents - Class I Drugs",
+    "explanation": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states."
   },
   {
     "id": "rednd-026",
     "imageRef": "rednd-026_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p8_1.png",
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
-    "brick": "Antiarrhythmic Agents - Class I Drugs"
+    "brick": "Antiarrhythmic Agents - Class I Drugs",
+    "explanation": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it."
   },
   {
     "id": "rednd-027",
     "imageRef": "rednd-027_Brick Exchange - Aortic Aneurysm_p11_1.png",
     "label": "Ruptured aortic aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "The bright contrast-filled aorta with an adjacent large blood collection extending into the retroperitoneum indicates a ruptured aortic aneurysm, a surgical emergency with high mortality."
   },
   {
     "id": "rednd-028",
     "imageRef": "rednd-028_Brick Exchange - Aortic Aneurysm_p12_1.png",
     "label": "Blue toe syndrome",
     "category": "Pathology",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "Blue toe syndrome results from showers of atheromatous/cholesterol emboli from a proximal aneurysm or atherosclerotic aorta lodging in digital vessels, producing painful cyanotic toes with preserved proximal pulses."
   },
   {
     "id": "rednd-029",
     "imageRef": "rednd-029_Brick Exchange - Aortic Aneurysm_p14_1.png",
     "label": "Abdominal palpation",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "AAA is classically detected as a pulsatile, laterally expansile mass in the epigastrium/periumbilical region on bimanual palpation, though sensitivity is limited in obese patients."
   },
   {
     "id": "rednd-030",
     "imageRef": "rednd-030_Brick Exchange - Aortic Aneurysm_p17_1.png",
     "label": "Widened mediastinum",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "A widened mediastinum on chest X-ray is a classic red flag for thoracic aortic pathology (aneurysm/dissection) and mandates urgent CT angiography to confirm."
   },
   {
     "id": "rednd-031",
     "imageRef": "rednd-031_Brick Exchange - Aortic Aneurysm_p20_1.png",
     "label": "Aortic stent graft",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "The radiopaque stent-graft lining the aortic lumen indicates endovascular aneurysm repair, which excludes the aneurysm sac from arterial pressure via a covered stent deployed through a catheter."
   },
   {
     "id": "rednd-032",
     "imageRef": "rednd-032_Brick Exchange - Aortic Aneurysm_p21_1.png",
     "label": "Popliteal artery aneurysm",
     "category": "Pathology",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "Popliteal artery aneurysms rupture less often than they thrombose or shed emboli; their major threat is acute or chronic limb ischemia from thrombosis and distal embolization."
   },
   {
     "id": "rednd-033",
     "imageRef": "rednd-033_Brick Exchange - Aortic Aneurysm_p23_1.png",
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "A rounded, dilated prevertebral aortic contour with a thick low-density rim (mural thrombus) around a smaller patent lumen is the classic CT appearance of an abdominal aortic aneurysm."
   },
   {
     "id": "rednd-034",
     "imageRef": "rednd-034_Brick Exchange - Aortic Aneurysm_p4_1.png",
     "label": "Femoral pseudoaneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "The 'yin-yang' swirling flow with a to-and-fro neck communicating with the femoral artery is the classic Doppler signature of a pseudoaneurysm, a common complication of arterial puncture."
   },
   {
     "id": "rednd-035",
     "imageRef": "rednd-035_Brick Exchange - Aortic Aneurysm_p7_1.png",
     "label": "Thoracic aortic aneurysm",
     "category": "Pathology",
-    "brick": "Aortic Aneurysm"
+    "brick": "Aortic Aneurysm",
+    "explanation": "A thoracic (ascending/root) aortic aneurysm can dilate the aortic annulus, splaying the valve leaflets and producing aortic regurgitation, in addition to risks of dissection and rupture."
   },
   {
     "id": "rednd-036",
     "imageRef": "rednd-036_Brick Exchange - Aortic Dissection_p11_1.png",
     "label": "Aortic dissection",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Dissection"
+    "brick": "Aortic Dissection",
+    "explanation": "The image shows a true lumen and a false lumen separated by an intimal flap within the ascending aorta, the diagnostic hallmark of aortic dissection. Blood enters through an intimal tear and tracks within the media, creating the false lumen."
   },
   {
     "id": "rednd-037",
     "imageRef": "rednd-037_Brick Exchange - Aortic Dissection_p12_1.png",
     "label": "Aortic dissection",
     "category": "Lab & Diagnostics",
-    "brick": "Aortic Dissection"
+    "brick": "Aortic Dissection",
+    "explanation": "Transesophageal echocardiography (TEE) is highly sensitive for aortic dissection, showing the intimal flap separating true and false lumens. TEE can be performed at the bedside in unstable patients and also assesses complications such as aortic regurgitation and pericardial effusion."
   },
   {
     "id": "rednd-038",
     "imageRef": "rednd-038_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p10_1.png",
     "label": "Left ventricular hypertrophy",
     "category": "Pathology",
-    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "explanation": "The left ventricular free wall and septum are conspicuously thicker than the right ventricular wall, indicating left ventricular hypertrophy. This is a chronic adaptation to increased LV workload, as in hypertension or aortic valve disease."
   },
   {
     "id": "rednd-039",
     "imageRef": "rednd-039_Brick Exchange - Aortic Stenosis_p2_1.png",
     "label": "Aortic valve",
     "category": "Pathology",
-    "brick": "Aortic Stenosis"
+    "brick": "Aortic Stenosis",
+    "explanation": "The cusps are heaped up with rigid calcific nodules that restrict opening, reducing the effective orifice area. This degenerative calcific process is the leading cause of aortic stenosis in older adults."
   },
   {
     "id": "rednd-040",
     "imageRef": "rednd-040_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p8_1.png",
     "label": "Cardiac muscle",
     "category": "Histology & Cell Biology",
-    "brick": "Arrhythmogenic Right Ventricular Cardiomyopathy"
+    "brick": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "explanation": "Intercalated discs are the step-like junctions unique to cardiac muscle; they contain desmosomes and gap junctions that mechanically and electrically couple cardiomyocytes. Desmosomal failure at these discs underlies ARVC."
   },
   {
     "id": "rednd-041",
     "imageRef": "rednd-041_Brick Exchange - Arterial Emboli_p10_1.png",
     "label": "Livedo reticularis",
     "category": "Pathology",
-    "brick": "Arterial Emboli"
+    "brick": "Arterial Emboli",
+    "explanation": "Livedo reticularis is a lacy, reticulated purple mottling caused by partial obstruction/dilatation of dermal vasculature; it is a classic cutaneous clue to cholesterol/atheroembolic disease."
   },
   {
     "id": "rednd-042",
     "imageRef": "rednd-042_Brick Exchange - Asthma_p13_1.png",
     "label": "Curschmann spiral",
     "category": "Pathology",
-    "brick": "Asthma"
+    "brick": "Asthma",
+    "explanation": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals."
   },
   {
     "id": "rednd-043",
     "imageRef": "rednd-043_Brick Exchange - Atherosclerosis_p16_1.png",
     "label": "Aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Atherosclerosis"
+    "brick": "Atherosclerosis",
+    "explanation": "The rounded contrast-filled sac projecting from the vessel is an aneurysm, a localized dilation of the arterial wall. Atherosclerosis with medial weakening is a common cause, and rupture is the feared complication."
   },
   {
     "id": "rednd-044",
     "imageRef": "rednd-044_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p5_1.png",
     "label": "Atrial fibrillation",
     "category": "Lab & Diagnostics",
-    "brick": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment"
+    "brick": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+    "explanation": "The absence of organized P waves combined with an irregularly irregular R-R interval is the hallmark of atrial fibrillation, caused by chaotic atrial electrical activity and variable AV nodal conduction."
   },
   {
     "id": "rednd-045",
     "imageRef": "rednd-045_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p14_1.png",
     "label": "Honeycomb lung",
     "category": "Histology & Cell Biology",
-    "brick": "Autoimmune Diseases with Respiratory Manifestations"
+    "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "explanation": "The clustered enlarged cystic spaces embedded in fibrous tissue represent honeycomb change, the histologic end point of usual interstitial pneumonia and other progressive fibrosing interstitial lung diseases."
   },
   {
     "id": "rednd-046",
     "imageRef": "rednd-046_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
     "label": "Alveolar hemorrhage",
     "category": "Histology & Cell Biology",
-    "brick": "Autoimmune Diseases with Respiratory Manifestations"
+    "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "explanation": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis."
   },
   {
     "id": "rednd-047",
     "imageRef": "rednd-047_Brick Exchange - Baroreceptor Regulation of Blood Pressure_p11_2.png",
     "label": "Baroreceptor reflex",
     "category": "Physiology & Mechanisms",
-    "brick": "Baroreceptor Regulation of Blood Pressure"
+    "brick": "Baroreceptor Regulation of Blood Pressure",
+    "explanation": "The baroreceptor reflex is a fast neural feedback loop acting within seconds to correct transient changes in blood pressure; sustained (long-term) pressure regulation is instead handled by renal control of volume."
   },
   {
     "id": "rednd-048",
     "imageRef": "rednd-048_Brick Exchange - Bronchiectasis_p12_1.png",
     "label": "Bronchiectasis",
     "category": "Lab & Diagnostics",
-    "brick": "Bronchiectasis"
+    "brick": "Bronchiectasis",
+    "explanation": "Permanently dilated, thick-walled bronchi appear as ring shadows and tram-track opacities on plain film, the radiographic signature of bronchiectasis."
   },
   {
     "id": "rednd-049",
     "imageRef": "rednd-049_Brick Exchange - Bronchiectasis_p13_1.png",
     "label": "Bronchiectasis",
     "category": "Lab & Diagnostics",
-    "brick": "Bronchiectasis"
+    "brick": "Bronchiectasis",
+    "explanation": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction."
   },
   {
     "id": "rednd-050",
     "imageRef": "rednd-050_Brick Exchange - Bronchiectasis_p4_1.png",
     "label": "Bronchiectasis",
     "category": "Pathology",
-    "brick": "Bronchiectasis"
+    "brick": "Bronchiectasis",
+    "explanation": "Bronchiectasis is irreversible dilation of bronchi from destruction of the airway wall, leading to pooling of mucus (shown green) and recurrent infection, distinct from the reversible narrowing of asthma or the alveolar destruction of emphysema."
   },
   {
     "id": "rednd-051",
     "imageRef": "rednd-051_Brick Exchange - Bronchiectasis_p6_1.png",
     "label": "Bronchiectasis",
     "category": "Pathology",
-    "brick": "Bronchiectasis"
+    "brick": "Bronchiectasis",
+    "explanation": "Grossly, bronchiectasis appears as permanently dilated bronchi extending abnormally close to the pleural surface, often filled with mucopurulent secretions, reflecting chronic infection and airway wall destruction."
   },
   {
     "id": "rednd-052",
     "imageRef": "rednd-052_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p11_1.png",
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Cardiac - Compliance, Contractility, Preload, and Afterload"
+    "brick": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+    "explanation": "The rising, then plateauing, curve of force versus preload is the Frank-Starling mechanism: greater end-diastolic stretch increases actin-myosin overlap and contractile force until overstretch limits further gain."
   },
   {
     "id": "rednd-053",
     "imageRef": "rednd-053_Brick Exchange - Cardiac Cycle_p12_1.png",
     "label": "Dicrotic notch",
     "category": "Physiology & Mechanisms",
-    "brick": "Cardiac Cycle"
+    "brick": "Cardiac Cycle",
+    "explanation": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole."
   },
   {
     "id": "rednd-054",
     "imageRef": "rednd-054_Brick Exchange - Cardiac Cycle_p13_1.png",
     "label": "Jugular venous pressure",
     "category": "Lab & Diagnostics",
-    "brick": "Cardiac Cycle"
+    "brick": "Cardiac Cycle",
+    "explanation": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling."
   },
   {
     "id": "rednd-055",
     "imageRef": "rednd-055_Brick Exchange - Cardiac Tumors_p10_1.png",
     "label": "Cardiac myxoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms."
   },
   {
     "id": "rednd-056",
     "imageRef": "rednd-056_Brick Exchange - Cardiac Tumors_p16_1.png",
     "label": "Cardiac myxoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow."
   },
   {
     "id": "rednd-057",
     "imageRef": "rednd-057_Brick Exchange - Cardiac Tumors_p17_1.png",
     "label": "Cardiac rhabdomyoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell')."
   },
   {
     "id": "rednd-058",
     "imageRef": "rednd-058_Brick Exchange - Cardiac Tumors_p18_1.png",
     "label": "Spider cell",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery."
   },
   {
     "id": "rednd-059",
     "imageRef": "rednd-059_Brick Exchange - Cardiac Tumors_p4_1.png",
     "label": "Cardiac myxoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize."
   },
   {
     "id": "rednd-060",
     "imageRef": "rednd-060_Brick Exchange - Cardiac Tumors_p5_1.png",
     "label": "Cardiac myxoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'."
   },
   {
     "id": "rednd-061",
     "imageRef": "rednd-061_Brick Exchange - Cardiac Tumors_p7_1.png",
     "label": "Cardiac myxoma",
     "category": "Pathology",
-    "brick": "Cardiac Tumors"
+    "brick": "Cardiac Tumors",
+    "explanation": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells."
   },
   {
     "id": "rednd-062",
     "imageRef": "rednd-062_Brick Exchange - Cardiac and Vascular Function Curves_p12_1.png",
     "label": "Venous return curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Cardiac and Vascular Function Curves"
+    "brick": "Cardiac and Vascular Function Curves",
+    "explanation": "Adding volume or increasing venous tone raises the mean circulatory filling pressure (the x-intercept where venous return is zero), shifting the entire venous return curve rightward and upward and increasing venous return at any given right atrial pressure."
   },
   {
     "id": "rednd-063",
     "imageRef": "rednd-063_Brick Exchange - Cardiac and Vascular Function Curves_p3_1.png",
     "label": "Frank-Starling curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Cardiac and Vascular Function Curves"
+    "brick": "Cardiac and Vascular Function Curves",
+    "explanation": "The Frank-Starling relationship states that increased ventricular filling (preload/EDV) stretches the myocardium and increases stroke volume and cardiac output, until the curve plateaus. This intrinsic mechanism matches output to venous return on a beat-to-beat basis."
   },
   {
     "id": "rednd-064",
     "imageRef": "rednd-064_Brick Exchange - Cardiac and Vascular Function Curves_p9_1.png",
     "label": "Venous return curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Cardiac and Vascular Function Curves"
+    "brick": "Cardiac and Vascular Function Curves",
+    "explanation": "The x-intercept is the mean circulatory filling pressure: the pressure everywhere in the vasculature when the heart stops and flow ceases (normally ~7 mmHg). It reflects blood volume and venous compliance/tone, and it is the driving pressure for venous return."
   },
   {
     "id": "rednd-065",
     "imageRef": "rednd-065_Brick Exchange - Carotid Stenosis_p12_1.png",
     "label": "Carotid angiogram",
     "category": "Pathology",
-    "brick": "Carotid Stenosis"
+    "brick": "Carotid Stenosis",
+    "explanation": "At branch points such as the carotid bifurcation, disturbed flow with regions of low and oscillatory wall shear stress upregulates adhesion molecules and impairs endothelial function, favoring atherosclerosis. The internal carotid origin is the classic site of high-grade stenosis."
   },
   {
     "id": "rednd-066",
     "imageRef": "rednd-066_Brick Exchange - Carotid Stenosis_p15_1.png",
     "label": "Carotid stenosis",
     "category": "Lab & Diagnostics",
-    "brick": "Carotid Stenosis"
+    "brick": "Carotid Stenosis",
+    "explanation": "The arrows mark an abrupt focal narrowing of the contrast column, the angiographic hallmark of an atherosclerotic carotid stenosis. Unlike the smooth tapering of dissection or the beaded appearance of fibromuscular dysplasia, this is a discrete plaque-related luminal loss."
   },
   {
     "id": "rednd-067",
     "imageRef": "rednd-067_Brick Exchange - Carotid Stenosis_p16_1.png",
     "label": "Carotid endarterectomy",
     "category": "Gross Anatomy",
-    "brick": "Carotid Stenosis"
+    "brick": "Carotid Stenosis",
+    "explanation": "Carotid endarterectomy involves a longitudinal arteriotomy with surgical removal of the atheromatous plaque and closure of the vessel. It reduces stroke risk in patients with symptomatic high-grade internal carotid stenosis."
   },
   {
     "id": "rednd-068",
     "imageRef": "rednd-068_Brick Exchange - Carotid Stenosis_p3_1.png",
     "label": "Atherosclerotic plaque",
     "category": "Pathology",
-    "brick": "Carotid Stenosis"
+    "brick": "Carotid Stenosis",
+    "explanation": "The yellow lipid-rich core with fibrous cap is a classic atheroma. Such plaques narrow the carotid lumen and, on ulceration, serve as a source of artery-to-artery emboli causing stroke or transient ischemic attack."
   },
   {
     "id": "rednd-069",
     "imageRef": "rednd-069_Brick Exchange - Carotid Stenosis_p6_1.png",
     "label": "Non-contrast head CT",
     "category": "Lab & Diagnostics",
-    "brick": "Carotid Stenosis"
+    "brick": "Carotid Stenosis",
+    "explanation": "Non-contrast CT is fast and highly sensitive for blood; its first role in acute stroke is to rule out hemorrhage, which contraindicates thrombolysis. Early ischemic infarcts are often subtle or invisible on the initial scan."
   },
   {
     "id": "rednd-070",
     "imageRef": "rednd-070_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p6_1.png",
     "label": "Barrel chest",
     "category": "Physiology & Mechanisms",
-    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology"
+    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "explanation": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest."
   },
   {
     "id": "rednd-071",
     "imageRef": "rednd-071_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
     "label": "Squamous metaplasia",
     "category": "Pathology",
-    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology"
+    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+    "explanation": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia."
   },
   {
     "id": "rednd-072",
     "imageRef": "rednd-072_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
     "label": "Chest radiograph",
     "category": "Lab & Diagnostics",
-    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management"
+    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "explanation": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation."
   },
   {
     "id": "rednd-073",
     "imageRef": "rednd-073_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p13_1.png",
     "label": "Lateral chest radiograph",
     "category": "Lab & Diagnostics",
-    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management"
+    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+    "explanation": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film."
   },
   {
     "id": "rednd-074",
     "imageRef": "rednd-074_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p10_1.png",
     "label": "Cyanosis",
     "category": "Pathology",
-    "brick": "Congenital Heart Defects: Foundations and Frameworks"
+    "brick": "Congenital Heart Defects: Foundations and Frameworks",
+    "explanation": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration."
   },
   {
     "id": "rednd-075",
     "imageRef": "rednd-075_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p11_1.png",
     "label": "Clubbing",
     "category": "Pathology",
-    "brick": "Congenital Heart Defects: Foundations and Frameworks"
+    "brick": "Congenital Heart Defects: Foundations and Frameworks",
+    "explanation": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt."
   },
   {
     "id": "rednd-076",
     "imageRef": "rednd-076_Brick Exchange - Constrictive Pericarditis_p12_1.png",
     "label": "Pericardium",
     "category": "Pathology",
-    "brick": "Constrictive Pericarditis"
+    "brick": "Constrictive Pericarditis",
+    "explanation": "In constrictive pericarditis the fibrotic, rigid pericardium encases the heart and prevents adequate diastolic filling; pericardiectomy (removal of the pericardium) frees the ventricles to fill normally, relieving the constriction."
   },
   {
     "id": "rednd-077",
     "imageRef": "rednd-077_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_2.png",
     "label": "Brainstem",
     "category": "Physiology & Mechanisms",
-    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "explanation": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks."
   },
   {
     "id": "rednd-078",
     "imageRef": "rednd-078_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
     "label": "Sternum",
     "category": "Gross Anatomy",
-    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "explanation": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage."
   },
   {
     "id": "rednd-079",
     "imageRef": "rednd-079_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_4.png",
     "label": "Medulla oblongata",
     "category": "Physiology & Mechanisms",
-    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "explanation": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm."
   },
   {
     "id": "rednd-080",
     "imageRef": "rednd-080_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_5.png",
     "label": "External intercostal muscles",
     "category": "Physiology & Mechanisms",
-    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "explanation": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in."
   },
   {
     "id": "rednd-081",
     "imageRef": "rednd-081_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
     "label": "Diaphragm",
     "category": "Gross Anatomy",
-    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "explanation": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration."
   },
   {
     "id": "rednd-082",
     "imageRef": "rednd-082_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p2_1.png",
     "label": "Coronary arteries",
     "category": "Gross Anatomy",
-    "brick": "Coronary Blood Flow- Vascular Physiology"
+    "brick": "Coronary Blood Flow- Vascular Physiology",
+    "explanation": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes."
   },
   {
     "id": "rednd-083",
     "imageRef": "rednd-083_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p10_1.png",
     "label": "Boot-shaped heart",
     "category": "Lab & Diagnostics",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette."
   },
   {
     "id": "rednd-084",
     "imageRef": "rednd-084_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p19_1.png",
     "label": "Truncus arteriosus",
     "category": "Pathology",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood."
   },
   {
     "id": "rednd-085",
     "imageRef": "rednd-085_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p1_1.png",
     "label": "Cyanosis",
     "category": "Pathology",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation."
   },
   {
     "id": "rednd-086",
     "imageRef": "rednd-086_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p23_1.png",
     "label": "Cardiac MRI",
     "category": "Lab & Diagnostics",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging."
   },
   {
     "id": "rednd-087",
     "imageRef": "rednd-087_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p3_1.png",
     "label": "Tetralogy of Fallot",
     "category": "Pathology",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood."
   },
   {
     "id": "rednd-088",
     "imageRef": "rednd-088_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p7_1.png",
     "label": "Cyanosis",
     "category": "Pathology",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation."
   },
   {
     "id": "rednd-089",
     "imageRef": "rednd-089_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p9_1.png",
     "label": "Clubbing",
     "category": "Pathology",
-    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+    "explanation": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing."
   },
   {
     "id": "rednd-090",
     "imageRef": "rednd-090_Brick Exchange - Cystic Fibrosis (1 of 2)_p9_1.png",
     "label": "Bronchiectasis",
     "category": "Pathology",
-    "brick": "Cystic Fibrosis (1 of 2)"
+    "brick": "Cystic Fibrosis (1 of 2)",
+    "explanation": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis."
   },
   {
     "id": "rednd-091",
     "imageRef": "rednd-091_Brick Exchange - Cystic Fibrosis (2 of 2)_p2_1.png",
     "label": "Chest physiotherapy vest",
     "category": "Physiology & Mechanisms",
-    "brick": "Cystic Fibrosis (2 of 2)"
+    "brick": "Cystic Fibrosis (2 of 2)",
+    "explanation": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care."
   },
   {
     "id": "rednd-092",
     "imageRef": "rednd-092_Brick Exchange - Deep Vein Thrombosis_p10_1.png",
     "label": "Deep vein thrombosis",
     "category": "Pathology",
-    "brick": "Deep Vein Thrombosis"
+    "brick": "Deep Vein Thrombosis",
+    "explanation": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause."
   },
   {
     "id": "rednd-093",
     "imageRef": "rednd-093_Brick Exchange - Deep Vein Thrombosis_p14_1.png",
     "label": "Compression ultrasound",
     "category": "Lab & Diagnostics",
-    "brick": "Deep Vein Thrombosis"
+    "brick": "Deep Vein Thrombosis",
+    "explanation": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis."
   },
   {
     "id": "rednd-094",
     "imageRef": "rednd-094_Brick Exchange - Deep Vein Thrombosis_p16_1.png",
     "label": "Pneumatic compression device",
     "category": "Physiology & Mechanisms",
-    "brick": "Deep Vein Thrombosis"
+    "brick": "Deep Vein Thrombosis",
+    "explanation": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients."
   },
   {
     "id": "rednd-095",
     "imageRef": "rednd-095_Brick Exchange - Deep Vein Thrombosis_p2_1.png",
     "label": "Embolus",
     "category": "Pathology",
-    "brick": "Deep Vein Thrombosis"
+    "brick": "Deep Vein Thrombosis",
+    "explanation": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists."
   },
   {
     "id": "rednd-096",
     "imageRef": "rednd-096_Brick Exchange - Deep Vein Thrombosis_p6_1.png",
     "label": "Virchow's triad",
     "category": "Pathology",
-    "brick": "Deep Vein Thrombosis"
+    "brick": "Deep Vein Thrombosis",
+    "explanation": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk."
   },
   {
     "id": "rednd-097",
     "imageRef": "rednd-097_Brick Exchange - Development of the Aortic Arches_p3_1.png",
     "label": "Thyroid gland",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically."
   },
   {
     "id": "rednd-098",
     "imageRef": "rednd-098_Brick Exchange - Development of the Aortic Arches_p5_1.png",
     "label": "Pharyngeal arches",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels."
   },
   {
     "id": "rednd-099",
     "imageRef": "rednd-099_Brick Exchange - Development of the Aortic Arches_p5_2.png",
     "label": "Pharyngeal cleft",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus."
   },
   {
     "id": "rednd-100",
     "imageRef": "rednd-100_Brick Exchange - Development of the Aortic Arches_p5_3.png",
     "label": "Somites",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization."
   },
   {
     "id": "rednd-101",
     "imageRef": "rednd-101_Brick Exchange - Development of the Aortic Arches_p6_1.png",
     "label": "Aortic arches",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches."
   },
   {
     "id": "rednd-102",
     "imageRef": "rednd-102_Brick Exchange - Development of the Aortic Arches_p9_1.png",
     "label": "Ductus arteriosus",
     "category": "Gross Anatomy",
-    "brick": "Development of the Aortic Arches"
+    "brick": "Development of the Aortic Arches",
+    "explanation": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum."
   },
   {
     "id": "rednd-103",
     "imageRef": "rednd-103_Brick Exchange - Development of the Respiratory Tract_p10_1.png",
     "label": "Alveolus",
     "category": "Histology & Cell Biology",
-    "brick": "Development of the Respiratory Tract"
+    "brick": "Development of the Respiratory Tract",
+    "explanation": "The cuboidal type II pneumocyte secretes pulmonary surfactant, which lowers alveolar surface tension and prevents alveolar collapse at end-expiration. Type I pneumocytes form the thin gas-exchange surface, and macrophages clear debris; endothelial cells line the capillary."
   },
   {
     "id": "rednd-104",
     "imageRef": "rednd-104_Brick Exchange - Development of the Respiratory Tract_p12_1.png",
     "label": "Lung",
     "category": "Histology & Cell Biology",
-    "brick": "Development of the Respiratory Tract"
+    "brick": "Development of the Respiratory Tract",
+    "explanation": "The delicate polygonal air spaces (alveoli) with thin capillary-containing septa opening off a bronchiolar lumen are the defining histologic architecture of lung parenchyma, specialized for gas exchange."
   },
   {
     "id": "rednd-105",
     "imageRef": "rednd-105_Brick Exchange - Diagnosis by Cardiovascular Imaging_p10_1.png",
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion."
   },
   {
     "id": "rednd-106",
     "imageRef": "rednd-106_Brick Exchange - Diagnosis by Cardiovascular Imaging_p17_2.png",
     "label": "Coronary stent",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "A balloon compresses the atherosclerotic plaque and deploys a stent that scaffolds the widened lumen to maintain increased blood flow, the standard percutaneous treatment for a flow-limiting coronary stenosis."
   },
   {
     "id": "rednd-107",
     "imageRef": "rednd-107_Brick Exchange - Diagnosis by Cardiovascular Imaging_p19_1.png",
     "label": "Coronary calcium",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The red circles mark calcified atherosclerotic plaque in the coronary arteries. Coronary artery calcium scoring on non-contrast CT quantifies atherosclerotic burden and refines cardiovascular risk stratification."
   },
   {
     "id": "rednd-108",
     "imageRef": "rednd-108_Brick Exchange - Diagnosis by Cardiovascular Imaging_p1_1.png",
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "This is a bedside portable chest X-ray obtained supine in the AP projection, common in critically ill patients who cannot stand for a standard PA film. AP supine technique magnifies the heart and mediastinum."
   },
   {
     "id": "rednd-109",
     "imageRef": "rednd-109_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_1.png",
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Multiple modalities are used to measure the dilated abdominal aorta, whose diameter (>3 cm, here 5.5 cm) defines an aneurysm. Size on serial imaging guides surgical repair decisions."
   },
   {
     "id": "rednd-110",
     "imageRef": "rednd-110_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_2.png",
     "label": "Suprasternal notch view",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The suprasternal notch echocardiographic view images the aortic arch with the innominate, left common carotid, and left subclavian arteries, useful for assessing dissection, coarctation, and arch pathology."
   },
   {
     "id": "rednd-111",
     "imageRef": "rednd-111_Brick Exchange - Diagnosis by Cardiovascular Imaging_p21_1.png",
     "label": "Ascending aortic aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "All three modalities demonstrate abnormal dilation of the ascending aorta above the sinotubular junction, compared to the smaller descending aorta. Diameter drives the threshold for elective surgical repair."
   },
   {
     "id": "rednd-112",
     "imageRef": "rednd-112_Brick Exchange - Diagnosis by Cardiovascular Imaging_p22_1.png",
     "label": "Abdominal aortic aneurysm",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "An abdominal aorta exceeding roughly 3 cm is aneurysmal. The bottom panel shows contrast and blood extending beyond the aortic wall, indicating a life-threatening rupture."
   },
   {
     "id": "rednd-113",
     "imageRef": "rednd-113_Brick Exchange - Diagnosis by Cardiovascular Imaging_p23_1.png",
     "label": "Angiography",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Conventional angiography and CT angiographic 3D reconstruction opacify the iliofemoral arterial tree to localize atherosclerotic narrowing or occlusion, guiding revascularization in peripheral arterial disease."
   },
   {
     "id": "rednd-114",
     "imageRef": "rednd-114_Brick Exchange - Diagnosis by Cardiovascular Imaging_p24_1.png",
     "label": "Peripheral arterial disease",
     "category": "Pathology",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Diffuse narrowing and reduced distal opacification of the tibial arteries reflect atherosclerotic peripheral arterial disease, which reduces limb perfusion and causes claudication or critical limb ischemia."
   },
   {
     "id": "rednd-115",
     "imageRef": "rednd-115_Brick Exchange - Diagnosis by Cardiovascular Imaging_p25_1.png",
     "label": "Traumatic aortic injury",
     "category": "Pathology",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Blunt traumatic aortic injury typically occurs at the isthmus just distal to the left subclavian artery, where the mobile arch meets the fixed descending aorta; deceleration forces shear the wall at this tethered point."
   },
   {
     "id": "rednd-116",
     "imageRef": "rednd-116_Brick Exchange - Diagnosis by Cardiovascular Imaging_p26_1.png",
     "label": "Traumatic aortic injury mechanisms",
     "category": "Physiology & Mechanisms",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The diagram illustrates how deceleration generates osseous pinch, torsion, a water-hammer pressure surge, and stretching/shearing at the aortic isthmus, explaining why blunt trauma injures the aorta at this vulnerable site."
   },
   {
     "id": "rednd-117",
     "imageRef": "rednd-117_Brick Exchange - Diagnosis by Cardiovascular Imaging_p3_1.png",
     "label": "Aortic dissection",
     "category": "Pathology",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The blue ovals mark an intimal flap, the hallmark of aortic dissection, where blood enters and splits the intima from the media creating a false lumen. On chest X-ray this may appear as a widened mediastinum."
   },
   {
     "id": "rednd-118",
     "imageRef": "rednd-118_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_1.png",
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "A routine chest X-ray series pairs a posteroanterior (frontal) view with a lateral view; the lateral projection helps localize lesions in the anteroposterior dimension and evaluate retrocardiac and retrosternal spaces."
   },
   {
     "id": "rednd-119",
     "imageRef": "rednd-119_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_2.png",
     "label": "Retrosternal mass",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The lateral view and CT localize the mass behind the sternum in the anterior mediastinum, the compartment classically home to thymoma, teratoma, lymphoma, and thyroid masses (the 'terrible Ts')."
   },
   {
     "id": "rednd-120",
     "imageRef": "rednd-120_Brick Exchange - Diagnosis by Cardiovascular Imaging_p6_1.png",
     "label": "Pericardial effusion",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "A large pericardial effusion produces a globular, symmetric 'water-bottle' cardiac silhouette that distends the pericardial sac, distinct from true chamber enlargement seen in cardiomegaly."
   },
   {
     "id": "rednd-121",
     "imageRef": "rednd-121_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_1.png",
     "label": "Pulmonary edema",
     "category": "Pathology",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "The combination of upper-lobe vascular redistribution, peribronchial cuffing, Kerley B lines, hilar congestion, and an enlarged heart reflects elevated pulmonary venous pressure from left heart failure causing interstitial pulmonary edema."
   },
   {
     "id": "rednd-122",
     "imageRef": "rednd-122_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_2.png",
     "label": "Chest X-ray",
     "category": "Lab & Diagnostics",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "This is a portable (bedside) chest X-ray taken with the patient upright, indicated by the PORTABLE/UPRIGHT annotation and the tangle of external ICU leads and tubing overlying the thorax."
   },
   {
     "id": "rednd-123",
     "imageRef": "rednd-123_Brick Exchange - Diagnosis by Cardiovascular Imaging_p9_1.png",
     "label": "Cardiogenic pulmonary edema",
     "category": "Physiology & Mechanisms",
-    "brick": "Diagnosis by Cardiovascular Imaging"
+    "brick": "Diagnosis by Cardiovascular Imaging",
+    "explanation": "Cardiogenic pulmonary edema arises when failing left heart function raises left atrial and pulmonary venous pressure, driving fluid into the interstitium and alveoli, producing the perihilar batwing pattern and Kerley B lines."
   },
   {
     "id": "rednd-124",
     "imageRef": "rednd-124_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p10_1.png",
     "label": "Pulmonary edema",
     "category": "Pathology",
-    "brick": "Diagnosis of Heart Failure: From Clinical Presentation to Classification"
+    "brick": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+    "explanation": "The symmetric bilateral hazy opacities radiating from the hila indicate pulmonary edema, fluid extravasated into the interstitium and alveoli from elevated pulmonary venous pressure in decompensated heart failure."
   },
   {
     "id": "rednd-125",
     "imageRef": "rednd-125_Brick Exchange - Dilated Cardiomyopathy_p7_1.png",
     "label": "Dilated cardiomyopathy",
     "category": "Pathology",
-    "brick": "Dilated Cardiomyopathy"
+    "brick": "Dilated Cardiomyopathy",
+    "explanation": "A dilated, thin-walled ventricular chamber with an increased volume-to-mass ratio is the classic gross appearance of dilated cardiomyopathy."
   },
   {
     "id": "rednd-126",
     "imageRef": "rednd-126_Brick Exchange - Dilated Cardiomyopathy_p9_1.png",
     "label": "Myocarditis",
     "category": "Histology & Cell Biology",
-    "brick": "Dilated Cardiomyopathy"
+    "brick": "Dilated Cardiomyopathy",
+    "explanation": "An interstitial lymphocytic infiltrate with associated myocyte injury defines lymphocytic myocarditis, a common cause of secondary dilated cardiomyopathy."
   },
   {
     "id": "rednd-127",
     "imageRef": "rednd-127_Brick Exchange - Dyslipidemia_ Pathophysiology_p13_1.png",
     "label": "Xanthelasma",
     "category": "Pathology",
-    "brick": "Dyslipidemia: Pathophysiology"
+    "brick": "Dyslipidemia: Pathophysiology",
+    "explanation": "Xanthelasma are lipid-laden macrophage deposits in the periorbital skin and are a cutaneous marker of dyslipidemia, especially elevated LDL cholesterol."
   },
   {
     "id": "rednd-128",
     "imageRef": "rednd-128_Brick Exchange - Dyslipidemia_ Pathophysiology_p14_1.png",
     "label": "Corneal arcus",
     "category": "Pathology",
-    "brick": "Dyslipidemia: Pathophysiology"
+    "brick": "Dyslipidemia: Pathophysiology",
+    "explanation": "Corneal arcus is a ring of lipid deposition at the corneal margin; when present in younger patients it suggests underlying hyperlipidemia."
   },
   {
     "id": "rednd-129",
     "imageRef": "rednd-129_Brick Exchange - Dyslipidemia_ Pharmacological and Non-Pharmacological options_p14_1.png",
     "label": "Inclisiran",
     "category": "Pharmacology",
-    "brick": "Dyslipidemia: Pharmacological and Non-Pharmacological options"
+    "brick": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+    "explanation": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood."
   },
   {
     "id": "rednd-130",
     "imageRef": "rednd-130_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p12_1.png",
     "label": "Sinus tachycardia",
     "category": "Lab & Diagnostics",
-    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia"
+    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "explanation": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart."
   },
   {
     "id": "rednd-131",
     "imageRef": "rednd-131_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p4_1.png",
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
-    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia"
+    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia",
+    "explanation": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes."
   },
   {
     "id": "rednd-132",
     "imageRef": "rednd-132_Brick Exchange - Edema_p11_1.png",
     "label": "Ascites",
     "category": "Pathology",
-    "brick": "Edema"
+    "brick": "Edema",
+    "explanation": "Ascites is the pathological accumulation of fluid within the peritoneal cavity, most often from portal hypertension (cirrhosis) or heart failure. The tense distension and visible collateral veins reflect the same imbalance in Starling forces and sodium retention that drives peripheral edema."
   },
   {
     "id": "rednd-133",
     "imageRef": "rednd-133_Brick Exchange - Edema_p2_1.png",
     "label": "Pitting edema",
     "category": "Pathology",
-    "brick": "Edema"
+    "brick": "Edema",
+    "explanation": "Pressure that displaces interstitial fluid and leaves a lingering pit indicates pitting edema, typical of fluid overload from heart failure, hypoalbuminemia, or venous insufficiency. Non-pitting swelling (myxedema, chronic lymphedema) does not retain the indentation."
   },
   {
     "id": "rednd-134",
     "imageRef": "rednd-134_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p12_1.png",
     "label": "Precordial lead placement",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "The precordial (chest) leads V1 through V6 encircle the thorax and view the heart's depolarization in the horizontal plane, complementing the limb leads that view the frontal plane. Together they localize activity in two perpendicular planes."
   },
   {
     "id": "rednd-135",
     "imageRef": "rednd-135_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p14_1.png",
     "label": "Einthoven triangle",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "In lead II the positive electrode is at the left leg; ventricular depolarization spreads from the AV node down and to the left, nearly parallel to and toward this electrode, producing a tall upright QRS."
   },
   {
     "id": "rednd-136",
     "imageRef": "rednd-136_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p15_1.png",
     "label": "QRS complex",
     "category": "Physiology & Mechanisms",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "The QRS complex reflects rapid depolarization of the ventricular myocardium; the P wave is atrial depolarization and the T wave is ventricular repolarization."
   },
   {
     "id": "rednd-137",
     "imageRef": "rednd-137_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p18_1.png",
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "A standard 12-lead ECG records brief segments of each lead; the long bottom strip is a continuous rhythm strip (often lead II or V1) used to evaluate rate and rhythm across many beats."
   },
   {
     "id": "rednd-138",
     "imageRef": "rednd-138_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p3_1.png",
     "label": "Cardiac action potential",
     "category": "Physiology & Mechanisms",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "Phase 2 is the plateau of the ventricular action potential, produced by inward Ca2+ current balancing outward K+ current; this prolonged depolarization underlies the refractory period and corresponds to the ST segment."
   },
   {
     "id": "rednd-139",
     "imageRef": "rednd-139_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p6_1.png",
     "label": "Limb leads",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "The six limb leads (I, II, III, aVR, aVL, aVF) view the heart from different angles in the frontal plane; comparing their deflections lets one calculate the mean QRS electrical axis."
   },
   {
     "id": "rednd-140",
     "imageRef": "rednd-140_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p9_1.png",
     "label": "Limb electrode placement",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+    "explanation": "The right leg (green) electrode is a ground/reference used for noise reduction and does not contribute directly to the recorded limb-lead vectors."
   },
   {
     "id": "rednd-141",
     "imageRef": "rednd-141_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p13_1.png",
     "label": "R-R interval",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "explanation": "The R-R interval is the time between successive R waves; because it represents one full beat-to-beat cycle, it is used to calculate heart rate."
   },
   {
     "id": "rednd-142",
     "imageRef": "rednd-142_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p16_1.png",
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "explanation": "The simultaneous display of the six limb leads (I, II, III, aVR, aVL, aVF) and six precordial leads (V1-V6) on pink graph paper is the standard format of a 12-lead ECG, which records the heart's electrical activity from multiple spatial vantage points."
   },
   {
     "id": "rednd-143",
     "imageRef": "rednd-143_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p2_1.png",
     "label": "ECG lead axes",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "explanation": "The arrows show that the limb leads (frontal plane) and precordial leads (horizontal plane) each 'look at' the heart's depolarization from a distinct angle. Combining these views lets the ECG localize electrical events in three dimensions."
   },
   {
     "id": "rednd-144",
     "imageRef": "rednd-144_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p9_1.png",
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
-    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+    "explanation": "The continuously changing QRS amplitude that appears to 'twist' around the isoelectric baseline is characteristic of torsades de pointes, a polymorphic ventricular tachycardia associated with a prolonged QT interval."
   },
   {
     "id": "rednd-145",
     "imageRef": "rednd-145_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p14_1.png",
     "label": "12-lead ECG",
     "category": "Lab & Diagnostics",
-    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "explanation": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks."
   },
   {
     "id": "rednd-146",
     "imageRef": "rednd-146_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p1_1.png",
     "label": "Cardiac conduction system",
     "category": "Physiology & Mechanisms",
-    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "explanation": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block."
   },
   {
     "id": "rednd-147",
     "imageRef": "rednd-147_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_1.png",
     "label": "Left bundle branch block",
     "category": "Lab & Diagnostics",
-    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "explanation": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads."
   },
   {
     "id": "rednd-148",
     "imageRef": "rednd-148_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_2.png",
     "label": "Right bundle branch block",
     "category": "Lab & Diagnostics",
-    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+    "explanation": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation."
   },
   {
     "id": "rednd-149",
     "imageRef": "rednd-149_Brick Exchange - Hemodynamics_ Blood Pressure_p2_1.png",
     "label": "Sphygmomanometer",
     "category": "Lab & Diagnostics",
-    "brick": "Hemodynamics: Blood Pressure"
+    "brick": "Hemodynamics: Blood Pressure",
+    "explanation": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure."
   },
   {
     "id": "rednd-150",
     "imageRef": "rednd-150_Brick Exchange - Histology of Blood Vessels and Lymphatics_p10_1.png",
     "label": "Elastic fibers",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "The wavy, refractile, dark-purple/black branching fibers are elastic fibers highlighted by an elastic stain (e.g., Verhoeff/orcein). Their recoil property underlies the elasticity of arteries such as the aorta."
   },
   {
     "id": "rednd-151",
     "imageRef": "rednd-151_Brick Exchange - Histology of Blood Vessels and Lymphatics_p15_1.png",
     "label": "Vein",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "Veins have thin walls and large lumina and operate under low pressure, serving as capacitance (reservoir) vessels that hold much of the circulating blood volume. The thin wall cannot resist the high pressures seen in arteries."
   },
   {
     "id": "rednd-152",
     "imageRef": "rednd-152_Brick Exchange - Histology of Blood Vessels and Lymphatics_p17_1.png",
     "label": "Capillary",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "Capillaries consist essentially of a single endothelial layer and basement membrane; this minimal barrier is optimized for diffusion/exchange of O2, CO2, nutrients, and metabolic wastes between blood and tissue."
   },
   {
     "id": "rednd-153",
     "imageRef": "rednd-153_Brick Exchange - Histology of Blood Vessels and Lymphatics_p22_1.png",
     "label": "Sinusoidal fenestrae",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "Sinusoidal fenestrae are large openings in the endothelium (with discontinuous basement membrane) that allow proteins, and even whole cells, to move between blood and tissue, a property essential in liver, spleen, and bone marrow."
   },
   {
     "id": "rednd-154",
     "imageRef": "rednd-154_Brick Exchange - Histology of Blood Vessels and Lymphatics_p25_1.png",
     "label": "Lymphatic capillary",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "Lymphatic capillaries have a highly attenuated, overlapping endothelium with anchoring filaments and an absent/discontinuous basement membrane, permitting entry of interstitial fluid and macromolecules to form lymph."
   },
   {
     "id": "rednd-155",
     "imageRef": "rednd-155_Brick Exchange - Histology of Blood Vessels and Lymphatics_p3_1.png",
     "label": "Muscular artery",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "A single prominent, wavy internal elastic lamina between intima and media is the hallmark of a muscular artery; the waviness results from post-mortem smooth muscle contraction."
   },
   {
     "id": "rednd-156",
     "imageRef": "rednd-156_Brick Exchange - Histology of Blood Vessels and Lymphatics_p9_1.png",
     "label": "Elastic artery",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of Blood Vessels and Lymphatics"
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "explanation": "Numerous concentric elastic lamellae throughout a thick media identify an elastic (conducting) artery such as the aorta; the elastin stores energy during systole and recoils during diastole (Windkessel effect) to maintain continuous flow."
   },
   {
     "id": "rednd-157",
     "imageRef": "rednd-157_Brick Exchange - Histology of the Heart_p11_1.png",
     "label": "Cardiac muscle",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Heart"
+    "brick": "Histology of the Heart",
+    "explanation": "Branching fibers with single central nuclei and interposed capillaries are diagnostic of cardiac muscle, distinguishing it from multinucleated peripheral-nucleus skeletal muscle and spindle-shaped smooth muscle."
   },
   {
     "id": "rednd-158",
     "imageRef": "rednd-158_Brick Exchange - Histology of the Heart_p13_1.png",
     "label": "Intercalated disc",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Heart"
+    "brick": "Histology of the Heart",
+    "explanation": "Intercalated discs are specialized step-like junctions between cardiomyocytes containing desmosomes/fasciae adherentes (mechanical linkage) and gap junctions (electrical continuity), enabling the myocardium to contract as a functional syncytium."
   },
   {
     "id": "rednd-159",
     "imageRef": "rednd-159_Brick Exchange - Histology of the Heart_p2_1.png",
     "label": "Epicardium",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Heart"
+    "brick": "Histology of the Heart",
+    "explanation": "The outer surface mesothelium overlying loose connective tissue, adipose, nerves and vessels directly on myocardium is the epicardium, i.e. the visceral layer of the serous pericardium."
   },
   {
     "id": "rednd-160",
     "imageRef": "rednd-160_Brick Exchange - Histology of the Respiratory Tract_p13_1.png",
     "label": "Trachea",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Pseudostratified ciliated columnar (respiratory) epithelium resting on a mucosa/submucosa supported by hyaline cartilage is characteristic of the trachea and large bronchi of the conducting airways."
   },
   {
     "id": "rednd-161",
     "imageRef": "rednd-161_Brick Exchange - Histology of the Respiratory Tract_p15_1.png",
     "label": "Bronchiole",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "A small conducting airway lacking cartilage and glands but wrapped by a relatively prominent smooth muscle layer, surrounded by alveoli, identifies a bronchiole; the absence of cartilage distinguishes it from bronchi."
   },
   {
     "id": "rednd-162",
     "imageRef": "rednd-162_Brick Exchange - Histology of the Respiratory Tract_p16_1.png",
     "label": "Bronchus",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "The bronchial epithelium is pseudostratified ciliated columnar with goblet cells; cilia sweep mucus-trapped debris up toward the pharynx (mucociliary escalator). Gas exchange occurs only in alveoli, not conducting airways."
   },
   {
     "id": "rednd-163",
     "imageRef": "rednd-163_Brick Exchange - Histology of the Respiratory Tract_p18_1.png",
     "label": "Alveolus",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Type 2 pneumocytes (cuboidal cells) secrete surfactant, which reduces surface tension and prevents alveolar collapse. Type 1 pneumocytes form the thin gas-exchange surface, and dust cells (macrophages) clear debris."
   },
   {
     "id": "rednd-164",
     "imageRef": "rednd-164_Brick Exchange - Histology of the Respiratory Tract_p19_1.png",
     "label": "Blood-air barrier",
     "category": "Physiology & Mechanisms",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Gas exchange across the blood-air barrier is passive: O2 and CO2 diffuse down their respective partial pressure gradients through the thin Type 1 pneumocyte, fused basement membrane, and capillary endothelium."
   },
   {
     "id": "rednd-165",
     "imageRef": "rednd-165_Brick Exchange - Histology of the Respiratory Tract_p21_1.png",
     "label": "Lung",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "The delicate alveolar architecture with Type 1/Type 2 pneumocytes and macrophages is characteristic of lung parenchyma."
   },
   {
     "id": "rednd-166",
     "imageRef": "rednd-166_Brick Exchange - Histology of the Respiratory Tract_p22_1.png",
     "label": "Visceral pleura",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "The visceral pleura is a serous membrane covering the lung; together with the parietal pleura and pleural fluid it minimizes friction as the lung expands and recoils during breathing."
   },
   {
     "id": "rednd-167",
     "imageRef": "rednd-167_Brick Exchange - Histology of the Respiratory Tract_p3_1.png",
     "label": "Pseudostratified columnar epithelium",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Pseudostratified ciliated columnar epithelium with goblet cells lines the trachea; coordinated ciliary beating propels mucus and trapped debris upward (mucociliary escalator)."
   },
   {
     "id": "rednd-168",
     "imageRef": "rednd-168_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
     "label": "Nasal cavity",
     "category": "Gross Anatomy",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof."
   },
   {
     "id": "rednd-169",
     "imageRef": "rednd-169_Brick Exchange - Histology of the Respiratory Tract_p6_1.png",
     "label": "Olfactory epithelium",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "The olfactory epithelium contains bipolar olfactory receptor neurons whose cilia detect odorants; supporting (sustentacular) and basal cells complete the epithelium."
   },
   {
     "id": "rednd-170",
     "imageRef": "rednd-170_Brick Exchange - Histology of the Respiratory Tract_p8_1.png",
     "label": "Respiratory epithelium",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Goblet cells secrete mucus that traps debris and microbes; the cilia of columnar cells then sweep this mucus toward the pharynx, while basal cells act as the regenerative reserve."
   },
   {
     "id": "rednd-171",
     "imageRef": "rednd-171_Brick Exchange - Histology of the Respiratory Tract_p9_1.png",
     "label": "Stratified squamous epithelium",
     "category": "Histology & Cell Biology",
-    "brick": "Histology of the Respiratory Tract"
+    "brick": "Histology of the Respiratory Tract",
+    "explanation": "Nonkeratinizing stratified squamous epithelium lines areas subject to abrasion such as the oropharynx and laryngopharynx, protecting against the passage of food."
   },
   {
     "id": "rednd-172",
     "imageRef": "rednd-172_Brick Exchange - Hypercapnia_p16_1.png",
     "label": "Capnogram",
     "category": "Lab & Diagnostics",
-    "brick": "Hypercapnia"
+    "brick": "Hypercapnia",
+    "explanation": "On a capnogram, Phase III is the alveolar plateau; its endpoint (ETCO2) reflects alveolar CO2 and approximates arterial PaCO2. Rising ETCO2 indicates hypercapnia/hypoventilation."
   },
   {
     "id": "rednd-173",
     "imageRef": "rednd-173_Brick Exchange - Hypercapnia_p9_1.png",
     "label": "Emphysema",
     "category": "Pathology",
-    "brick": "Hypercapnia"
+    "brick": "Hypercapnia",
+    "explanation": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole with destruction of alveolar walls and loss of surface area, reducing gas exchange and contributing to CO2 retention/hypercapnia in advanced COPD."
   },
   {
     "id": "rednd-174",
     "imageRef": "rednd-174_Brick Exchange - Hypertension_ Foundations and Frameworks_p12_1.png",
     "label": "Hypertensive retinopathy",
     "category": "Lab & Diagnostics",
-    "brick": "Hypertension: Foundations and Frameworks"
+    "brick": "Hypertension: Foundations and Frameworks",
+    "explanation": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury."
   },
   {
     "id": "rednd-175",
     "imageRef": "rednd-175_Brick Exchange - Hypertensive Emergency_p10_1.png",
     "label": "Papilledema",
     "category": "Lab & Diagnostics",
-    "brick": "Hypertensive Emergency"
+    "brick": "Hypertensive Emergency",
+    "explanation": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering."
   },
   {
     "id": "rednd-176",
     "imageRef": "rednd-176_Brick Exchange - Hypertensive Emergency_p7_1.png",
     "label": "Schistocytes",
     "category": "Lab & Diagnostics",
-    "brick": "Hypertensive Emergency"
+    "brick": "Hypertensive Emergency",
+    "explanation": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear."
   },
   {
     "id": "rednd-177",
     "imageRef": "rednd-177_Brick Exchange - Hypertensive Emergency_p8_1.png",
     "label": "Fibrinoid necrosis",
     "category": "Pathology",
-    "brick": "Hypertensive Emergency"
+    "brick": "Hypertensive Emergency",
+    "explanation": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures."
   },
   {
     "id": "rednd-178",
     "imageRef": "rednd-178_Brick Exchange - Hypotension_ Causes, Consequences, and Management_p8_1.png",
     "label": "Trendelenburg position",
     "category": "Physiology & Mechanisms",
-    "brick": "Hypotension: Causes, Consequences, and Management"
+    "brick": "Hypotension: Causes, Consequences, and Management",
+    "explanation": "The head-down Trendelenburg position uses gravity to shift venous blood from the legs toward the thorax, transiently augmenting venous return, preload, and cardiac output as a temporizing maneuver in hypotension."
   },
   {
     "id": "rednd-179",
     "imageRef": "rednd-179_Brick Exchange - Hypoxemia_p18_1.png",
     "label": "Alveolar dead space",
     "category": "Physiology & Mechanisms",
-    "brick": "Hypoxemia"
+    "brick": "Hypoxemia",
+    "explanation": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism."
   },
   {
     "id": "rednd-180",
     "imageRef": "rednd-180_Brick Exchange - Hypoxemia_p23_1.png",
     "label": "Oxygen-hemoglobin dissociation curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Hypoxemia"
+    "brick": "Hypoxemia",
+    "explanation": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation."
   },
   {
     "id": "rednd-181",
     "imageRef": "rednd-181_Brick Exchange - Hypoxemia_p3_1.png",
     "label": "Cyanosis",
     "category": "Physiology & Mechanisms",
-    "brick": "Hypoxemia"
+    "brick": "Hypoxemia",
+    "explanation": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone."
   },
   {
     "id": "rednd-182",
     "imageRef": "rednd-182_Brick Exchange - Hypoxemia_p7_1.png",
     "label": "Alveolar gas exchange",
     "category": "Physiology & Mechanisms",
-    "brick": "Hypoxemia"
+    "brick": "Hypoxemia",
+    "explanation": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange."
   },
   {
     "id": "rednd-183",
     "imageRef": "rednd-183_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
     "label": "Honeycomb lung",
     "category": "Pathology",
-    "brick": "Idiopathic Pulmonary Fibrosis"
+    "brick": "Idiopathic Pulmonary Fibrosis",
+    "explanation": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling."
   },
   {
     "id": "rednd-184",
     "imageRef": "rednd-184_Brick Exchange - Idiopathic Pulmonary Fibrosis_p7_1.png",
     "label": "Pulmonary fibrosis",
     "category": "Pathology",
-    "brick": "Idiopathic Pulmonary Fibrosis"
+    "brick": "Idiopathic Pulmonary Fibrosis",
+    "explanation": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease."
   },
   {
     "id": "rednd-185",
     "imageRef": "rednd-185_Brick Exchange - Infective Endocarditis_p11_1.png",
     "label": "Septic pulmonary emboli",
     "category": "Lab & Diagnostics",
-    "brick": "Infective Endocarditis"
+    "brick": "Infective Endocarditis",
+    "explanation": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease."
   },
   {
     "id": "rednd-186",
     "imageRef": "rednd-186_Brick Exchange - Infective Endocarditis_p16_1.png",
     "label": "Splinter hemorrhages",
     "category": "Pathology",
-    "brick": "Infective Endocarditis"
+    "brick": "Infective Endocarditis",
+    "explanation": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions."
   },
   {
     "id": "rednd-187",
     "imageRef": "rednd-187_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_2.png",
     "label": "Palatine tonsil",
     "category": "Gross Anatomy",
-    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea"
+    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "explanation": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis."
   },
   {
     "id": "rednd-188",
     "imageRef": "rednd-188_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p17_1.png",
     "label": "Tripod position",
     "category": "Pathology",
-    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea"
+    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "explanation": "The tripod (sniffing) position maximizes airway diameter and is a hallmark of acute epiglottitis, together with drooling, dysphagia, and muffled 'hot-potato' voice. The child should be kept calm and upright."
   },
   {
     "id": "rednd-189",
     "imageRef": "rednd-189_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p9_1.png",
     "label": "Digital clubbing",
     "category": "Pathology",
-    "brick": "Interstitial Lung Disease: Foundations and Frameworks"
+    "brick": "Interstitial Lung Disease: Foundations and Frameworks",
+    "explanation": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease."
   },
   {
     "id": "rednd-190",
     "imageRef": "rednd-190_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p13_1.png",
     "label": "Myocyte disarray",
     "category": "Histology & Cell Biology",
-    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy"
+    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "explanation": "Disorganized, interwoven cardiomyocytes (myofiber disarray) with surrounding fibrosis are the microscopic signature of hypertrophic cardiomyopathy and provide a substrate for arrhythmia and sudden death."
   },
   {
     "id": "rednd-191",
     "imageRef": "rednd-191_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p6_1.png",
     "label": "Left ventricular hypertrophy",
     "category": "Pathology",
-    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy"
+    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "explanation": "Uniform, concentric thickening of the LV wall with a reduced cavity size is the hallmark of concentric hypertrophy, which arises when the ventricle must generate sustained high pressures against an increased afterload (hypertension, aortic stenosis). Sarcomeres are laid down in parallel, thickening walls at the expense of chamber volume."
   },
   {
     "id": "rednd-192",
     "imageRef": "rednd-192_Brick Exchange - Management of Shock_p14_1.png",
     "label": "Intra-aortic balloon pump",
     "category": "Physiology & Mechanisms",
-    "brick": "Management of Shock"
+    "brick": "Management of Shock",
+    "explanation": "The intra-aortic balloon pump inflates in diastole (augmenting coronary perfusion pressure) and deflates just before systole (reducing afterload), improving myocardial oxygen supply and cardiac output. This counterpulsation is used as mechanical support in cardiogenic shock."
   },
   {
     "id": "rednd-193",
     "imageRef": "rednd-193_Brick Exchange - Management of Shock_p17_1.png",
     "label": "Swan-Ganz catheter",
     "category": "Lab & Diagnostics",
-    "brick": "Management of Shock"
+    "brick": "Management of Shock",
+    "explanation": "With the balloon wedged, forward pulmonary artery flow is occluded and the catheter tip senses pressure transmitted back through the pulmonary capillary bed from the left atrium. The pulmonary artery wedge (occlusion) pressure therefore approximates left atrial pressure and left ventricular end-diastolic pressure, a measure of left-heart preload."
   },
   {
     "id": "rednd-194",
     "imageRef": "rednd-194_Brick Exchange - Management of Shock_p7_1.png",
     "label": "Pulmonary edema",
     "category": "Lab & Diagnostics",
-    "brick": "Management of Shock"
+    "brick": "Management of Shock",
+    "explanation": "Enlarged central pulmonary vessels (pulmonary venous congestion), interstitial edema, and cardiomegaly indicate raised left atrial/pulmonary venous pressure, i.e., cardiogenic pulmonary edema from left-heart failure. Pneumonia is typically focal/consolidative, pneumothorax shows lucency with lung collapse, and fibrosis/emphysema have distinct chronic patterns."
   },
   {
     "id": "rednd-195",
     "imageRef": "rednd-195_Brick Exchange - Measuring Cardiac Function_p8_1.png",
     "label": "Fick principle",
     "category": "Physiology & Mechanisms",
-    "brick": "Measuring Cardiac Function"
+    "brick": "Measuring Cardiac Function",
+    "explanation": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations."
   },
   {
     "id": "rednd-196",
     "imageRef": "rednd-196_Brick Exchange - Measuring Cardiac Function_p9_1.png",
     "label": "Indicator dilution",
     "category": "Physiology & Mechanisms",
-    "brick": "Measuring Cardiac Function"
+    "brick": "Measuring Cardiac Function",
+    "explanation": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow."
   },
   {
     "id": "rednd-197",
     "imageRef": "rednd-197_Brick Exchange - Mediastinum (Part 1 of 2)_p13_1.png",
     "label": "Esophagus",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus."
   },
   {
     "id": "rednd-198",
     "imageRef": "rednd-198_Brick Exchange - Mediastinum (Part 1 of 2)_p14_1.png",
     "label": "Mediastinum",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs."
   },
   {
     "id": "rednd-199",
     "imageRef": "rednd-199_Brick Exchange - Mediastinum (Part 1 of 2)_p15_1.png",
     "label": "Ligamentum arteriosum",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness."
   },
   {
     "id": "rednd-200",
     "imageRef": "rednd-200_Brick Exchange - Mediastinum (Part 1 of 2)_p16_1.png",
     "label": "Thymus",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma)."
   },
   {
     "id": "rednd-201",
     "imageRef": "rednd-201_Brick Exchange - Mediastinum (Part 1 of 2)_p17_1.png",
     "label": "Retrosternal mass",
     "category": "Lab & Diagnostics",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "A retrosternal mass filling the space in front of the pericardium and great vessels localizes to the anterior mediastinum, the classic site for the 'terrible Ts' (thymoma, teratoma, thyroid, lymphoma)."
   },
   {
     "id": "rednd-202",
     "imageRef": "rednd-202_Brick Exchange - Mediastinum (Part 1 of 2)_p19_1.png",
     "label": "Thoracic duct",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body."
   },
   {
     "id": "rednd-203",
     "imageRef": "rednd-203_Brick Exchange - Mediastinum (Part 1 of 2)_p1_1.png",
     "label": "SVC syndrome",
     "category": "Pathology",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "Obstruction of the SVC (commonly by a mediastinal tumor such as lung cancer or lymphoma) impairs venous return from the head, neck, and upper chest, producing facial plethora/edema and engorged collateral chest wall veins."
   },
   {
     "id": "rednd-204",
     "imageRef": "rednd-204_Brick Exchange - Mediastinum (Part 1 of 2)_p20_1.png",
     "label": "Mediastinal lymph nodes",
     "category": "Gross Anatomy",
-    "brick": "Mediastinum (Part 1 of 2)"
+    "brick": "Mediastinum (Part 1 of 2)",
+    "explanation": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis."
   },
   {
     "id": "rednd-205",
     "imageRef": "rednd-205_Brick Exchange - Medium-Vessel Vasculitis_p16_1.png",
     "label": "Microaneurysms",
     "category": "Lab & Diagnostics",
-    "brick": "Medium-Vessel Vasculitis"
+    "brick": "Medium-Vessel Vasculitis",
+    "explanation": "Multiple microaneurysms of renal and mesenteric medium-sized arteries on angiography are a hallmark of polyarteritis nodosa. The other named vasculitides preferentially affect large vessels or present differently."
   },
   {
     "id": "rednd-206",
     "imageRef": "rednd-206_Brick Exchange - Medium-Vessel Vasculitis_p18_1.png",
     "label": "Digital gangrene",
     "category": "Pathology",
-    "brick": "Medium-Vessel Vasculitis"
+    "brick": "Medium-Vessel Vasculitis",
+    "explanation": "Necrotizing inflammation of medium-sized arteries causes luminal narrowing and thrombosis, cutting off distal perfusion. The resulting critical ischemia produces digital gangrene, a recognized manifestation of medium-vessel vasculitis."
   },
   {
     "id": "rednd-207",
     "imageRef": "rednd-207_Brick Exchange - Mesothelioma_p5_1.png",
     "label": "Pleural plaques",
     "category": "Pathology",
-    "brick": "Mesothelioma"
+    "brick": "Mesothelioma",
+    "explanation": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure."
   },
   {
     "id": "rednd-208",
     "imageRef": "rednd-208_Brick Exchange - Mesothelioma_p8_1.png",
     "label": "Mesothelioma",
     "category": "Pathology",
-    "brick": "Mesothelioma"
+    "brick": "Mesothelioma",
+    "explanation": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma."
   },
   {
     "id": "rednd-209",
     "imageRef": "rednd-209_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p24_1.png",
     "label": "Annuloplasty ring",
     "category": "Gross Anatomy",
-    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "explanation": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve."
   },
   {
     "id": "rednd-210",
     "imageRef": "rednd-210_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p2_1.png",
     "label": "Mitral valve",
     "category": "Gross Anatomy",
-    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "explanation": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle."
   },
   {
     "id": "rednd-211",
     "imageRef": "rednd-211_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p9_1.png",
     "label": "Myxomatous degeneration",
     "category": "Histology & Cell Biology",
-    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "explanation": "Accumulation of proteoglycan-rich ground substance expands the spongiosa and fragments the fibrosa, weakening the leaflet. This myxomatous (myxoid) degeneration produces the redundant, floppy leaflets of mitral valve prolapse."
   },
   {
     "id": "rednd-212",
     "imageRef": "rednd-212_Brick Exchange - Mitral Stenosis_p17_1.png",
     "label": "Balloon valvuloplasty",
     "category": "Lab & Diagnostics",
-    "brick": "Mitral Stenosis"
+    "brick": "Mitral Stenosis",
+    "explanation": "A catheter reaches the left atrium via a transseptal puncture, and a balloon is inflated across the stenotic mitral orifice to split the fused commissures. This percutaneous balloon mitral valvuloplasty relieves obstruction in favorable rheumatic mitral stenosis."
   },
   {
     "id": "rednd-213",
     "imageRef": "rednd-213_Brick Exchange - Mitral Stenosis_p2_1.png",
     "label": "Mitral valve",
     "category": "Gross Anatomy",
-    "brick": "Mitral Stenosis"
+    "brick": "Mitral Stenosis",
+    "explanation": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation."
   },
   {
     "id": "rednd-214",
     "imageRef": "rednd-214_Brick Exchange - Mitral Stenosis_p5_1.png",
     "label": "Mitral valve",
     "category": "Gross Anatomy",
-    "brick": "Mitral Stenosis"
+    "brick": "Mitral Stenosis",
+    "explanation": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium."
   },
   {
     "id": "rednd-215",
     "imageRef": "rednd-215_Brick Exchange - Mitral Stenosis_p7_1.png",
     "label": "Mitral stenosis",
     "category": "Pathology",
-    "brick": "Mitral Stenosis"
+    "brick": "Mitral Stenosis",
+    "explanation": "Chronic (usually rheumatic) inflammation fuses the commissures and thickens the leaflets, reducing the opening to a narrow fish-mouth slit. This is the classic gross appearance of mitral stenosis."
   },
   {
     "id": "rednd-216",
     "imageRef": "rednd-216_Brick Exchange - Myocardial Infarction_p24_1.png",
     "label": "Contraction band necrosis",
     "category": "Pathology",
-    "brick": "Myocardial Infarction"
+    "brick": "Myocardial Infarction",
+    "explanation": "Contraction band necrosis reflects a massive calcium influx into reperfused, injured myocytes causing hypercontracted sarcomeres; it is typical of reperfusion injury."
   },
   {
     "id": "rednd-217",
     "imageRef": "rednd-217_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
     "label": "Hyaline membranes",
     "category": "Pathology",
-    "brick": "Neonatal Respiratory Distress Syndrome"
+    "brick": "Neonatal Respiratory Distress Syndrome",
+    "explanation": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS."
   },
   {
     "id": "rednd-218",
     "imageRef": "rednd-218_Brick Exchange - Nonbacterial Thrombotic Endocarditis_p5_1.png",
     "label": "Vegetations",
     "category": "Pathology",
-    "brick": "Nonbacterial Thrombotic Endocarditis"
+    "brick": "Nonbacterial Thrombotic Endocarditis",
+    "explanation": "Small, sterile, loosely attached vegetations on the valve closure lines without inflammation or leaflet destruction indicate nonbacterial thrombotic endocarditis, associated with hypercoagulable/malignant states."
   },
   {
     "id": "rednd-219",
     "imageRef": "rednd-219_Brick Exchange - Obstructive Congenital Heart Defects_p10_1.png",
     "label": "Rib notching",
     "category": "Lab & Diagnostics",
-    "brick": "Obstructive Congenital Heart Defects"
+    "brick": "Obstructive Congenital Heart Defects",
+    "explanation": "Rib notching results from dilated, tortuous intercostal collateral arteries eroding the undersurface of the ribs; it is a hallmark of longstanding aortic coarctation, in which blood bypasses the narrowed segment through the intercostal circulation."
   },
   {
     "id": "rednd-220",
     "imageRef": "rednd-220_Brick Exchange - Obstructive Congenital Heart Defects_p11_1.png",
     "label": "Coarctation of the aorta",
     "category": "Lab & Diagnostics",
-    "brick": "Obstructive Congenital Heart Defects"
+    "brick": "Obstructive Congenital Heart Defects",
+    "explanation": "The discrete focal narrowing of the aorta near the isthmus (just beyond the left subclavian artery) on angiographic imaging is the defining feature of aortic coarctation."
   },
   {
     "id": "rednd-221",
     "imageRef": "rednd-221_Brick Exchange - Obstructive Congenital Heart Defects_p14_1.png",
     "label": "Pulmonary valve stenosis",
     "category": "Pathology",
-    "brick": "Obstructive Congenital Heart Defects"
+    "brick": "Obstructive Congenital Heart Defects",
+    "explanation": "Pulmonary valve stenosis increases the afterload on the right ventricle, which must generate higher pressures to eject blood through the narrowed valve, leading to concentric right ventricular hypertrophy."
   },
   {
     "id": "rednd-222",
     "imageRef": "rednd-222_Brick Exchange - Obstructive Congenital Heart Defects_p18_1.png",
     "label": "Aortic stenosis",
     "category": "Pathology",
-    "brick": "Obstructive Congenital Heart Defects"
+    "brick": "Obstructive Congenital Heart Defects",
+    "explanation": "Aortic stenosis imposes a pressure (afterload) overload on the left ventricle, which responds with concentric hypertrophy (parallel sarcomere addition) to maintain wall stress while ejecting through the narrowed valve."
   },
   {
     "id": "rednd-223",
     "imageRef": "rednd-223_Brick Exchange - Obstructive Congenital Heart Defects_p2_1.png",
     "label": "Aortic coarctation",
     "category": "Physiology & Mechanisms",
-    "brick": "Obstructive Congenital Heart Defects"
+    "brick": "Obstructive Congenital Heart Defects",
+    "explanation": "Coarctation distal to the left subclavian raises blood pressure proximally (arms) while reducing perfusion pressure distally, producing upper-limb hypertension and weak, delayed lower-extremity (radiofemoral delay) pulses."
   },
   {
     "id": "rednd-224",
     "imageRef": "rednd-224_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
     "label": "Digital clubbing",
     "category": "Pathology",
-    "brick": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks"
+    "brick": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+    "explanation": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis."
   },
   {
     "id": "rednd-225",
     "imageRef": "rednd-225_Brick Exchange - Overview of Respiratory Physiology_p5_1.png",
     "label": "Mucociliary escalator",
     "category": "Histology & Cell Biology",
-    "brick": "Overview of Respiratory Physiology"
+    "brick": "Overview of Respiratory Physiology",
+    "explanation": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator."
   },
   {
     "id": "rednd-226",
     "imageRef": "rednd-226_Brick Exchange - Oxygen and Carbon Dioxide Transport_p12_1.png",
     "label": "Oxyhemoglobin dissociation curve",
     "category": "Physiology & Mechanisms",
-    "brick": "Oxygen and Carbon Dioxide Transport"
+    "brick": "Oxygen and Carbon Dioxide Transport",
+    "explanation": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation."
   },
   {
     "id": "rednd-227",
     "imageRef": "rednd-227_Brick Exchange - Oxygen and Carbon Dioxide Transport_p2_1.png",
     "label": "Hemoglobin",
     "category": "Physiology & Mechanisms",
-    "brick": "Oxygen and Carbon Dioxide Transport"
+    "brick": "Oxygen and Carbon Dioxide Transport",
+    "explanation": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin."
   },
   {
     "id": "rednd-228",
     "imageRef": "rednd-228_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p15_1.png",
     "label": "Pericardiocentesis",
     "category": "Lab & Diagnostics",
-    "brick": "Pericardial Effusion and Cardiac Tamponade"
+    "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "explanation": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples."
   },
   {
     "id": "rednd-229",
     "imageRef": "rednd-229_Brick Exchange - Peripheral Arterial Disease_p10_1.png",
     "label": "Ankle-brachial index",
     "category": "Lab & Diagnostics",
-    "brick": "Peripheral Arterial Disease"
+    "brick": "Peripheral Arterial Disease",
+    "explanation": "Dividing ankle systolic pressure by brachial systolic pressure gives the ABI. A reduced ratio (typically <0.9) signals arterial obstruction, confirming peripheral arterial disease."
   },
   {
     "id": "rednd-230",
     "imageRef": "rednd-230_Brick Exchange - Peripheral Arterial Disease_p18_1.png",
     "label": "Stent placement",
     "category": "Physiology & Mechanisms",
-    "brick": "Peripheral Arterial Disease"
+    "brick": "Peripheral Arterial Disease",
+    "explanation": "The panels depict balloon angioplasty with placement of a balloon-expandable stent: the balloon dilates the stenosis and the expanded stent provides a permanent scaffold that resists elastic recoil and keeps the lumen open."
   },
   {
     "id": "rednd-231",
     "imageRef": "rednd-231_Brick Exchange - Peripheral Arterial Disease_p19_1.png",
     "label": "Endarterectomy",
     "category": "Physiology & Mechanisms",
-    "brick": "Peripheral Arterial Disease"
+    "brick": "Peripheral Arterial Disease",
+    "explanation": "The artery is opened longitudinally and the atherosclerotic plaque is being dissected free from the wall, which is the defining step of an endarterectomy performed to restore blood flow through a clogged artery."
   },
   {
     "id": "rednd-232",
     "imageRef": "rednd-232_Brick Exchange - Peripheral Arterial Disease_p20_1.png",
     "label": "Vein graft bypass",
     "category": "Physiology & Mechanisms",
-    "brick": "Peripheral Arterial Disease"
+    "brick": "Peripheral Arterial Disease",
+    "explanation": "A vein graft is anastomosed above and below the occluded artery, creating a bypass channel that carries blood past the blockage and restores perfusion to the distal limb."
   },
   {
     "id": "rednd-233",
     "imageRef": "rednd-233_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p2_1.png",
     "label": "Respiratory membrane",
     "category": "Histology & Cell Biology",
-    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2"
+    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "explanation": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer."
   },
   {
     "id": "rednd-234",
     "imageRef": "rednd-234_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p6_1.png",
     "label": "Alveolar gas exchange",
     "category": "Physiology & Mechanisms",
-    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2"
+    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "explanation": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through."
   },
   {
     "id": "rednd-235",
     "imageRef": "rednd-235_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
     "label": "Respiratory muscles",
     "category": "Gross Anatomy",
-    "brick": "Physiology: Mechanics and pressures of breathing"
+    "brick": "Physiology: Mechanics and pressures of breathing",
+    "explanation": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration."
   },
   {
     "id": "rednd-236",
     "imageRef": "rednd-236_Brick Exchange - Pleural Effusion_p13_1.png",
     "label": "Pleural effusion",
     "category": "Lab & Diagnostics",
-    "brick": "Pleural Effusion"
+    "brick": "Pleural Effusion",
+    "explanation": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side."
   },
   {
     "id": "rednd-237",
     "imageRef": "rednd-237_Brick Exchange - Pleural Effusion_p17_1.png",
     "label": "Thoracentesis",
     "category": "Lab & Diagnostics",
-    "brick": "Pleural Effusion"
+    "brick": "Pleural Effusion",
+    "explanation": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief."
   },
   {
     "id": "rednd-238",
     "imageRef": "rednd-238_Brick Exchange - Pneumoconioses_p11_1.png",
     "label": "Silicotic nodule",
     "category": "Histology & Cell Biology",
-    "brick": "Pneumoconioses"
+    "brick": "Pneumoconioses",
+    "explanation": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis."
   },
   {
     "id": "rednd-239",
     "imageRef": "rednd-239_Brick Exchange - Pneumoconioses_p13_1.png",
     "label": "Asbestos bodies",
     "category": "Histology & Cell Biology",
-    "brick": "Pneumoconioses"
+    "brick": "Pneumoconioses",
+    "explanation": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure."
   },
   {
     "id": "rednd-240",
     "imageRef": "rednd-240_Brick Exchange - Pneumoconioses_p7_1.png",
     "label": "Anthracosis",
     "category": "Histology & Cell Biology",
-    "brick": "Pneumoconioses"
+    "brick": "Pneumoconioses",
+    "explanation": "Inhaled carbon/coal dust is engulfed by macrophages, producing black anthracotic pigment. Accumulation around bronchioles and in interstitium underlies coal workers' pneumoconiosis (anthracosis when asymptomatic)."
   },
   {
     "id": "rednd-241",
     "imageRef": "rednd-241_Brick Exchange - Pneumothorax_p14_1.png",
     "label": "Tension pneumothorax",
     "category": "Physiology & Mechanisms",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression."
   },
   {
     "id": "rednd-242",
     "imageRef": "rednd-242_Brick Exchange - Pneumothorax_p20_1.png",
     "label": "Subcutaneous emphysema",
     "category": "Lab & Diagnostics",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge."
   },
   {
     "id": "rednd-243",
     "imageRef": "rednd-243_Brick Exchange - Pneumothorax_p26_1.png",
     "label": "Chest drainage system",
     "category": "Physiology & Mechanisms",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid."
   },
   {
     "id": "rednd-244",
     "imageRef": "rednd-244_Brick Exchange - Pneumothorax_p28_1.png",
     "label": "Pigtail catheter",
     "category": "Lab & Diagnostics",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube."
   },
   {
     "id": "rednd-245",
     "imageRef": "rednd-245_Brick Exchange - Pneumothorax_p2_1.png",
     "label": "Chest radiograph",
     "category": "Lab & Diagnostics",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film."
   },
   {
     "id": "rednd-246",
     "imageRef": "rednd-246_Brick Exchange - Pneumothorax_p5_1.png",
     "label": "Pneumothorax",
     "category": "Physiology & Mechanisms",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward."
   },
   {
     "id": "rednd-247",
     "imageRef": "rednd-247_Brick Exchange - Pneumothorax_p8_1.png",
     "label": "Bleb",
     "category": "Pathology",
-    "brick": "Pneumothorax"
+    "brick": "Pneumothorax",
+    "explanation": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS."
   },
   {
     "id": "rednd-248",
     "imageRef": "rednd-248_Brick Exchange - Pressure Volume (PV) Loops_p8_1.png",
     "label": "Pressure-volume loop",
     "category": "Physiology & Mechanisms",
-    "brick": "Pressure Volume (PV) Loops"
+    "brick": "Pressure Volume (PV) Loops",
+    "explanation": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV)."
   },
   {
     "id": "rednd-249",
     "imageRef": "rednd-249_Brick Exchange - Primary (Essential) Hypertension_p5_1.png",
     "label": "Renin-angiotensin-aldosterone system",
     "category": "Physiology & Mechanisms",
-    "brick": "Primary (Essential) Hypertension"
+    "brick": "Primary (Essential) Hypertension",
+    "explanation": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention."
   },
   {
     "id": "rednd-250",
     "imageRef": "rednd-250_Brick Exchange - Pulmonary Circulation_p15_1.png",
     "label": "Hypoxic pulmonary vasoconstriction",
     "category": "Physiology & Mechanisms",
-    "brick": "Pulmonary Circulation"
+    "brick": "Pulmonary Circulation",
+    "explanation": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching."
   },
   {
     "id": "rednd-251",
     "imageRef": "rednd-251_Brick Exchange - Pulmonary Circulation_p23_1.png",
     "label": "Pulmonary edema",
     "category": "Pathology",
-    "brick": "Pulmonary Circulation"
+    "brick": "Pulmonary Circulation",
+    "explanation": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation."
   },
   {
     "id": "rednd-252",
     "imageRef": "rednd-252_Brick Exchange - Pulmonary Circulation_p7_1.png",
     "label": "West lung zones",
     "category": "Physiology & Mechanisms",
-    "brick": "Pulmonary Circulation"
+    "brick": "Pulmonary Circulation",
+    "explanation": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people."
   },
   {
     "id": "rednd-253",
     "imageRef": "rednd-253_Brick Exchange - Pulmonary Function Tests (PFT)_p10_1.png",
     "label": "Flow-volume loop",
     "category": "Lab & Diagnostics",
-    "brick": "Pulmonary Function Tests (PFT)"
+    "brick": "Pulmonary Function Tests (PFT)",
+    "explanation": "The flow-volume loop is produced during spirometry; the peak of the expiratory limb is the peak expiratory flow and the width of the loop spans the vital capacity."
   },
   {
     "id": "rednd-254",
     "imageRef": "rednd-254_Brick Exchange - Pulmonary Function Tests (PFT)_p6_1.png",
     "label": "Spirometry",
     "category": "Lab & Diagnostics",
-    "brick": "Pulmonary Function Tests (PFT)"
+    "brick": "Pulmonary Function Tests (PFT)",
+    "explanation": "The handheld mouthpiece connected to a recording unit that plots volume-time and flow-volume loops is a spirometer. Spirometry measures forced expiratory volumes and flows (e.g., FEV1, FVC) to characterize obstructive versus restrictive patterns."
   },
   {
     "id": "rednd-255",
     "imageRef": "rednd-255_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p7_1.png",
     "label": "West lung zones",
     "category": "Physiology & Mechanisms",
-    "brick": "Pulmonary Ventilation and Perfusion (V Q)"
+    "brick": "Pulmonary Ventilation and Perfusion (V Q)",
+    "explanation": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow."
   },
   {
     "id": "rednd-256",
     "imageRef": "rednd-256_Brick Exchange - Respiratory Alkalosis_p11_1.png",
     "label": "Pulmonary embolism",
     "category": "Lab & Diagnostics",
-    "brick": "Respiratory Alkalosis"
+    "brick": "Respiratory Alkalosis",
+    "explanation": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis."
   },
   {
     "id": "rednd-257",
     "imageRef": "rednd-257_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p4_1.png",
     "label": "Oxygen cascade",
     "category": "Physiology & Mechanisms",
-    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2"
+    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "explanation": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells."
   },
   {
     "id": "rednd-258",
     "imageRef": "rednd-258_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p7_1.png",
     "label": "Alveolar gas equation",
     "category": "Physiology & Mechanisms",
-    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2"
+    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+    "explanation": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation)."
   },
   {
     "id": "rednd-259",
     "imageRef": "rednd-259_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p11_1.png",
     "label": "Elek test",
     "category": "Lab & Diagnostics",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation."
   },
   {
     "id": "rednd-260",
     "imageRef": "rednd-260_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p19_1.png",
     "label": "Bordetella pertussis",
     "category": "Histology & Cell Biology",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms."
   },
   {
     "id": "rednd-261",
     "imageRef": "rednd-261_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
     "label": "Corynebacterium diphtheriae",
     "category": "Histology & Cell Biology",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria."
   },
   {
     "id": "rednd-262",
     "imageRef": "rednd-262_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
     "label": "Diphtheritic pseudomembrane",
     "category": "Pathology",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria."
   },
   {
     "id": "rednd-263",
     "imageRef": "rednd-263_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p5_1.png",
     "label": "Bull neck",
     "category": "Pathology",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity."
   },
   {
     "id": "rednd-264",
     "imageRef": "rednd-264_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
     "label": "Metachromatic granules",
     "category": "Histology & Cell Biology",
-    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "explanation": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification."
   },
   {
     "id": "rednd-265",
     "imageRef": "rednd-265_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p13_1.png",
     "label": "Pulse CO-oximeter",
     "category": "Lab & Diagnostics",
-    "brick": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning"
+    "brick": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+    "explanation": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning."
   },
   {
     "id": "rednd-266",
     "imageRef": "rednd-266_Brick Exchange - Restrictive Cardiomyopathy_p10_1.png",
     "label": "Cardiac amyloidosis",
     "category": "Pathology",
-    "brick": "Restrictive Cardiomyopathy"
+    "brick": "Restrictive Cardiomyopathy",
+    "explanation": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling."
   },
   {
     "id": "rednd-267",
     "imageRef": "rednd-267_Brick Exchange - Restrictive Cardiomyopathy_p11_1.png",
     "label": "Congo red birefringence",
     "category": "Lab & Diagnostics",
-    "brick": "Restrictive Cardiomyopathy"
+    "brick": "Restrictive Cardiomyopathy",
+    "explanation": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy."
   },
   {
     "id": "rednd-268",
     "imageRef": "rednd-268_Brick Exchange - Restrictive Cardiomyopathy_p11_2.png",
     "label": "Cardiac sarcoidosis",
     "category": "Pathology",
-    "brick": "Restrictive Cardiomyopathy"
+    "brick": "Restrictive Cardiomyopathy",
+    "explanation": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis."
   },
   {
     "id": "rednd-269",
     "imageRef": "rednd-269_Brick Exchange - Restrictive Cardiomyopathy_p12_1.png",
     "label": "Prussian blue iron stain",
     "category": "Lab & Diagnostics",
-    "brick": "Restrictive Cardiomyopathy"
+    "brick": "Restrictive Cardiomyopathy",
+    "explanation": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic."
   },
   {
     "id": "rednd-270",
     "imageRef": "rednd-270_Brick Exchange - Restrictive Cardiomyopathy_p14_1.png",
     "label": "Cardiac MRI",
     "category": "Lab & Diagnostics",
-    "brick": "Restrictive Cardiomyopathy"
+    "brick": "Restrictive Cardiomyopathy",
+    "explanation": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis."
   },
   {
     "id": "rednd-271",
     "imageRef": "rednd-271_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p3_1.png",
     "label": "J point",
     "category": "Lab & Diagnostics",
-    "brick": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia"
+    "brick": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+    "explanation": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment)."
   },
   {
     "id": "rednd-272",
     "imageRef": "rednd-272_Brick Exchange - Sarcoidosis_p13_1.png",
     "label": "Erythema nodosum",
     "category": "Pathology",
-    "brick": "Sarcoidosis"
+    "brick": "Sarcoidosis",
+    "explanation": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis."
   },
   {
     "id": "rednd-273",
     "imageRef": "rednd-273_Brick Exchange - Secondary Hypertension_p12_1.png",
     "label": "Cushing syndrome",
     "category": "Pathology",
-    "brick": "Secondary Hypertension"
+    "brick": "Secondary Hypertension",
+    "explanation": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension."
   },
   {
     "id": "rednd-274",
     "imageRef": "rednd-274_Brick Exchange - Secondary Hypertension_p15_1.png",
     "label": "Obstructive sleep apnea",
     "category": "Physiology & Mechanisms",
-    "brick": "Secondary Hypertension"
+    "brick": "Secondary Hypertension",
+    "explanation": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension."
   },
   {
     "id": "rednd-275",
     "imageRef": "rednd-275_Brick Exchange - Secondary Hypertension_p7_1.png",
     "label": "Fibromuscular dysplasia",
     "category": "Pathology",
-    "brick": "Secondary Hypertension"
+    "brick": "Secondary Hypertension",
+    "explanation": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension."
   },
   {
     "id": "rednd-276",
     "imageRef": "rednd-276_Brick Exchange - Secondary Hypertension_p8_1.png",
     "label": "Renal artery stenosis",
     "category": "Lab & Diagnostics",
-    "brick": "Secondary Hypertension"
+    "brick": "Secondary Hypertension",
+    "explanation": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension."
   },
   {
     "id": "rednd-277",
     "imageRef": "rednd-277_Brick Exchange - Secondary Hypertension_p9_1.png",
     "label": "Fibromuscular dysplasia",
     "category": "Lab & Diagnostics",
-    "brick": "Secondary Hypertension"
+    "brick": "Secondary Hypertension",
+    "explanation": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery."
   },
   {
     "id": "rednd-278",
     "imageRef": "rednd-278_Brick Exchange - Sinus Bradycardia and Related Disorders_p14_1.png",
     "label": "Junctional rhythm",
     "category": "Lab & Diagnostics",
-    "brick": "Sinus Bradycardia and Related Disorders"
+    "brick": "Sinus Bradycardia and Related Disorders",
+    "explanation": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm."
   },
   {
     "id": "rednd-279",
     "imageRef": "rednd-279_Brick Exchange - Small-Vessel Vasculitis_p11_1.png",
     "label": "Palpable purpura",
     "category": "Pathology",
-    "brick": "Small-Vessel Vasculitis"
+    "brick": "Small-Vessel Vasculitis",
+    "explanation": "Raised, palpable purpura that does not blanch reflects inflammatory damage and leakage of postcapillary venules, the hallmark of small-vessel (leukocytoclastic) vasculitis, distinguishing it from flat non-palpable purpura seen with pure platelet defects."
   },
   {
     "id": "rednd-280",
     "imageRef": "rednd-280_Brick Exchange - Small-Vessel Vasculitis_p8_1.png",
     "label": "Nasal polyps",
     "category": "Pathology",
-    "brick": "Small-Vessel Vasculitis"
+    "brick": "Small-Vessel Vasculitis",
+    "explanation": "Nasal polyps are edematous outgrowths of chronically inflamed sinonasal mucosa; when they obstruct a sinus ostium, mucus accumulates and impairs drainage, as shown."
   },
   {
     "id": "rednd-281",
     "imageRef": "rednd-281_Brick Exchange - Starling Forces_p19_1.png",
     "label": "Pitting edema",
     "category": "Lab & Diagnostics",
-    "brick": "Starling Forces"
+    "brick": "Starling Forces",
+    "explanation": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure)."
   },
   {
     "id": "rednd-282",
     "imageRef": "rednd-282_Brick Exchange - Superficial Venous Disease_p10_1.png",
     "label": "Superficial thrombophlebitis",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel."
   },
   {
     "id": "rednd-283",
     "imageRef": "rednd-283_Brick Exchange - Superficial Venous Disease_p13_1.png",
     "label": "Superficial thrombophlebitis",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum."
   },
   {
     "id": "rednd-284",
     "imageRef": "rednd-284_Brick Exchange - Superficial Venous Disease_p2_1.png",
     "label": "Chronic venous insufficiency",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency."
   },
   {
     "id": "rednd-285",
     "imageRef": "rednd-285_Brick Exchange - Superficial Venous Disease_p4_1.png",
     "label": "Stasis dermatitis",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area."
   },
   {
     "id": "rednd-286",
     "imageRef": "rednd-286_Brick Exchange - Superficial Venous Disease_p6_1.png",
     "label": "Varicose vein",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins."
   },
   {
     "id": "rednd-287",
     "imageRef": "rednd-287_Brick Exchange - Superficial Venous Disease_p7_1.png",
     "label": "Lipodermatosclerosis",
     "category": "Pathology",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration."
   },
   {
     "id": "rednd-288",
     "imageRef": "rednd-288_Brick Exchange - Superficial Venous Disease_p8_1.png",
     "label": "Sclerotherapy",
     "category": "Physiology & Mechanisms",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen."
   },
   {
     "id": "rednd-289",
     "imageRef": "rednd-289_Brick Exchange - Superficial Venous Disease_p9_1.png",
     "label": "Endovenous ablation",
     "category": "Physiology & Mechanisms",
-    "brick": "Superficial Venous Disease"
+    "brick": "Superficial Venous Disease",
+    "explanation": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn."
   },
   {
     "id": "rednd-290",
     "imageRef": "rednd-290_Brick Exchange - Tobacco Smoking_p3_1.png",
     "label": "E-cigarette",
     "category": "Pharmacology",
-    "brick": "Tobacco Smoking"
+    "brick": "Tobacco Smoking",
+    "explanation": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation."
   },
   {
     "id": "rednd-291",
     "imageRef": "rednd-291_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
     "label": "Triangle of safety",
     "category": "Gross Anatomy",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs."
   },
   {
     "id": "rednd-292",
     "imageRef": "rednd-292_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p13_1.png",
     "label": "Pneumomediastinum",
     "category": "Lab & Diagnostics",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma."
   },
   {
     "id": "rednd-293",
     "imageRef": "rednd-293_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p17_1.png",
     "label": "Tension pneumothorax",
     "category": "Lab & Diagnostics",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression."
   },
   {
     "id": "rednd-294",
     "imageRef": "rednd-294_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p3_1.png",
     "label": "Flail chest",
     "category": "Pathology",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion."
   },
   {
     "id": "rednd-295",
     "imageRef": "rednd-295_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
     "label": "Diaphragmatic rupture",
     "category": "Lab & Diagnostics",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair."
   },
   {
     "id": "rednd-296",
     "imageRef": "rednd-296_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p9_1.png",
     "label": "Chylothorax",
     "category": "Pathology",
-    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "explanation": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space."
   },
   {
     "id": "rednd-297",
     "imageRef": "rednd-297_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p12_1.png",
     "label": "Jugular venous distension",
     "category": "Lab & Diagnostics",
-    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "explanation": "The prominent distended vein coursing up the neck represents elevated jugular venous pressure (distension), a sign of systemic venous congestion seen with right-sided heart failure and severe tricuspid regurgitation."
   },
   {
     "id": "rednd-298",
     "imageRef": "rednd-298_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p20_1.png",
     "label": "Echocardiogram",
     "category": "Lab & Diagnostics",
-    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "explanation": "The grayscale sector image with a real-time color Doppler overlay (blue/red flow), frame rate, and depth annotations is characteristic of two-dimensional echocardiography. Here color Doppler reveals turbulent flow across a domed, stenotic tricuspid valve."
   },
   {
     "id": "rednd-299",
     "imageRef": "rednd-299_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p2_1.png",
     "label": "Tricuspid valve",
     "category": "Gross Anatomy",
-    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "explanation": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve."
   },
   {
     "id": "rednd-300",
     "imageRef": "rednd-300_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
     "label": "Coronary artery",
     "category": "Gross Anatomy",
-    "brick": "Vasculature and Lymphatics of the Heart"
+    "brick": "Vasculature and Lymphatics of the Heart",
+    "explanation": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches."
   },
   {
     "id": "rednd-301",
     "imageRef": "rednd-301_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
     "label": "Coronary artery",
     "category": "Gross Anatomy",
-    "brick": "Vasculature and Lymphatics of the Heart"
+    "brick": "Vasculature and Lymphatics of the Heart",
+    "explanation": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood."
   },
   {
     "id": "rednd-302",
     "imageRef": "rednd-302_Brick Exchange - Vasculature and Lymphatics of the Heart_p6_1.png",
     "label": "Coronary angiogram",
     "category": "Lab & Diagnostics",
-    "brick": "Vasculature and Lymphatics of the Heart"
+    "brick": "Vasculature and Lymphatics of the Heart",
+    "explanation": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses."
   },
   {
     "id": "rednd-303",
     "imageRef": "rednd-303_Brick Exchange - Ventricular Arrhythmias_p10_1.png",
     "label": "Ventricular tachycardia",
     "category": "Lab & Diagnostics",
-    "brick": "Ventricular Arrhythmias"
+    "brick": "Ventricular Arrhythmias",
+    "explanation": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node."
   },
   {
     "id": "rednd-304",
     "imageRef": "rednd-304_Brick Exchange - Ventricular Arrhythmias_p12_1.png",
     "label": "Pacemaker",
     "category": "Physiology & Mechanisms",
-    "brick": "Ventricular Arrhythmias"
+    "brick": "Ventricular Arrhythmias",
+    "explanation": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate."
   },
   {
     "id": "rednd-305",
     "imageRef": "rednd-305_Brick Exchange - Ventricular Arrhythmias_p17_1.png",
     "label": "Torsades de pointes",
     "category": "Lab & Diagnostics",
-    "brick": "Ventricular Arrhythmias"
+    "brick": "Ventricular Arrhythmias",
+    "explanation": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation."
   },
   {
     "id": "rednd-306",
     "imageRef": "rednd-306_Brick Exchange - Ventricular Arrhythmias_p7_2.png",
     "label": "Ventricular fibrillation",
     "category": "Lab & Diagnostics",
-    "brick": "Ventricular Arrhythmias"
+    "brick": "Ventricular Arrhythmias",
+    "explanation": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation."
   }
 ]
