@@ -1,0 +1,2144 @@
+[
+  {
+    "id": "rednd-001",
+    "imageRef": "rednd-001_Brick Exchange - Acute Pericarditis_p14_1.png",
+    "label": "Pericardiocentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "rednd-002",
+    "imageRef": "rednd-002_Brick Exchange - Acute Pericarditis_p7_1.png",
+    "label": "Fibrinous pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Pericarditis"
+  },
+  {
+    "id": "rednd-003",
+    "imageRef": "rednd-003_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p10_1.png",
+    "label": "Erythema marginatum",
+    "category": "Pathology",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "rednd-004",
+    "imageRef": "rednd-004_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p5_1.png",
+    "label": "Streptococcus pyogenes",
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "rednd-005",
+    "imageRef": "rednd-005_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p8_1.png",
+    "label": "Anitschkow cells",
+    "category": "Histology & Cell Biology",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease"
+  },
+  {
+    "id": "rednd-006",
+    "imageRef": "rednd-006_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p23_1.png",
+    "label": "Echocardiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)"
+  },
+  {
+    "id": "rednd-007",
+    "imageRef": "rednd-007_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p6_1.png",
+    "label": "Differential cyanosis",
+    "category": "Lab & Diagnostics",
+    "brick": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)"
+  },
+  {
+    "id": "rednd-008",
+    "imageRef": "rednd-008_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p16_1.png",
+    "label": "Diaphragm",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+  },
+  {
+    "id": "rednd-009",
+    "imageRef": "rednd-009_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p6_1.png",
+    "label": "Diaphragm",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+  },
+  {
+    "id": "rednd-010",
+    "imageRef": "rednd-010_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p8_1.png",
+    "label": "Phrenic nerve",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles"
+  },
+  {
+    "id": "rednd-011",
+    "imageRef": "rednd-011_Brick Exchange - Anatomy of the Heart_p12_1.png",
+    "label": "Cardiac skeleton",
+    "category": "Physiology & Mechanisms",
+    "brick": "Anatomy of the Heart"
+  },
+  {
+    "id": "rednd-012",
+    "imageRef": "rednd-012_Brick Exchange - Anatomy of the Heart_p13_1.png",
+    "label": "Mitral valve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Anatomy of the Heart"
+  },
+  {
+    "id": "rednd-013",
+    "imageRef": "rednd-013_Brick Exchange - Anatomy of the Heart_p1_1.png",
+    "label": "Barium esophagram",
+    "category": "Lab & Diagnostics",
+    "brick": "Anatomy of the Heart"
+  },
+  {
+    "id": "rednd-014",
+    "imageRef": "rednd-014_Brick Exchange - Anatomy of the Heart_p6_1.png",
+    "label": "Fossa ovalis",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Heart"
+  },
+  {
+    "id": "rednd-015",
+    "imageRef": "rednd-015_Brick Exchange - Anatomy of the Lower Respiratory Tract_p12_1.png",
+    "label": "Chest X-ray",
+    "category": "Lab & Diagnostics",
+    "brick": "Anatomy of the Lower Respiratory Tract"
+  },
+  {
+    "id": "rednd-016",
+    "imageRef": "rednd-016_Brick Exchange - Anatomy of the Lower Respiratory Tract_p15_1.png",
+    "label": "Lung hilum",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Lower Respiratory Tract"
+  },
+  {
+    "id": "rednd-017",
+    "imageRef": "rednd-017_Brick Exchange - Anatomy of the Lower Respiratory Tract_p22_1.png",
+    "label": "Pleural effusion",
+    "category": "Lab & Diagnostics",
+    "brick": "Anatomy of the Lower Respiratory Tract"
+  },
+  {
+    "id": "rednd-018",
+    "imageRef": "rednd-018_Brick Exchange - Anatomy of the Lower Respiratory Tract_p5_1.png",
+    "label": "Bronchial tree",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Lower Respiratory Tract"
+  },
+  {
+    "id": "rednd-019",
+    "imageRef": "rednd-019_Brick Exchange - Anatomy of the Lower Respiratory Tract_p8_1.png",
+    "label": "Bronchopulmonary segments",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Lower Respiratory Tract"
+  },
+  {
+    "id": "rednd-020",
+    "imageRef": "rednd-020_Brick Exchange - Anatomy of the Upper Respiratory Tract_p27_1.png",
+    "label": "Laryngopharynx",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Upper Respiratory Tract"
+  },
+  {
+    "id": "rednd-021",
+    "imageRef": "rednd-021_Brick Exchange - Anatomy of the Upper Respiratory Tract_p7_1.png",
+    "label": "Paranasal sinuses",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Upper Respiratory Tract"
+  },
+  {
+    "id": "rednd-022",
+    "imageRef": "rednd-022_Brick Exchange - Anatomy of the Upper Respiratory Tract_p8_1.png",
+    "label": "Nasal conchae",
+    "category": "Gross Anatomy",
+    "brick": "Anatomy of the Upper Respiratory Tract"
+  },
+  {
+    "id": "rednd-023",
+    "imageRef": "rednd-023_Brick Exchange - Angina Pectoris_p14_1.png",
+    "label": "Coronary CT angiography",
+    "category": "Lab & Diagnostics",
+    "brick": "Angina Pectoris"
+  },
+  {
+    "id": "rednd-024",
+    "imageRef": "rednd-024_Brick Exchange - Angina Pectoris_p15_1.png",
+    "label": "Coronary angiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Angina Pectoris"
+  },
+  {
+    "id": "rednd-025",
+    "imageRef": "rednd-025_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p5_1.png",
+    "label": "Voltage-gated sodium channel",
+    "category": "Physiology & Mechanisms",
+    "brick": "Antiarrhythmic Agents - Class I Drugs"
+  },
+  {
+    "id": "rednd-026",
+    "imageRef": "rednd-026_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p8_1.png",
+    "label": "Torsades de pointes",
+    "category": "Lab & Diagnostics",
+    "brick": "Antiarrhythmic Agents - Class I Drugs"
+  },
+  {
+    "id": "rednd-027",
+    "imageRef": "rednd-027_Brick Exchange - Aortic Aneurysm_p11_1.png",
+    "label": "Ruptured aortic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-028",
+    "imageRef": "rednd-028_Brick Exchange - Aortic Aneurysm_p12_1.png",
+    "label": "Blue toe syndrome",
+    "category": "Pathology",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-029",
+    "imageRef": "rednd-029_Brick Exchange - Aortic Aneurysm_p14_1.png",
+    "label": "Abdominal palpation",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-030",
+    "imageRef": "rednd-030_Brick Exchange - Aortic Aneurysm_p17_1.png",
+    "label": "Widened mediastinum",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-031",
+    "imageRef": "rednd-031_Brick Exchange - Aortic Aneurysm_p20_1.png",
+    "label": "Aortic stent graft",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-032",
+    "imageRef": "rednd-032_Brick Exchange - Aortic Aneurysm_p21_1.png",
+    "label": "Popliteal artery aneurysm",
+    "category": "Pathology",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-033",
+    "imageRef": "rednd-033_Brick Exchange - Aortic Aneurysm_p23_1.png",
+    "label": "Abdominal aortic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-034",
+    "imageRef": "rednd-034_Brick Exchange - Aortic Aneurysm_p4_1.png",
+    "label": "Femoral pseudoaneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-035",
+    "imageRef": "rednd-035_Brick Exchange - Aortic Aneurysm_p7_1.png",
+    "label": "Thoracic aortic aneurysm",
+    "category": "Pathology",
+    "brick": "Aortic Aneurysm"
+  },
+  {
+    "id": "rednd-036",
+    "imageRef": "rednd-036_Brick Exchange - Aortic Dissection_p11_1.png",
+    "label": "Aortic dissection",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "rednd-037",
+    "imageRef": "rednd-037_Brick Exchange - Aortic Dissection_p12_1.png",
+    "label": "Aortic dissection",
+    "category": "Lab & Diagnostics",
+    "brick": "Aortic Dissection"
+  },
+  {
+    "id": "rednd-038",
+    "imageRef": "rednd-038_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p10_1.png",
+    "label": "Left ventricular hypertrophy",
+    "category": "Pathology",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease"
+  },
+  {
+    "id": "rednd-039",
+    "imageRef": "rednd-039_Brick Exchange - Aortic Stenosis_p2_1.png",
+    "label": "Aortic valve",
+    "category": "Pathology",
+    "brick": "Aortic Stenosis"
+  },
+  {
+    "id": "rednd-040",
+    "imageRef": "rednd-040_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p8_1.png",
+    "label": "Cardiac muscle",
+    "category": "Histology & Cell Biology",
+    "brick": "Arrhythmogenic Right Ventricular Cardiomyopathy"
+  },
+  {
+    "id": "rednd-041",
+    "imageRef": "rednd-041_Brick Exchange - Arterial Emboli_p10_1.png",
+    "label": "Livedo reticularis",
+    "category": "Pathology",
+    "brick": "Arterial Emboli"
+  },
+  {
+    "id": "rednd-042",
+    "imageRef": "rednd-042_Brick Exchange - Asthma_p13_1.png",
+    "label": "Curschmann spiral",
+    "category": "Pathology",
+    "brick": "Asthma"
+  },
+  {
+    "id": "rednd-043",
+    "imageRef": "rednd-043_Brick Exchange - Atherosclerosis_p16_1.png",
+    "label": "Aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Atherosclerosis"
+  },
+  {
+    "id": "rednd-044",
+    "imageRef": "rednd-044_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p5_1.png",
+    "label": "Atrial fibrillation",
+    "category": "Lab & Diagnostics",
+    "brick": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment"
+  },
+  {
+    "id": "rednd-045",
+    "imageRef": "rednd-045_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p14_1.png",
+    "label": "Honeycomb lung",
+    "category": "Histology & Cell Biology",
+    "brick": "Autoimmune Diseases with Respiratory Manifestations"
+  },
+  {
+    "id": "rednd-046",
+    "imageRef": "rednd-046_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
+    "label": "Alveolar hemorrhage",
+    "category": "Histology & Cell Biology",
+    "brick": "Autoimmune Diseases with Respiratory Manifestations"
+  },
+  {
+    "id": "rednd-047",
+    "imageRef": "rednd-047_Brick Exchange - Baroreceptor Regulation of Blood Pressure_p11_2.png",
+    "label": "Baroreceptor reflex",
+    "category": "Physiology & Mechanisms",
+    "brick": "Baroreceptor Regulation of Blood Pressure"
+  },
+  {
+    "id": "rednd-048",
+    "imageRef": "rednd-048_Brick Exchange - Bronchiectasis_p12_1.png",
+    "label": "Bronchiectasis",
+    "category": "Lab & Diagnostics",
+    "brick": "Bronchiectasis"
+  },
+  {
+    "id": "rednd-049",
+    "imageRef": "rednd-049_Brick Exchange - Bronchiectasis_p13_1.png",
+    "label": "Bronchiectasis",
+    "category": "Lab & Diagnostics",
+    "brick": "Bronchiectasis"
+  },
+  {
+    "id": "rednd-050",
+    "imageRef": "rednd-050_Brick Exchange - Bronchiectasis_p4_1.png",
+    "label": "Bronchiectasis",
+    "category": "Pathology",
+    "brick": "Bronchiectasis"
+  },
+  {
+    "id": "rednd-051",
+    "imageRef": "rednd-051_Brick Exchange - Bronchiectasis_p6_1.png",
+    "label": "Bronchiectasis",
+    "category": "Pathology",
+    "brick": "Bronchiectasis"
+  },
+  {
+    "id": "rednd-052",
+    "imageRef": "rednd-052_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p11_1.png",
+    "label": "Frank-Starling curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cardiac - Compliance, Contractility, Preload, and Afterload"
+  },
+  {
+    "id": "rednd-053",
+    "imageRef": "rednd-053_Brick Exchange - Cardiac Cycle_p12_1.png",
+    "label": "Dicrotic notch",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cardiac Cycle"
+  },
+  {
+    "id": "rednd-054",
+    "imageRef": "rednd-054_Brick Exchange - Cardiac Cycle_p13_1.png",
+    "label": "Jugular venous pressure",
+    "category": "Lab & Diagnostics",
+    "brick": "Cardiac Cycle"
+  },
+  {
+    "id": "rednd-055",
+    "imageRef": "rednd-055_Brick Exchange - Cardiac Tumors_p10_1.png",
+    "label": "Cardiac myxoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-056",
+    "imageRef": "rednd-056_Brick Exchange - Cardiac Tumors_p16_1.png",
+    "label": "Cardiac myxoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-057",
+    "imageRef": "rednd-057_Brick Exchange - Cardiac Tumors_p17_1.png",
+    "label": "Cardiac rhabdomyoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-058",
+    "imageRef": "rednd-058_Brick Exchange - Cardiac Tumors_p18_1.png",
+    "label": "Spider cell",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-059",
+    "imageRef": "rednd-059_Brick Exchange - Cardiac Tumors_p4_1.png",
+    "label": "Cardiac myxoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-060",
+    "imageRef": "rednd-060_Brick Exchange - Cardiac Tumors_p5_1.png",
+    "label": "Cardiac myxoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-061",
+    "imageRef": "rednd-061_Brick Exchange - Cardiac Tumors_p7_1.png",
+    "label": "Cardiac myxoma",
+    "category": "Pathology",
+    "brick": "Cardiac Tumors"
+  },
+  {
+    "id": "rednd-062",
+    "imageRef": "rednd-062_Brick Exchange - Cardiac and Vascular Function Curves_p12_1.png",
+    "label": "Venous return curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cardiac and Vascular Function Curves"
+  },
+  {
+    "id": "rednd-063",
+    "imageRef": "rednd-063_Brick Exchange - Cardiac and Vascular Function Curves_p3_1.png",
+    "label": "Frank-Starling curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cardiac and Vascular Function Curves"
+  },
+  {
+    "id": "rednd-064",
+    "imageRef": "rednd-064_Brick Exchange - Cardiac and Vascular Function Curves_p9_1.png",
+    "label": "Venous return curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cardiac and Vascular Function Curves"
+  },
+  {
+    "id": "rednd-065",
+    "imageRef": "rednd-065_Brick Exchange - Carotid Stenosis_p12_1.png",
+    "label": "Carotid angiogram",
+    "category": "Pathology",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "rednd-066",
+    "imageRef": "rednd-066_Brick Exchange - Carotid Stenosis_p15_1.png",
+    "label": "Carotid stenosis",
+    "category": "Lab & Diagnostics",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "rednd-067",
+    "imageRef": "rednd-067_Brick Exchange - Carotid Stenosis_p16_1.png",
+    "label": "Carotid endarterectomy",
+    "category": "Gross Anatomy",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "rednd-068",
+    "imageRef": "rednd-068_Brick Exchange - Carotid Stenosis_p3_1.png",
+    "label": "Atherosclerotic plaque",
+    "category": "Pathology",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "rednd-069",
+    "imageRef": "rednd-069_Brick Exchange - Carotid Stenosis_p6_1.png",
+    "label": "Non-contrast head CT",
+    "category": "Lab & Diagnostics",
+    "brick": "Carotid Stenosis"
+  },
+  {
+    "id": "rednd-070",
+    "imageRef": "rednd-070_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p6_1.png",
+    "label": "Barrel chest",
+    "category": "Physiology & Mechanisms",
+    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology"
+  },
+  {
+    "id": "rednd-071",
+    "imageRef": "rednd-071_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
+    "label": "Squamous metaplasia",
+    "category": "Pathology",
+    "brick": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology"
+  },
+  {
+    "id": "rednd-072",
+    "imageRef": "rednd-072_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
+    "label": "Chest radiograph",
+    "category": "Lab & Diagnostics",
+    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management"
+  },
+  {
+    "id": "rednd-073",
+    "imageRef": "rednd-073_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p13_1.png",
+    "label": "Lateral chest radiograph",
+    "category": "Lab & Diagnostics",
+    "brick": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management"
+  },
+  {
+    "id": "rednd-074",
+    "imageRef": "rednd-074_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p10_1.png",
+    "label": "Cyanosis",
+    "category": "Pathology",
+    "brick": "Congenital Heart Defects: Foundations and Frameworks"
+  },
+  {
+    "id": "rednd-075",
+    "imageRef": "rednd-075_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p11_1.png",
+    "label": "Clubbing",
+    "category": "Pathology",
+    "brick": "Congenital Heart Defects: Foundations and Frameworks"
+  },
+  {
+    "id": "rednd-076",
+    "imageRef": "rednd-076_Brick Exchange - Constrictive Pericarditis_p12_1.png",
+    "label": "Pericardium",
+    "category": "Pathology",
+    "brick": "Constrictive Pericarditis"
+  },
+  {
+    "id": "rednd-077",
+    "imageRef": "rednd-077_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_2.png",
+    "label": "Brainstem",
+    "category": "Physiology & Mechanisms",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+  },
+  {
+    "id": "rednd-078",
+    "imageRef": "rednd-078_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
+    "label": "Sternum",
+    "category": "Gross Anatomy",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+  },
+  {
+    "id": "rednd-079",
+    "imageRef": "rednd-079_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_4.png",
+    "label": "Medulla oblongata",
+    "category": "Physiology & Mechanisms",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+  },
+  {
+    "id": "rednd-080",
+    "imageRef": "rednd-080_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_5.png",
+    "label": "External intercostal muscles",
+    "category": "Physiology & Mechanisms",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+  },
+  {
+    "id": "rednd-081",
+    "imageRef": "rednd-081_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
+    "label": "Diaphragm",
+    "category": "Gross Anatomy",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise"
+  },
+  {
+    "id": "rednd-082",
+    "imageRef": "rednd-082_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p2_1.png",
+    "label": "Coronary arteries",
+    "category": "Gross Anatomy",
+    "brick": "Coronary Blood Flow- Vascular Physiology"
+  },
+  {
+    "id": "rednd-083",
+    "imageRef": "rednd-083_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p10_1.png",
+    "label": "Boot-shaped heart",
+    "category": "Lab & Diagnostics",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-084",
+    "imageRef": "rednd-084_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p19_1.png",
+    "label": "Truncus arteriosus",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-085",
+    "imageRef": "rednd-085_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p1_1.png",
+    "label": "Cyanosis",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-086",
+    "imageRef": "rednd-086_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p23_1.png",
+    "label": "Cardiac MRI",
+    "category": "Lab & Diagnostics",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-087",
+    "imageRef": "rednd-087_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p3_1.png",
+    "label": "Tetralogy of Fallot",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-088",
+    "imageRef": "rednd-088_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p7_1.png",
+    "label": "Cyanosis",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-089",
+    "imageRef": "rednd-089_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p9_1.png",
+    "label": "Clubbing",
+    "category": "Pathology",
+    "brick": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)"
+  },
+  {
+    "id": "rednd-090",
+    "imageRef": "rednd-090_Brick Exchange - Cystic Fibrosis (1 of 2)_p9_1.png",
+    "label": "Bronchiectasis",
+    "category": "Pathology",
+    "brick": "Cystic Fibrosis (1 of 2)"
+  },
+  {
+    "id": "rednd-091",
+    "imageRef": "rednd-091_Brick Exchange - Cystic Fibrosis (2 of 2)_p2_1.png",
+    "label": "Chest physiotherapy vest",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cystic Fibrosis (2 of 2)"
+  },
+  {
+    "id": "rednd-092",
+    "imageRef": "rednd-092_Brick Exchange - Deep Vein Thrombosis_p10_1.png",
+    "label": "Deep vein thrombosis",
+    "category": "Pathology",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "rednd-093",
+    "imageRef": "rednd-093_Brick Exchange - Deep Vein Thrombosis_p14_1.png",
+    "label": "Compression ultrasound",
+    "category": "Lab & Diagnostics",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "rednd-094",
+    "imageRef": "rednd-094_Brick Exchange - Deep Vein Thrombosis_p16_1.png",
+    "label": "Pneumatic compression device",
+    "category": "Physiology & Mechanisms",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "rednd-095",
+    "imageRef": "rednd-095_Brick Exchange - Deep Vein Thrombosis_p2_1.png",
+    "label": "Embolus",
+    "category": "Pathology",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "rednd-096",
+    "imageRef": "rednd-096_Brick Exchange - Deep Vein Thrombosis_p6_1.png",
+    "label": "Virchow's triad",
+    "category": "Pathology",
+    "brick": "Deep Vein Thrombosis"
+  },
+  {
+    "id": "rednd-097",
+    "imageRef": "rednd-097_Brick Exchange - Development of the Aortic Arches_p3_1.png",
+    "label": "Thyroid gland",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-098",
+    "imageRef": "rednd-098_Brick Exchange - Development of the Aortic Arches_p5_1.png",
+    "label": "Pharyngeal arches",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-099",
+    "imageRef": "rednd-099_Brick Exchange - Development of the Aortic Arches_p5_2.png",
+    "label": "Pharyngeal cleft",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-100",
+    "imageRef": "rednd-100_Brick Exchange - Development of the Aortic Arches_p5_3.png",
+    "label": "Somites",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-101",
+    "imageRef": "rednd-101_Brick Exchange - Development of the Aortic Arches_p6_1.png",
+    "label": "Aortic arches",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-102",
+    "imageRef": "rednd-102_Brick Exchange - Development of the Aortic Arches_p9_1.png",
+    "label": "Ductus arteriosus",
+    "category": "Gross Anatomy",
+    "brick": "Development of the Aortic Arches"
+  },
+  {
+    "id": "rednd-103",
+    "imageRef": "rednd-103_Brick Exchange - Development of the Respiratory Tract_p10_1.png",
+    "label": "Alveolus",
+    "category": "Histology & Cell Biology",
+    "brick": "Development of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-104",
+    "imageRef": "rednd-104_Brick Exchange - Development of the Respiratory Tract_p12_1.png",
+    "label": "Lung",
+    "category": "Histology & Cell Biology",
+    "brick": "Development of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-105",
+    "imageRef": "rednd-105_Brick Exchange - Diagnosis by Cardiovascular Imaging_p10_1.png",
+    "label": "Pleural effusion",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-106",
+    "imageRef": "rednd-106_Brick Exchange - Diagnosis by Cardiovascular Imaging_p17_2.png",
+    "label": "Coronary stent",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-107",
+    "imageRef": "rednd-107_Brick Exchange - Diagnosis by Cardiovascular Imaging_p19_1.png",
+    "label": "Coronary calcium",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-108",
+    "imageRef": "rednd-108_Brick Exchange - Diagnosis by Cardiovascular Imaging_p1_1.png",
+    "label": "Chest X-ray",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-109",
+    "imageRef": "rednd-109_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_1.png",
+    "label": "Abdominal aortic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-110",
+    "imageRef": "rednd-110_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_2.png",
+    "label": "Suprasternal notch view",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-111",
+    "imageRef": "rednd-111_Brick Exchange - Diagnosis by Cardiovascular Imaging_p21_1.png",
+    "label": "Ascending aortic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-112",
+    "imageRef": "rednd-112_Brick Exchange - Diagnosis by Cardiovascular Imaging_p22_1.png",
+    "label": "Abdominal aortic aneurysm",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-113",
+    "imageRef": "rednd-113_Brick Exchange - Diagnosis by Cardiovascular Imaging_p23_1.png",
+    "label": "Angiography",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-114",
+    "imageRef": "rednd-114_Brick Exchange - Diagnosis by Cardiovascular Imaging_p24_1.png",
+    "label": "Peripheral arterial disease",
+    "category": "Pathology",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-115",
+    "imageRef": "rednd-115_Brick Exchange - Diagnosis by Cardiovascular Imaging_p25_1.png",
+    "label": "Traumatic aortic injury",
+    "category": "Pathology",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-116",
+    "imageRef": "rednd-116_Brick Exchange - Diagnosis by Cardiovascular Imaging_p26_1.png",
+    "label": "Traumatic aortic injury mechanisms",
+    "category": "Physiology & Mechanisms",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-117",
+    "imageRef": "rednd-117_Brick Exchange - Diagnosis by Cardiovascular Imaging_p3_1.png",
+    "label": "Aortic dissection",
+    "category": "Pathology",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-118",
+    "imageRef": "rednd-118_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_1.png",
+    "label": "Chest X-ray",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-119",
+    "imageRef": "rednd-119_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_2.png",
+    "label": "Retrosternal mass",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-120",
+    "imageRef": "rednd-120_Brick Exchange - Diagnosis by Cardiovascular Imaging_p6_1.png",
+    "label": "Pericardial effusion",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-121",
+    "imageRef": "rednd-121_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_1.png",
+    "label": "Pulmonary edema",
+    "category": "Pathology",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-122",
+    "imageRef": "rednd-122_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_2.png",
+    "label": "Chest X-ray",
+    "category": "Lab & Diagnostics",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-123",
+    "imageRef": "rednd-123_Brick Exchange - Diagnosis by Cardiovascular Imaging_p9_1.png",
+    "label": "Cardiogenic pulmonary edema",
+    "category": "Physiology & Mechanisms",
+    "brick": "Diagnosis by Cardiovascular Imaging"
+  },
+  {
+    "id": "rednd-124",
+    "imageRef": "rednd-124_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p10_1.png",
+    "label": "Pulmonary edema",
+    "category": "Pathology",
+    "brick": "Diagnosis of Heart Failure: From Clinical Presentation to Classification"
+  },
+  {
+    "id": "rednd-125",
+    "imageRef": "rednd-125_Brick Exchange - Dilated Cardiomyopathy_p7_1.png",
+    "label": "Dilated cardiomyopathy",
+    "category": "Pathology",
+    "brick": "Dilated Cardiomyopathy"
+  },
+  {
+    "id": "rednd-126",
+    "imageRef": "rednd-126_Brick Exchange - Dilated Cardiomyopathy_p9_1.png",
+    "label": "Myocarditis",
+    "category": "Histology & Cell Biology",
+    "brick": "Dilated Cardiomyopathy"
+  },
+  {
+    "id": "rednd-127",
+    "imageRef": "rednd-127_Brick Exchange - Dyslipidemia_ Pathophysiology_p13_1.png",
+    "label": "Xanthelasma",
+    "category": "Pathology",
+    "brick": "Dyslipidemia: Pathophysiology"
+  },
+  {
+    "id": "rednd-128",
+    "imageRef": "rednd-128_Brick Exchange - Dyslipidemia_ Pathophysiology_p14_1.png",
+    "label": "Corneal arcus",
+    "category": "Pathology",
+    "brick": "Dyslipidemia: Pathophysiology"
+  },
+  {
+    "id": "rednd-129",
+    "imageRef": "rednd-129_Brick Exchange - Dyslipidemia_ Pharmacological and Non-Pharmacological options_p14_1.png",
+    "label": "Inclisiran",
+    "category": "Pharmacology",
+    "brick": "Dyslipidemia: Pharmacological and Non-Pharmacological options"
+  },
+  {
+    "id": "rednd-130",
+    "imageRef": "rednd-130_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p12_1.png",
+    "label": "Sinus tachycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia"
+  },
+  {
+    "id": "rednd-131",
+    "imageRef": "rednd-131_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p4_1.png",
+    "label": "12-lead ECG",
+    "category": "Lab & Diagnostics",
+    "brick": "ECG Learning: Sinus Bradycardia and Tachycardia"
+  },
+  {
+    "id": "rednd-132",
+    "imageRef": "rednd-132_Brick Exchange - Edema_p11_1.png",
+    "label": "Ascites",
+    "category": "Pathology",
+    "brick": "Edema"
+  },
+  {
+    "id": "rednd-133",
+    "imageRef": "rednd-133_Brick Exchange - Edema_p2_1.png",
+    "label": "Pitting edema",
+    "category": "Pathology",
+    "brick": "Edema"
+  },
+  {
+    "id": "rednd-134",
+    "imageRef": "rednd-134_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p12_1.png",
+    "label": "Precordial lead placement",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-135",
+    "imageRef": "rednd-135_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p14_1.png",
+    "label": "Einthoven triangle",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-136",
+    "imageRef": "rednd-136_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p15_1.png",
+    "label": "QRS complex",
+    "category": "Physiology & Mechanisms",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-137",
+    "imageRef": "rednd-137_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p18_1.png",
+    "label": "12-lead ECG",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-138",
+    "imageRef": "rednd-138_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p3_1.png",
+    "label": "Cardiac action potential",
+    "category": "Physiology & Mechanisms",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-139",
+    "imageRef": "rednd-139_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p6_1.png",
+    "label": "Limb leads",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-140",
+    "imageRef": "rednd-140_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p9_1.png",
+    "label": "Limb electrode placement",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)"
+  },
+  {
+    "id": "rednd-141",
+    "imageRef": "rednd-141_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p13_1.png",
+    "label": "R-R interval",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+  },
+  {
+    "id": "rednd-142",
+    "imageRef": "rednd-142_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p16_1.png",
+    "label": "12-lead ECG",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+  },
+  {
+    "id": "rednd-143",
+    "imageRef": "rednd-143_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p2_1.png",
+    "label": "ECG lead axes",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+  },
+  {
+    "id": "rednd-144",
+    "imageRef": "rednd-144_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p9_1.png",
+    "label": "Torsades de pointes",
+    "category": "Lab & Diagnostics",
+    "brick": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)"
+  },
+  {
+    "id": "rednd-145",
+    "imageRef": "rednd-145_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p14_1.png",
+    "label": "12-lead ECG",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+  },
+  {
+    "id": "rednd-146",
+    "imageRef": "rednd-146_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p1_1.png",
+    "label": "Cardiac conduction system",
+    "category": "Physiology & Mechanisms",
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+  },
+  {
+    "id": "rednd-147",
+    "imageRef": "rednd-147_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_1.png",
+    "label": "Left bundle branch block",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+  },
+  {
+    "id": "rednd-148",
+    "imageRef": "rednd-148_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_2.png",
+    "label": "Right bundle branch block",
+    "category": "Lab & Diagnostics",
+    "brick": "Heart Blocks: Pathophysiology, Diagnosis and Treatment"
+  },
+  {
+    "id": "rednd-149",
+    "imageRef": "rednd-149_Brick Exchange - Hemodynamics_ Blood Pressure_p2_1.png",
+    "label": "Sphygmomanometer",
+    "category": "Lab & Diagnostics",
+    "brick": "Hemodynamics: Blood Pressure"
+  },
+  {
+    "id": "rednd-150",
+    "imageRef": "rednd-150_Brick Exchange - Histology of Blood Vessels and Lymphatics_p10_1.png",
+    "label": "Elastic fibers",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-151",
+    "imageRef": "rednd-151_Brick Exchange - Histology of Blood Vessels and Lymphatics_p15_1.png",
+    "label": "Vein",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-152",
+    "imageRef": "rednd-152_Brick Exchange - Histology of Blood Vessels and Lymphatics_p17_1.png",
+    "label": "Capillary",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-153",
+    "imageRef": "rednd-153_Brick Exchange - Histology of Blood Vessels and Lymphatics_p22_1.png",
+    "label": "Sinusoidal fenestrae",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-154",
+    "imageRef": "rednd-154_Brick Exchange - Histology of Blood Vessels and Lymphatics_p25_1.png",
+    "label": "Lymphatic capillary",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-155",
+    "imageRef": "rednd-155_Brick Exchange - Histology of Blood Vessels and Lymphatics_p3_1.png",
+    "label": "Muscular artery",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-156",
+    "imageRef": "rednd-156_Brick Exchange - Histology of Blood Vessels and Lymphatics_p9_1.png",
+    "label": "Elastic artery",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of Blood Vessels and Lymphatics"
+  },
+  {
+    "id": "rednd-157",
+    "imageRef": "rednd-157_Brick Exchange - Histology of the Heart_p11_1.png",
+    "label": "Cardiac muscle",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Heart"
+  },
+  {
+    "id": "rednd-158",
+    "imageRef": "rednd-158_Brick Exchange - Histology of the Heart_p13_1.png",
+    "label": "Intercalated disc",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Heart"
+  },
+  {
+    "id": "rednd-159",
+    "imageRef": "rednd-159_Brick Exchange - Histology of the Heart_p2_1.png",
+    "label": "Epicardium",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Heart"
+  },
+  {
+    "id": "rednd-160",
+    "imageRef": "rednd-160_Brick Exchange - Histology of the Respiratory Tract_p13_1.png",
+    "label": "Trachea",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-161",
+    "imageRef": "rednd-161_Brick Exchange - Histology of the Respiratory Tract_p15_1.png",
+    "label": "Bronchiole",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-162",
+    "imageRef": "rednd-162_Brick Exchange - Histology of the Respiratory Tract_p16_1.png",
+    "label": "Bronchus",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-163",
+    "imageRef": "rednd-163_Brick Exchange - Histology of the Respiratory Tract_p18_1.png",
+    "label": "Alveolus",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-164",
+    "imageRef": "rednd-164_Brick Exchange - Histology of the Respiratory Tract_p19_1.png",
+    "label": "Blood-air barrier",
+    "category": "Physiology & Mechanisms",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-165",
+    "imageRef": "rednd-165_Brick Exchange - Histology of the Respiratory Tract_p21_1.png",
+    "label": "Lung",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-166",
+    "imageRef": "rednd-166_Brick Exchange - Histology of the Respiratory Tract_p22_1.png",
+    "label": "Visceral pleura",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-167",
+    "imageRef": "rednd-167_Brick Exchange - Histology of the Respiratory Tract_p3_1.png",
+    "label": "Pseudostratified columnar epithelium",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-168",
+    "imageRef": "rednd-168_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+    "label": "Nasal cavity",
+    "category": "Gross Anatomy",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-169",
+    "imageRef": "rednd-169_Brick Exchange - Histology of the Respiratory Tract_p6_1.png",
+    "label": "Olfactory epithelium",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-170",
+    "imageRef": "rednd-170_Brick Exchange - Histology of the Respiratory Tract_p8_1.png",
+    "label": "Respiratory epithelium",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-171",
+    "imageRef": "rednd-171_Brick Exchange - Histology of the Respiratory Tract_p9_1.png",
+    "label": "Stratified squamous epithelium",
+    "category": "Histology & Cell Biology",
+    "brick": "Histology of the Respiratory Tract"
+  },
+  {
+    "id": "rednd-172",
+    "imageRef": "rednd-172_Brick Exchange - Hypercapnia_p16_1.png",
+    "label": "Capnogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Hypercapnia"
+  },
+  {
+    "id": "rednd-173",
+    "imageRef": "rednd-173_Brick Exchange - Hypercapnia_p9_1.png",
+    "label": "Emphysema",
+    "category": "Pathology",
+    "brick": "Hypercapnia"
+  },
+  {
+    "id": "rednd-174",
+    "imageRef": "rednd-174_Brick Exchange - Hypertension_ Foundations and Frameworks_p12_1.png",
+    "label": "Hypertensive retinopathy",
+    "category": "Lab & Diagnostics",
+    "brick": "Hypertension: Foundations and Frameworks"
+  },
+  {
+    "id": "rednd-175",
+    "imageRef": "rednd-175_Brick Exchange - Hypertensive Emergency_p10_1.png",
+    "label": "Papilledema",
+    "category": "Lab & Diagnostics",
+    "brick": "Hypertensive Emergency"
+  },
+  {
+    "id": "rednd-176",
+    "imageRef": "rednd-176_Brick Exchange - Hypertensive Emergency_p7_1.png",
+    "label": "Schistocytes",
+    "category": "Lab & Diagnostics",
+    "brick": "Hypertensive Emergency"
+  },
+  {
+    "id": "rednd-177",
+    "imageRef": "rednd-177_Brick Exchange - Hypertensive Emergency_p8_1.png",
+    "label": "Fibrinoid necrosis",
+    "category": "Pathology",
+    "brick": "Hypertensive Emergency"
+  },
+  {
+    "id": "rednd-178",
+    "imageRef": "rednd-178_Brick Exchange - Hypotension_ Causes, Consequences, and Management_p8_1.png",
+    "label": "Trendelenburg position",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypotension: Causes, Consequences, and Management"
+  },
+  {
+    "id": "rednd-179",
+    "imageRef": "rednd-179_Brick Exchange - Hypoxemia_p18_1.png",
+    "label": "Alveolar dead space",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypoxemia"
+  },
+  {
+    "id": "rednd-180",
+    "imageRef": "rednd-180_Brick Exchange - Hypoxemia_p23_1.png",
+    "label": "Oxygen-hemoglobin dissociation curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypoxemia"
+  },
+  {
+    "id": "rednd-181",
+    "imageRef": "rednd-181_Brick Exchange - Hypoxemia_p3_1.png",
+    "label": "Cyanosis",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypoxemia"
+  },
+  {
+    "id": "rednd-182",
+    "imageRef": "rednd-182_Brick Exchange - Hypoxemia_p7_1.png",
+    "label": "Alveolar gas exchange",
+    "category": "Physiology & Mechanisms",
+    "brick": "Hypoxemia"
+  },
+  {
+    "id": "rednd-183",
+    "imageRef": "rednd-183_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
+    "label": "Honeycomb lung",
+    "category": "Pathology",
+    "brick": "Idiopathic Pulmonary Fibrosis"
+  },
+  {
+    "id": "rednd-184",
+    "imageRef": "rednd-184_Brick Exchange - Idiopathic Pulmonary Fibrosis_p7_1.png",
+    "label": "Pulmonary fibrosis",
+    "category": "Pathology",
+    "brick": "Idiopathic Pulmonary Fibrosis"
+  },
+  {
+    "id": "rednd-185",
+    "imageRef": "rednd-185_Brick Exchange - Infective Endocarditis_p11_1.png",
+    "label": "Septic pulmonary emboli",
+    "category": "Lab & Diagnostics",
+    "brick": "Infective Endocarditis"
+  },
+  {
+    "id": "rednd-186",
+    "imageRef": "rednd-186_Brick Exchange - Infective Endocarditis_p16_1.png",
+    "label": "Splinter hemorrhages",
+    "category": "Pathology",
+    "brick": "Infective Endocarditis"
+  },
+  {
+    "id": "rednd-187",
+    "imageRef": "rednd-187_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_2.png",
+    "label": "Palatine tonsil",
+    "category": "Gross Anatomy",
+    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea"
+  },
+  {
+    "id": "rednd-188",
+    "imageRef": "rednd-188_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p17_1.png",
+    "label": "Tripod position",
+    "category": "Pathology",
+    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea"
+  },
+  {
+    "id": "rednd-189",
+    "imageRef": "rednd-189_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p9_1.png",
+    "label": "Digital clubbing",
+    "category": "Pathology",
+    "brick": "Interstitial Lung Disease: Foundations and Frameworks"
+  },
+  {
+    "id": "rednd-190",
+    "imageRef": "rednd-190_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p13_1.png",
+    "label": "Myocyte disarray",
+    "category": "Histology & Cell Biology",
+    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy"
+  },
+  {
+    "id": "rednd-191",
+    "imageRef": "rednd-191_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p6_1.png",
+    "label": "Left ventricular hypertrophy",
+    "category": "Pathology",
+    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy"
+  },
+  {
+    "id": "rednd-192",
+    "imageRef": "rednd-192_Brick Exchange - Management of Shock_p14_1.png",
+    "label": "Intra-aortic balloon pump",
+    "category": "Physiology & Mechanisms",
+    "brick": "Management of Shock"
+  },
+  {
+    "id": "rednd-193",
+    "imageRef": "rednd-193_Brick Exchange - Management of Shock_p17_1.png",
+    "label": "Swan-Ganz catheter",
+    "category": "Lab & Diagnostics",
+    "brick": "Management of Shock"
+  },
+  {
+    "id": "rednd-194",
+    "imageRef": "rednd-194_Brick Exchange - Management of Shock_p7_1.png",
+    "label": "Pulmonary edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Management of Shock"
+  },
+  {
+    "id": "rednd-195",
+    "imageRef": "rednd-195_Brick Exchange - Measuring Cardiac Function_p8_1.png",
+    "label": "Fick principle",
+    "category": "Physiology & Mechanisms",
+    "brick": "Measuring Cardiac Function"
+  },
+  {
+    "id": "rednd-196",
+    "imageRef": "rednd-196_Brick Exchange - Measuring Cardiac Function_p9_1.png",
+    "label": "Indicator dilution",
+    "category": "Physiology & Mechanisms",
+    "brick": "Measuring Cardiac Function"
+  },
+  {
+    "id": "rednd-197",
+    "imageRef": "rednd-197_Brick Exchange - Mediastinum (Part 1 of 2)_p13_1.png",
+    "label": "Esophagus",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-198",
+    "imageRef": "rednd-198_Brick Exchange - Mediastinum (Part 1 of 2)_p14_1.png",
+    "label": "Mediastinum",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-199",
+    "imageRef": "rednd-199_Brick Exchange - Mediastinum (Part 1 of 2)_p15_1.png",
+    "label": "Ligamentum arteriosum",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-200",
+    "imageRef": "rednd-200_Brick Exchange - Mediastinum (Part 1 of 2)_p16_1.png",
+    "label": "Thymus",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-201",
+    "imageRef": "rednd-201_Brick Exchange - Mediastinum (Part 1 of 2)_p17_1.png",
+    "label": "Retrosternal mass",
+    "category": "Lab & Diagnostics",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-202",
+    "imageRef": "rednd-202_Brick Exchange - Mediastinum (Part 1 of 2)_p19_1.png",
+    "label": "Thoracic duct",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-203",
+    "imageRef": "rednd-203_Brick Exchange - Mediastinum (Part 1 of 2)_p1_1.png",
+    "label": "SVC syndrome",
+    "category": "Pathology",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-204",
+    "imageRef": "rednd-204_Brick Exchange - Mediastinum (Part 1 of 2)_p20_1.png",
+    "label": "Mediastinal lymph nodes",
+    "category": "Gross Anatomy",
+    "brick": "Mediastinum (Part 1 of 2)"
+  },
+  {
+    "id": "rednd-205",
+    "imageRef": "rednd-205_Brick Exchange - Medium-Vessel Vasculitis_p16_1.png",
+    "label": "Microaneurysms",
+    "category": "Lab & Diagnostics",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "rednd-206",
+    "imageRef": "rednd-206_Brick Exchange - Medium-Vessel Vasculitis_p18_1.png",
+    "label": "Digital gangrene",
+    "category": "Pathology",
+    "brick": "Medium-Vessel Vasculitis"
+  },
+  {
+    "id": "rednd-207",
+    "imageRef": "rednd-207_Brick Exchange - Mesothelioma_p5_1.png",
+    "label": "Pleural plaques",
+    "category": "Pathology",
+    "brick": "Mesothelioma"
+  },
+  {
+    "id": "rednd-208",
+    "imageRef": "rednd-208_Brick Exchange - Mesothelioma_p8_1.png",
+    "label": "Mesothelioma",
+    "category": "Pathology",
+    "brick": "Mesothelioma"
+  },
+  {
+    "id": "rednd-209",
+    "imageRef": "rednd-209_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p24_1.png",
+    "label": "Annuloplasty ring",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "rednd-210",
+    "imageRef": "rednd-210_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p2_1.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "rednd-211",
+    "imageRef": "rednd-211_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p9_1.png",
+    "label": "Myxomatous degeneration",
+    "category": "Histology & Cell Biology",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse"
+  },
+  {
+    "id": "rednd-212",
+    "imageRef": "rednd-212_Brick Exchange - Mitral Stenosis_p17_1.png",
+    "label": "Balloon valvuloplasty",
+    "category": "Lab & Diagnostics",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "rednd-213",
+    "imageRef": "rednd-213_Brick Exchange - Mitral Stenosis_p2_1.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "rednd-214",
+    "imageRef": "rednd-214_Brick Exchange - Mitral Stenosis_p5_1.png",
+    "label": "Mitral valve",
+    "category": "Gross Anatomy",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "rednd-215",
+    "imageRef": "rednd-215_Brick Exchange - Mitral Stenosis_p7_1.png",
+    "label": "Mitral stenosis",
+    "category": "Pathology",
+    "brick": "Mitral Stenosis"
+  },
+  {
+    "id": "rednd-216",
+    "imageRef": "rednd-216_Brick Exchange - Myocardial Infarction_p24_1.png",
+    "label": "Contraction band necrosis",
+    "category": "Pathology",
+    "brick": "Myocardial Infarction"
+  },
+  {
+    "id": "rednd-217",
+    "imageRef": "rednd-217_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
+    "label": "Hyaline membranes",
+    "category": "Pathology",
+    "brick": "Neonatal Respiratory Distress Syndrome"
+  },
+  {
+    "id": "rednd-218",
+    "imageRef": "rednd-218_Brick Exchange - Nonbacterial Thrombotic Endocarditis_p5_1.png",
+    "label": "Vegetations",
+    "category": "Pathology",
+    "brick": "Nonbacterial Thrombotic Endocarditis"
+  },
+  {
+    "id": "rednd-219",
+    "imageRef": "rednd-219_Brick Exchange - Obstructive Congenital Heart Defects_p10_1.png",
+    "label": "Rib notching",
+    "category": "Lab & Diagnostics",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "rednd-220",
+    "imageRef": "rednd-220_Brick Exchange - Obstructive Congenital Heart Defects_p11_1.png",
+    "label": "Coarctation of the aorta",
+    "category": "Lab & Diagnostics",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "rednd-221",
+    "imageRef": "rednd-221_Brick Exchange - Obstructive Congenital Heart Defects_p14_1.png",
+    "label": "Pulmonary valve stenosis",
+    "category": "Pathology",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "rednd-222",
+    "imageRef": "rednd-222_Brick Exchange - Obstructive Congenital Heart Defects_p18_1.png",
+    "label": "Aortic stenosis",
+    "category": "Pathology",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "rednd-223",
+    "imageRef": "rednd-223_Brick Exchange - Obstructive Congenital Heart Defects_p2_1.png",
+    "label": "Aortic coarctation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Obstructive Congenital Heart Defects"
+  },
+  {
+    "id": "rednd-224",
+    "imageRef": "rednd-224_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
+    "label": "Digital clubbing",
+    "category": "Pathology",
+    "brick": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks"
+  },
+  {
+    "id": "rednd-225",
+    "imageRef": "rednd-225_Brick Exchange - Overview of Respiratory Physiology_p5_1.png",
+    "label": "Mucociliary escalator",
+    "category": "Histology & Cell Biology",
+    "brick": "Overview of Respiratory Physiology"
+  },
+  {
+    "id": "rednd-226",
+    "imageRef": "rednd-226_Brick Exchange - Oxygen and Carbon Dioxide Transport_p12_1.png",
+    "label": "Oxyhemoglobin dissociation curve",
+    "category": "Physiology & Mechanisms",
+    "brick": "Oxygen and Carbon Dioxide Transport"
+  },
+  {
+    "id": "rednd-227",
+    "imageRef": "rednd-227_Brick Exchange - Oxygen and Carbon Dioxide Transport_p2_1.png",
+    "label": "Hemoglobin",
+    "category": "Physiology & Mechanisms",
+    "brick": "Oxygen and Carbon Dioxide Transport"
+  },
+  {
+    "id": "rednd-228",
+    "imageRef": "rednd-228_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p15_1.png",
+    "label": "Pericardiocentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Pericardial Effusion and Cardiac Tamponade"
+  },
+  {
+    "id": "rednd-229",
+    "imageRef": "rednd-229_Brick Exchange - Peripheral Arterial Disease_p10_1.png",
+    "label": "Ankle-brachial index",
+    "category": "Lab & Diagnostics",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "rednd-230",
+    "imageRef": "rednd-230_Brick Exchange - Peripheral Arterial Disease_p18_1.png",
+    "label": "Stent placement",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "rednd-231",
+    "imageRef": "rednd-231_Brick Exchange - Peripheral Arterial Disease_p19_1.png",
+    "label": "Endarterectomy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "rednd-232",
+    "imageRef": "rednd-232_Brick Exchange - Peripheral Arterial Disease_p20_1.png",
+    "label": "Vein graft bypass",
+    "category": "Physiology & Mechanisms",
+    "brick": "Peripheral Arterial Disease"
+  },
+  {
+    "id": "rednd-233",
+    "imageRef": "rednd-233_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p2_1.png",
+    "label": "Respiratory membrane",
+    "category": "Histology & Cell Biology",
+    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2"
+  },
+  {
+    "id": "rednd-234",
+    "imageRef": "rednd-234_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p6_1.png",
+    "label": "Alveolar gas exchange",
+    "category": "Physiology & Mechanisms",
+    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2"
+  },
+  {
+    "id": "rednd-235",
+    "imageRef": "rednd-235_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
+    "label": "Respiratory muscles",
+    "category": "Gross Anatomy",
+    "brick": "Physiology: Mechanics and pressures of breathing"
+  },
+  {
+    "id": "rednd-236",
+    "imageRef": "rednd-236_Brick Exchange - Pleural Effusion_p13_1.png",
+    "label": "Pleural effusion",
+    "category": "Lab & Diagnostics",
+    "brick": "Pleural Effusion"
+  },
+  {
+    "id": "rednd-237",
+    "imageRef": "rednd-237_Brick Exchange - Pleural Effusion_p17_1.png",
+    "label": "Thoracentesis",
+    "category": "Lab & Diagnostics",
+    "brick": "Pleural Effusion"
+  },
+  {
+    "id": "rednd-238",
+    "imageRef": "rednd-238_Brick Exchange - Pneumoconioses_p11_1.png",
+    "label": "Silicotic nodule",
+    "category": "Histology & Cell Biology",
+    "brick": "Pneumoconioses"
+  },
+  {
+    "id": "rednd-239",
+    "imageRef": "rednd-239_Brick Exchange - Pneumoconioses_p13_1.png",
+    "label": "Asbestos bodies",
+    "category": "Histology & Cell Biology",
+    "brick": "Pneumoconioses"
+  },
+  {
+    "id": "rednd-240",
+    "imageRef": "rednd-240_Brick Exchange - Pneumoconioses_p7_1.png",
+    "label": "Anthracosis",
+    "category": "Histology & Cell Biology",
+    "brick": "Pneumoconioses"
+  },
+  {
+    "id": "rednd-241",
+    "imageRef": "rednd-241_Brick Exchange - Pneumothorax_p14_1.png",
+    "label": "Tension pneumothorax",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-242",
+    "imageRef": "rednd-242_Brick Exchange - Pneumothorax_p20_1.png",
+    "label": "Subcutaneous emphysema",
+    "category": "Lab & Diagnostics",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-243",
+    "imageRef": "rednd-243_Brick Exchange - Pneumothorax_p26_1.png",
+    "label": "Chest drainage system",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-244",
+    "imageRef": "rednd-244_Brick Exchange - Pneumothorax_p28_1.png",
+    "label": "Pigtail catheter",
+    "category": "Lab & Diagnostics",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-245",
+    "imageRef": "rednd-245_Brick Exchange - Pneumothorax_p2_1.png",
+    "label": "Chest radiograph",
+    "category": "Lab & Diagnostics",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-246",
+    "imageRef": "rednd-246_Brick Exchange - Pneumothorax_p5_1.png",
+    "label": "Pneumothorax",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-247",
+    "imageRef": "rednd-247_Brick Exchange - Pneumothorax_p8_1.png",
+    "label": "Bleb",
+    "category": "Pathology",
+    "brick": "Pneumothorax"
+  },
+  {
+    "id": "rednd-248",
+    "imageRef": "rednd-248_Brick Exchange - Pressure Volume (PV) Loops_p8_1.png",
+    "label": "Pressure-volume loop",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pressure Volume (PV) Loops"
+  },
+  {
+    "id": "rednd-249",
+    "imageRef": "rednd-249_Brick Exchange - Primary (Essential) Hypertension_p5_1.png",
+    "label": "Renin-angiotensin-aldosterone system",
+    "category": "Physiology & Mechanisms",
+    "brick": "Primary (Essential) Hypertension"
+  },
+  {
+    "id": "rednd-250",
+    "imageRef": "rednd-250_Brick Exchange - Pulmonary Circulation_p15_1.png",
+    "label": "Hypoxic pulmonary vasoconstriction",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pulmonary Circulation"
+  },
+  {
+    "id": "rednd-251",
+    "imageRef": "rednd-251_Brick Exchange - Pulmonary Circulation_p23_1.png",
+    "label": "Pulmonary edema",
+    "category": "Pathology",
+    "brick": "Pulmonary Circulation"
+  },
+  {
+    "id": "rednd-252",
+    "imageRef": "rednd-252_Brick Exchange - Pulmonary Circulation_p7_1.png",
+    "label": "West lung zones",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pulmonary Circulation"
+  },
+  {
+    "id": "rednd-253",
+    "imageRef": "rednd-253_Brick Exchange - Pulmonary Function Tests (PFT)_p10_1.png",
+    "label": "Flow-volume loop",
+    "category": "Lab & Diagnostics",
+    "brick": "Pulmonary Function Tests (PFT)"
+  },
+  {
+    "id": "rednd-254",
+    "imageRef": "rednd-254_Brick Exchange - Pulmonary Function Tests (PFT)_p6_1.png",
+    "label": "Spirometry",
+    "category": "Lab & Diagnostics",
+    "brick": "Pulmonary Function Tests (PFT)"
+  },
+  {
+    "id": "rednd-255",
+    "imageRef": "rednd-255_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p7_1.png",
+    "label": "West lung zones",
+    "category": "Physiology & Mechanisms",
+    "brick": "Pulmonary Ventilation and Perfusion (V Q)"
+  },
+  {
+    "id": "rednd-256",
+    "imageRef": "rednd-256_Brick Exchange - Respiratory Alkalosis_p11_1.png",
+    "label": "Pulmonary embolism",
+    "category": "Lab & Diagnostics",
+    "brick": "Respiratory Alkalosis"
+  },
+  {
+    "id": "rednd-257",
+    "imageRef": "rednd-257_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p4_1.png",
+    "label": "Oxygen cascade",
+    "category": "Physiology & Mechanisms",
+    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2"
+  },
+  {
+    "id": "rednd-258",
+    "imageRef": "rednd-258_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p7_1.png",
+    "label": "Alveolar gas equation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Respiratory: Alveolar ventilation and Dead space 1 of 2"
+  },
+  {
+    "id": "rednd-259",
+    "imageRef": "rednd-259_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p11_1.png",
+    "label": "Elek test",
+    "category": "Lab & Diagnostics",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-260",
+    "imageRef": "rednd-260_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p19_1.png",
+    "label": "Bordetella pertussis",
+    "category": "Histology & Cell Biology",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-261",
+    "imageRef": "rednd-261_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+    "label": "Corynebacterium diphtheriae",
+    "category": "Histology & Cell Biology",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-262",
+    "imageRef": "rednd-262_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
+    "label": "Diphtheritic pseudomembrane",
+    "category": "Pathology",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-263",
+    "imageRef": "rednd-263_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p5_1.png",
+    "label": "Bull neck",
+    "category": "Pathology",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-264",
+    "imageRef": "rednd-264_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+    "label": "Metachromatic granules",
+    "category": "Histology & Cell Biology",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae"
+  },
+  {
+    "id": "rednd-265",
+    "imageRef": "rednd-265_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p13_1.png",
+    "label": "Pulse CO-oximeter",
+    "category": "Lab & Diagnostics",
+    "brick": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning"
+  },
+  {
+    "id": "rednd-266",
+    "imageRef": "rednd-266_Brick Exchange - Restrictive Cardiomyopathy_p10_1.png",
+    "label": "Cardiac amyloidosis",
+    "category": "Pathology",
+    "brick": "Restrictive Cardiomyopathy"
+  },
+  {
+    "id": "rednd-267",
+    "imageRef": "rednd-267_Brick Exchange - Restrictive Cardiomyopathy_p11_1.png",
+    "label": "Congo red birefringence",
+    "category": "Lab & Diagnostics",
+    "brick": "Restrictive Cardiomyopathy"
+  },
+  {
+    "id": "rednd-268",
+    "imageRef": "rednd-268_Brick Exchange - Restrictive Cardiomyopathy_p11_2.png",
+    "label": "Cardiac sarcoidosis",
+    "category": "Pathology",
+    "brick": "Restrictive Cardiomyopathy"
+  },
+  {
+    "id": "rednd-269",
+    "imageRef": "rednd-269_Brick Exchange - Restrictive Cardiomyopathy_p12_1.png",
+    "label": "Prussian blue iron stain",
+    "category": "Lab & Diagnostics",
+    "brick": "Restrictive Cardiomyopathy"
+  },
+  {
+    "id": "rednd-270",
+    "imageRef": "rednd-270_Brick Exchange - Restrictive Cardiomyopathy_p14_1.png",
+    "label": "Cardiac MRI",
+    "category": "Lab & Diagnostics",
+    "brick": "Restrictive Cardiomyopathy"
+  },
+  {
+    "id": "rednd-271",
+    "imageRef": "rednd-271_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p3_1.png",
+    "label": "J point",
+    "category": "Lab & Diagnostics",
+    "brick": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia"
+  },
+  {
+    "id": "rednd-272",
+    "imageRef": "rednd-272_Brick Exchange - Sarcoidosis_p13_1.png",
+    "label": "Erythema nodosum",
+    "category": "Pathology",
+    "brick": "Sarcoidosis"
+  },
+  {
+    "id": "rednd-273",
+    "imageRef": "rednd-273_Brick Exchange - Secondary Hypertension_p12_1.png",
+    "label": "Cushing syndrome",
+    "category": "Pathology",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "rednd-274",
+    "imageRef": "rednd-274_Brick Exchange - Secondary Hypertension_p15_1.png",
+    "label": "Obstructive sleep apnea",
+    "category": "Physiology & Mechanisms",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "rednd-275",
+    "imageRef": "rednd-275_Brick Exchange - Secondary Hypertension_p7_1.png",
+    "label": "Fibromuscular dysplasia",
+    "category": "Pathology",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "rednd-276",
+    "imageRef": "rednd-276_Brick Exchange - Secondary Hypertension_p8_1.png",
+    "label": "Renal artery stenosis",
+    "category": "Lab & Diagnostics",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "rednd-277",
+    "imageRef": "rednd-277_Brick Exchange - Secondary Hypertension_p9_1.png",
+    "label": "Fibromuscular dysplasia",
+    "category": "Lab & Diagnostics",
+    "brick": "Secondary Hypertension"
+  },
+  {
+    "id": "rednd-278",
+    "imageRef": "rednd-278_Brick Exchange - Sinus Bradycardia and Related Disorders_p14_1.png",
+    "label": "Junctional rhythm",
+    "category": "Lab & Diagnostics",
+    "brick": "Sinus Bradycardia and Related Disorders"
+  },
+  {
+    "id": "rednd-279",
+    "imageRef": "rednd-279_Brick Exchange - Small-Vessel Vasculitis_p11_1.png",
+    "label": "Palpable purpura",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "rednd-280",
+    "imageRef": "rednd-280_Brick Exchange - Small-Vessel Vasculitis_p8_1.png",
+    "label": "Nasal polyps",
+    "category": "Pathology",
+    "brick": "Small-Vessel Vasculitis"
+  },
+  {
+    "id": "rednd-281",
+    "imageRef": "rednd-281_Brick Exchange - Starling Forces_p19_1.png",
+    "label": "Pitting edema",
+    "category": "Lab & Diagnostics",
+    "brick": "Starling Forces"
+  },
+  {
+    "id": "rednd-282",
+    "imageRef": "rednd-282_Brick Exchange - Superficial Venous Disease_p10_1.png",
+    "label": "Superficial thrombophlebitis",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-283",
+    "imageRef": "rednd-283_Brick Exchange - Superficial Venous Disease_p13_1.png",
+    "label": "Superficial thrombophlebitis",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-284",
+    "imageRef": "rednd-284_Brick Exchange - Superficial Venous Disease_p2_1.png",
+    "label": "Chronic venous insufficiency",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-285",
+    "imageRef": "rednd-285_Brick Exchange - Superficial Venous Disease_p4_1.png",
+    "label": "Stasis dermatitis",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-286",
+    "imageRef": "rednd-286_Brick Exchange - Superficial Venous Disease_p6_1.png",
+    "label": "Varicose vein",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-287",
+    "imageRef": "rednd-287_Brick Exchange - Superficial Venous Disease_p7_1.png",
+    "label": "Lipodermatosclerosis",
+    "category": "Pathology",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-288",
+    "imageRef": "rednd-288_Brick Exchange - Superficial Venous Disease_p8_1.png",
+    "label": "Sclerotherapy",
+    "category": "Physiology & Mechanisms",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-289",
+    "imageRef": "rednd-289_Brick Exchange - Superficial Venous Disease_p9_1.png",
+    "label": "Endovenous ablation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Superficial Venous Disease"
+  },
+  {
+    "id": "rednd-290",
+    "imageRef": "rednd-290_Brick Exchange - Tobacco Smoking_p3_1.png",
+    "label": "E-cigarette",
+    "category": "Pharmacology",
+    "brick": "Tobacco Smoking"
+  },
+  {
+    "id": "rednd-291",
+    "imageRef": "rednd-291_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
+    "label": "Triangle of safety",
+    "category": "Gross Anatomy",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-292",
+    "imageRef": "rednd-292_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p13_1.png",
+    "label": "Pneumomediastinum",
+    "category": "Lab & Diagnostics",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-293",
+    "imageRef": "rednd-293_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p17_1.png",
+    "label": "Tension pneumothorax",
+    "category": "Lab & Diagnostics",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-294",
+    "imageRef": "rednd-294_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p3_1.png",
+    "label": "Flail chest",
+    "category": "Pathology",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-295",
+    "imageRef": "rednd-295_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
+    "label": "Diaphragmatic rupture",
+    "category": "Lab & Diagnostics",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-296",
+    "imageRef": "rednd-296_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p9_1.png",
+    "label": "Chylothorax",
+    "category": "Pathology",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung"
+  },
+  {
+    "id": "rednd-297",
+    "imageRef": "rednd-297_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p12_1.png",
+    "label": "Jugular venous distension",
+    "category": "Lab & Diagnostics",
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+  },
+  {
+    "id": "rednd-298",
+    "imageRef": "rednd-298_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p20_1.png",
+    "label": "Echocardiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+  },
+  {
+    "id": "rednd-299",
+    "imageRef": "rednd-299_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p2_1.png",
+    "label": "Tricuspid valve",
+    "category": "Gross Anatomy",
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis"
+  },
+  {
+    "id": "rednd-300",
+    "imageRef": "rednd-300_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
+    "label": "Coronary artery",
+    "category": "Gross Anatomy",
+    "brick": "Vasculature and Lymphatics of the Heart"
+  },
+  {
+    "id": "rednd-301",
+    "imageRef": "rednd-301_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
+    "label": "Coronary artery",
+    "category": "Gross Anatomy",
+    "brick": "Vasculature and Lymphatics of the Heart"
+  },
+  {
+    "id": "rednd-302",
+    "imageRef": "rednd-302_Brick Exchange - Vasculature and Lymphatics of the Heart_p6_1.png",
+    "label": "Coronary angiogram",
+    "category": "Lab & Diagnostics",
+    "brick": "Vasculature and Lymphatics of the Heart"
+  },
+  {
+    "id": "rednd-303",
+    "imageRef": "rednd-303_Brick Exchange - Ventricular Arrhythmias_p10_1.png",
+    "label": "Ventricular tachycardia",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "rednd-304",
+    "imageRef": "rednd-304_Brick Exchange - Ventricular Arrhythmias_p12_1.png",
+    "label": "Pacemaker",
+    "category": "Physiology & Mechanisms",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "rednd-305",
+    "imageRef": "rednd-305_Brick Exchange - Ventricular Arrhythmias_p17_1.png",
+    "label": "Torsades de pointes",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  },
+  {
+    "id": "rednd-306",
+    "imageRef": "rednd-306_Brick Exchange - Ventricular Arrhythmias_p7_2.png",
+    "label": "Ventricular fibrillation",
+    "category": "Lab & Diagnostics",
+    "brick": "Ventricular Arrhythmias"
+  }
+]
